@@ -1,0 +1,214 @@
+{
+    "version": "4.20.0",
+    "title": "State Template",
+    "layout_type": "template",
+    "layout_content": [
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#2b87da",
+                "padding": "80px|0px|80px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "50%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h1 style='color: #ffffff; font-size: 48px; line-height: 1.2em;'>Find Bail Bonds in [state_name]</h1>",
+                                    "css": {
+                                        "text_align": "left"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "<p style='color: #ffffff; font-size: 18px;'>Find trusted bail bondsmen available 24/7 across [state_name]. Connect with licensed professionals in your area instantly.</p>",
+                                    "css": {
+                                        "text_align": "left"
+                                    }
+                                },
+                                {
+                                    "type": "search",
+                                    "placeholder": "Search for bail bondsmen in [state_name]...",
+                                    "button_text": "Find Bail Bondsmen",
+                                    "css": {
+                                        "width": "100%",
+                                        "margin_top": "20px"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "50%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "map",
+                                    "address": "[state_name]",
+                                    "zoom_level": "6",
+                                    "height": "400px",
+                                    "css": {
+                                        "border_radius": "8px",
+                                        "box_shadow": "0px 4px 12px rgba(0,0,0,0.1)"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#ffffff",
+                "padding": "60px|0px|60px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2 style='text-align: center; color: #333333;'>Your Trusted Guide to Finding Bail Bondsmen in [state_name]</h2>",
+                                    "css": {
+                                        "font_size": "36px",
+                                        "margin_bottom": "20px"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "<p style='text-align: center; color: #666666;'>We understand that finding a reliable bail bondsman can be stressful, especially in urgent situations. BailBondsBuddy.com simplifies the process by connecting you with trusted bail bond professionals in [state_name], any time of day or night.</p>",
+                                    "css": {
+                                        "font_size": "18px",
+                                        "line_height": "1.6em"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "33.33%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "blurb",
+                                    "title": "24/7 Availability",
+                                    "content": "Emergency bail bond services available anytime, day or night, when you need help the most.",
+                                    "use_icon": true,
+                                    "font_icon": "\u23f0",
+                                    "css": {
+                                        "text_align": "center"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "33.33%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "blurb",
+                                    "title": "Verified Bondsmen",
+                                    "content": "All bail bondsmen are licensed and verified in [state_name].",
+                                    "use_icon": true,
+                                    "font_icon": "\u2713",
+                                    "css": {
+                                        "text_align": "center"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "33.33%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "blurb",
+                                    "title": "Local Coverage",
+                                    "content": "From small towns to major cities, find bondsmen across all [state_name] counties.",
+                                    "use_icon": true,
+                                    "font_icon": "\ud83d\udccd",
+                                    "css": {
+                                        "text_align": "center"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#f5f5f5",
+                "padding": "60px|0px|60px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2 style='text-align: center; color: #333333;'>Counties in [state_name]</h2>",
+                                    "css": {
+                                        "font_size": "32px",
+                                        "margin_bottom": "40px"
+                                    }
+                                },
+                                {
+                                    "type": "blog",
+                                    "fullwidth": "off",
+                                    "posts_number": "12",
+                                    "include_categories": "[state_counties_category]",
+                                    "show_thumbnail": true,
+                                    "show_content": false,
+                                    "show_author": false,
+                                    "show_date": false,
+                                    "show_categories": false,
+                                    "show_pagination": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

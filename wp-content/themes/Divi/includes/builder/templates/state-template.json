@@ -1,0 +1,236 @@
+{
+    "version": "4.20.0",
+    "title": "State Template",
+    "layout_type": "template",
+    "layout_content": [
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#ffffff",
+                "padding": "50px|0px|50px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h1>Bail Bonds in [state_name]</h1>",
+                                    "css": {
+                                        "text_align": "center",
+                                        "text_color": "#2b87da",
+                                        "font_size": "48px"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "<p>Find trusted bail bondsmen available 24/7 across [state_name]. We connect you with licensed professionals who can help secure release quickly and efficiently.</p>",
+                                    "css": {
+                                        "text_align": "center",
+                                        "font_size": "18px",
+                                        "line_height": "1.8em"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#f5f5f5",
+                "padding": "50px|0px|50px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "60%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "map",
+                                    "address": "[state_name]",
+                                    "zoom_level": "6",
+                                    "height": "400px"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px",
+                                "width": "40%"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2>[state_name] Bail Bonds Information</h2>",
+                                    "css": {
+                                        "font_size": "32px",
+                                        "color": "#2b87da"
+                                    }
+                                },
+                                {
+                                    "type": "blurb",
+                                    "title": "Population",
+                                    "content": "[state_population]",
+                                    "use_icon": true,
+                                    "font_icon": "%%36%%",
+                                    "icon_color": "#2b87da"
+                                },
+                                {
+                                    "type": "blurb",
+                                    "title": "Emergency Contact",
+                                    "content": "[emergency_contact]",
+                                    "use_icon": true,
+                                    "font_icon": "%%264%%",
+                                    "icon_color": "#e02b20"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#ffffff",
+                "padding": "50px|0px|50px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2>Counties in [state_name]</h2>",
+                                    "css": {
+                                        "text_align": "center",
+                                        "font_size": "36px",
+                                        "color": "#2b87da"
+                                    }
+                                },
+                                {
+                                    "type": "blog",
+                                    "fullwidth": "off",
+                                    "posts_number": "12",
+                                    "include_categories": "[county_category_id]",
+                                    "show_thumbnail": "on",
+                                    "show_content": "off",
+                                    "show_author": "off",
+                                    "show_date": "off",
+                                    "show_categories": "off",
+                                    "show_pagination": "on"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#f5f5f5",
+                "padding": "50px|0px|50px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2>[state_name] Bail Bond Laws</h2>",
+                                    "css": {
+                                        "text_align": "left",
+                                        "font_size": "32px",
+                                        "color": "#2b87da"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "[state_laws]",
+                                    "css": {
+                                        "text_align": "left",
+                                        "font_size": "16px",
+                                        "line_height": "1.8em"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "css": {
+                "background_color": "#2b87da",
+                "padding": "30px|0px|30px|0px"
+            },
+            "modules": [
+                {
+                    "type": "row",
+                    "columns": [
+                        {
+                            "type": "column",
+                            "css": {
+                                "padding": "20px|20px|20px|20px"
+                            },
+                            "modules": [
+                                {
+                                    "type": "text",
+                                    "content": "<h2>Need Immediate Assistance?</h2>",
+                                    "css": {
+                                        "text_align": "center",
+                                        "color": "#ffffff",
+                                        "font_size": "36px"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "button_text": "Find a Bail Bondsman Now",
+                                    "button_url": "#",
+                                    "css": {
+                                        "alignment": "center",
+                                        "text_color": "#2b87da",
+                                        "background_color": "#ffffff",
+                                        "border_radius": "5px",
+                                        "font_size": "20px",
+                                        "padding": "15px|30px|15px|30px"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 

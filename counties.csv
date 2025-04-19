@@ -1,0 +1,10 @@
+state,county_name,population,county_seat,county_url_slug
+Oklahoma,Oklahoma County,796292,Oklahoma City,oklahoma-county
+Oklahoma,Tulsa County,651552,Tulsa,tulsa-county
+Oklahoma,Cleveland County,295528,Norman,cleveland-county
+Texas,Harris County,4731145,Houston,harris-county
+Texas,Dallas County,2635516,Dallas,dallas-county
+Texas,Tarrant County,2102515,Fort Worth,tarrant-county
+Florida,Miami-Dade County,2701767,Miami,miami-dade-county
+Florida,Broward County,1944375,Fort Lauderdale,broward-county
+Florida,Palm Beach County,1497987,West Palm Beach,palm-beach-county 

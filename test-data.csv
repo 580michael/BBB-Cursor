@@ -1,0 +1,4 @@
+state_name,state_population,emergency_contact,county_category_id,state_laws
+Oklahoma,3990443,911,15,"In Oklahoma, bail bonds are regulated under Title 59 of the Oklahoma Statutes. Key points: \n- Bail bondsmen must be licensed by the state \n- Maximum premium rate is 10% of bond amount \n- Bondsmen must maintain an office in the state"
+Texas,29527941,911,16,"Texas bail bond laws are governed by Chapter 1704 of the Texas Occupations Code. Key regulations: \n- Bondsmen must be licensed by county bail bond boards \n- Minimum security requirement of $50,000 \n- Maximum premium rate is 15% of bond amount"
+Florida,21944577,911,17,"Florida bail bonds are regulated under Chapter 648 of the Florida Statutes. Important rules: \n- Bondsmen must complete 120 hours of training \n- Must pass state examination \n- Premium rates capped at 10% for first $1000" 
