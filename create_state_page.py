@@ -72,17 +72,16 @@ def load_faqs():
         
         # Parse questions and answers
         faqs = []
-        lines = content.split("\n")
+        lines = content.strip().split("\n")
         
         # Skip the title line
         current_question = None
         current_answer = ""
         
-        for line in lines[1:]:  # Skip the first line (title)
+        for line in lines[1:]:
             line = line.strip()
-            
-            # Skip empty lines
             if not line:
+                # Empty line separates Q&A
                 if current_question and current_answer:
                     faqs.append({
                         "question": current_question,
@@ -90,53 +89,33 @@ def load_faqs():
                     })
                     current_question = None
                     current_answer = ""
-                continue
-                
-            # If line starts with a question word or common pattern, it's likely a question
-            if not current_question and (
-                line.startswith("How") or 
-                line.startswith("What") or 
-                line.startswith("Why") or 
-                line.startswith("Can") or 
-                line.startswith("Do") or 
-                line.startswith("Are")
-            ):
+            elif not current_question:
+                # This is a question
                 current_question = line
-            elif current_question:
+            else:
+                # This is part of the answer
                 current_answer += line + " "
         
-        # Add the last FAQ if exists
+        # Add the last FAQ if it exists
         if current_question and current_answer:
             faqs.append({
                 "question": current_question,
                 "answer": current_answer.strip()
             })
         
-        if not faqs:
-            print("Warning: No FAQs were parsed from the file")
-        else:
-            print(f"Successfully loaded {len(faqs)} FAQs")
-            
         return faqs
-        
     except Exception as e:
         print(f"Error loading FAQs: {str(e)}")
-        traceback.print_exc()
         return []
 
 def select_random_faqs(faqs, state_name, count=5):
     """
     Select random FAQs and customize them for the state
     """
-    if len(faqs) < count:
-        print(f"Warning: Not enough FAQs ({len(faqs)}) available to select {count}. Using all available.")
-        count = len(faqs) # Adjust count if fewer FAQs than requested
-
-    if len(faqs) == 0:
-         print("Warning: No FAQs loaded.")
-         return [] # Return empty list if no FAQs are loaded
-
-    selected_faqs = random.sample(faqs, count)
+    if len(faqs) <= count:
+        selected_faqs = faqs
+    else:
+        selected_faqs = random.sample(faqs, count)
     
     # Customize FAQs with state information
     customized_faqs = []
@@ -208,39 +187,36 @@ def generate_meta_description(state_name):
     ]
     return random.choice(templates)
 
-# Updated function to read from JSON
-def get_template_content_from_json(file_path):
-    """Get the raw Divi shortcode content from the JSON template file."""
+def get_template_content():
+    """Try both JSON and direct template loading"""
     try:
-        if not os.path.exists(file_path):
-            raise FileNotFoundError(f"Template file not found: {file_path}")
-        with open(file_path, 'r') as f:
-            data = json.load(f) # Parse JSON data
+        # First try JSON template
+        if os.path.exists(TEMPLATE_FILE_PATH):
+            with open(TEMPLATE_FILE_PATH, 'r') as f:
+                data = json.load(f)
+                if "data" in data and isinstance(data["data"], dict):
+                    first_key = next(iter(data["data"]))
+                    content = data["data"][first_key]
+                    if content:
+                        return content
         
-        # Extract content from the data object
-        # Assumes the structure is like {"context": "...", "data": {"key": "shortcode_string"}}
-        # We might need to handle cases where the key isn't '433' or similar
-        if "data" in data and isinstance(data["data"], dict) and len(data["data"]) > 0:
-             # Get the first key in the data dictionary (e.g., '433')
-             first_key = next(iter(data["data"]))
-             content = data["data"][first_key]
-             if not content:
-                 raise ValueError("Template file JSON data content is empty")
-             return content
-        else:
-            raise ValueError("JSON template file does not have the expected structure ('data' object with content).")
-
-    except FileNotFoundError as e:
-        print(f"Error: {str(e)}")
-        return None
-    except ValueError as e:
-        print(f"Error: {str(e)}")
-        return None
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON template file: {str(e)}")
-        return None
+        # If JSON fails, try direct template
+        template_response = requests.get(
+            f"{BASE_URL}/wp-json/wp/v2/pages/870",  # Your working template page
+            auth=AUTH,
+            params={'context': 'edit'}
+        )
+        template_response.raise_for_status()
+        template_data = template_response.json()
+        content = template_data.get('content', {}).get('raw', '')
+        
+        if content:
+            return content
+            
+        raise ValueError("Could not get content from either source")
+        
     except Exception as e:
-        print(f"Unexpected Error reading JSON template file: {str(e)}")
+        print(f"Error getting template: {str(e)}")
         traceback.print_exc()
         return None
 
@@ -252,12 +228,25 @@ def replace_faq_placeholders(content, faqs):
 
     print(f"Replacing FAQ placeholders for {len(faqs)} FAQs...")
     for i, faq in enumerate(faqs):
-        question_placeholder = f"[FAQ_QUESTION_{i+1}]"
-        answer_placeholder = f"[FAQ_ANSWER_{i+1}]"
+        # Handle both formats for FAQ placeholders
+        question_placeholders = [
+            f"[FAQ_QUESTION_{i+1}]",
+            f"%91FAQ_QUESTION_{i+1}%93",
+            f"[FAQ_QUESTION]",
+            f"%91FAQ_QUESTION%93"
+        ]
+        answer_placeholders = [
+            f"[FAQ_ANSWER_{i+1}]",
+            f"%91FAQ_ANSWER_{i+1}%93",
+            f"[FAQ_ANSWER]",
+            f"%91FAQ_ANSWER%93"
+        ]
         
-        # Replace the placeholders with actual content
-        content = content.replace(question_placeholder, faq['question'])
-        content = content.replace(answer_placeholder, faq['answer'])
+        # Replace all variations of placeholders
+        for placeholder in question_placeholders:
+            content = content.replace(placeholder, faq['question'])
+        for placeholder in answer_placeholders:
+            content = content.replace(placeholder, faq['answer'])
         print(f"Replaced FAQ {i+1}")
 
     return content
@@ -276,10 +265,17 @@ def replace_county_placeholders(content, state_name):
 
     print(f"Replacing county placeholders for {state_name}...")
     
-    # Replace county names
+    # Replace county names - handle both formats
     for i, county in enumerate(counties[:3]):  # Only use first 3 counties
+        # Regular format
         content = content.replace(f"[county_name_{i+1}]", county)
         content = content.replace(f"[county_slug_{i+1}]", county.lower().replace(" ", "-"))
+        # URL encoded format
+        content = content.replace(f"%91county_name_{i+1}%93", county)
+        content = content.replace(f"%91county_slug_{i+1}%93", county.lower().replace(" ", "-"))
+        # Also try just [county_name]
+        content = content.replace("[county_name]", county)
+        content = content.replace("%91county_name%93", county)
         print(f"Replaced county placeholder with: {county}")
     
     return content
@@ -295,8 +291,8 @@ def create_state_page(state_name):
             print(f"Error: No data found for state {state_name}")
             return
             
-        # Load template content
-        template_content = get_template_content_from_json(TEMPLATE_FILE_PATH)
+        # Get template content
+        template_content = get_template_content()
         if not template_content:
             print("Error: Could not load template content")
             return
@@ -305,34 +301,47 @@ def create_state_page(state_name):
         
         # Basic state replacements
         content = template_content
-        content = content.replace("[state_name]", state_name)
-        content = content.replace("[state_abbr]", state_data["abbreviation"])
         
-        # Capital city replacements
-        content = content.replace("[state_capital_address]", state_data["capital"]["address"])
-        content = content.replace("[state_capital_lat]", state_data["capital"]["lat"])
-        content = content.replace("[state_capital_lng]", state_data["capital"]["lng"])
+        # Replace state name in all formats
+        content = content.replace('[state_name]', state_name)
+        content = content.replace('%91state_name%93', state_name)
+        content = content.replace('Oklahoma', state_name)  # Replace hardcoded state name
+        content = content.replace('Find Bail Bonds in [state_name]', f'Find Bail Bonds in {state_name}')
+        content = content.replace('Find Licensed [state_name]', f'Find Licensed {state_name}')
+        content = content.replace('[state_name] Bail Bondsmen', f'{state_name} Bail Bondsmen')
         
-        # Replace premium rate
-        premium_rate = "10" if state_name in ["Texas", "Florida", "California"] else "15"
-        content = content.replace("[premium_rate]", premium_rate)
+        # Replace state abbreviation
+        content = content.replace('[state_abbr]', state_data["abbreviation"])
+        content = content.replace('%91state_abbr%93', state_data["abbreviation"])
+        content = content.replace('OK', state_data["abbreviation"])  # Replace hardcoded abbreviation
         
-        # Replace county placeholders
-        print(f"Replacing county placeholders for {state_name}...")
-        content = replace_county_placeholders(content, state_name)
+        # Replace map coordinates
+        content = content.replace('Oklahoma City, OK, USA', state_data["capital"]["address"])
+        content = content.replace('35.4688692', state_data["capital"]["lat"])
+        content = content.replace('-97.519539', state_data["capital"]["lng"])
+        
+        # Replace counties
+        counties = state_data.get("counties", [])
+        if counties:
+            content = content.replace('Oklahoma County', counties[0])
+            if len(counties) > 1:
+                content = content.replace('Tulsa County', counties[1])
+            if len(counties) > 2:
+                content = content.replace('Cleveland County', counties[2])
         
         # Load and replace FAQs
         faqs = load_faqs()
         if faqs:
             selected_faqs = select_random_faqs(faqs, state_name)
-            content = replace_faq_placeholders(content, selected_faqs)
+            for i, faq in enumerate(selected_faqs):
+                # Replace FAQ placeholders
+                content = content.replace(f'[FAQ_QUESTION_{i+1}]', faq['question'])
+                content = content.replace(f'[FAQ_ANSWER_{i+1}]', faq['answer'])
+                print(f"Replaced FAQ {i+1}")
         else:
             print("No FAQs provided for replacement.")
         
         print("Placeholders replaced.")
-        
-        # For testing, just print info instead of making API call
-        print("--- RUNNING SIMPLE PAGE CREATION TEST ---")
         
         # Create the page via WordPress API
         print(f"Sending API request to create DRAFT page for {state_name}...")
