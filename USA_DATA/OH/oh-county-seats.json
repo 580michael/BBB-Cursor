@@ -1,0 +1,342 @@
+{
+    "metadata": {
+        "state": "Ohio",
+        "stateAbbr": "OH", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 88
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "West Union",
+            "directory": "Adams-County"
+        },
+        "Allen County": {
+            "countySeat": "Lima",
+            "directory": "Allen-County"
+        },
+        "Ashtabula County": {
+            "countySeat": "Jefferson",
+            "directory": "Ashtabula-County"
+        },
+        "Athens County": {
+            "countySeat": "Athens",
+            "directory": "Athens-County"
+        },
+        "Belmont County": {
+            "countySeat": "St. Clairsville",
+            "directory": "Belmont-County"
+        },
+        "Brown County": {
+            "countySeat": "Georgetown",
+            "directory": "Brown-County"
+        },
+        "Butler County": {
+            "countySeat": "Hamilton",
+            "directory": "Butler-County"
+        },
+        "Carroll County": {
+            "countySeat": "Carrollton",
+            "directory": "Carroll-County"
+        },
+        "Champaign County": {
+            "countySeat": "Urbana",
+            "directory": "Champaign-County"
+        },
+        "Clark County": {
+            "countySeat": "Springfield",
+            "directory": "Clark-County"
+        },
+        "Clermont County": {
+            "countySeat": "Batavia",
+            "directory": "Clermont-County"
+        },
+        "Clinton County": {
+            "countySeat": "Wilmington",
+            "directory": "Clinton-County"
+        },
+        "Columbiana County": {
+            "countySeat": "Lisbon",
+            "directory": "Columbiana-County"
+        },
+        "Coshocton County": {
+            "countySeat": "Coshocton",
+            "directory": "Coshocton-County"
+        },
+        "Crawford County": {
+            "countySeat": "Bucyrus",
+            "directory": "Crawford-County"
+        },
+        "Cuyahoga County": {
+            "countySeat": "Cleveland",
+            "directory": "Cuyahoga-County"
+        },
+        "Darke County": {
+            "countySeat": "Greenville",
+            "directory": "Darke-County"
+        },
+        "Defiance County": {
+            "countySeat": "Defiance",
+            "directory": "Defiance-County"
+        },
+        "Delaware County": {
+            "countySeat": "Delaware",
+            "directory": "Delaware-County"
+        },
+        "Erie County": {
+            "countySeat": "Sandusky",
+            "directory": "Erie-County"
+        },
+        "Fairfield County": {
+            "countySeat": "Lancaster",
+            "directory": "Fairfield-County"
+        },
+        "Fayette County": {
+            "countySeat": "Washington Court House",
+            "directory": "Fayette-County"
+        },
+        "Franklin County": {
+            "countySeat": "Columbus",
+            "directory": "Franklin-County"
+        },
+        "Fulton County": {
+            "countySeat": "Wauseon",
+            "directory": "Fulton-County"
+        },
+        "Guernsey County": {
+            "countySeat": "Cambridge",
+            "directory": "Guernsey-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Cincinnati",
+            "directory": "Hamilton-County"
+        },
+        "Hancock County": {
+            "countySeat": "Findlay",
+            "directory": "Hancock-County"
+        },
+        "Hardin County": {
+            "countySeat": "Kenton",
+            "directory": "Hardin-County"
+        },
+        "Harrison County": {
+            "countySeat": "Cadiz",
+            "directory": "Harrison-County"
+        },
+        "Henry County": {
+            "countySeat": "Napoleon",
+            "directory": "Henry-County"
+        },
+        "Highland County": {
+            "countySeat": "Hillsboro",
+            "directory": "Highland-County"
+        },
+        "Hocking County": {
+            "countySeat": "Logan",
+            "directory": "Hocking-County"
+        },
+        "Holmes County": {
+            "countySeat": "Millersburg",
+            "directory": "Holmes-County"
+        },
+        "Huron County": {
+            "countySeat": "Norwalk",
+            "directory": "Huron-County"
+        },
+        "Jackson County": {
+            "countySeat": "Jackson",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Steubenville",
+            "directory": "Jefferson-County"
+        },
+        "Knox County": {
+            "countySeat": "Mount Vernon",
+            "directory": "Knox-County"
+        },
+        "Lake County": {
+            "countySeat": "Painesville",
+            "directory": "Lake-County"
+        },
+        "Lawrence County": {
+            "countySeat": "Ironton",
+            "directory": "Lawrence-County"
+        },
+        "Licking County": {
+            "countySeat": "Newark",
+            "directory": "Licking-County"
+        },
+        "Logan County": {
+            "countySeat": "Bellefontaine",
+            "directory": "Logan-County"
+        },
+        "Lorain County": {
+            "countySeat": "Elyria",
+            "directory": "Lorain-County"
+        },
+        "Lucas County": {
+            "countySeat": "Toledo",
+            "directory": "Lucas-County"
+        },
+        "Madison County": {
+            "countySeat": "London",
+            "directory": "Madison-County"
+        },
+        "Mahoning County": {
+            "countySeat": "Youngstown",
+            "directory": "Mahoning-County"
+        },
+        "Marion County": {
+            "countySeat": "Marion",
+            "directory": "Marion-County"
+        },
+        "Medina County": {
+            "countySeat": "Medina",
+            "directory": "Medina-County"
+        },
+        "Meigs County": {
+            "countySeat": "Pomeroy",
+            "directory": "Meigs-County"
+        },
+        "Mercer County": {
+            "countySeat": "Celina",
+            "directory": "Mercer-County"
+        },
+        "Miami County": {
+            "countySeat": "Troy",
+            "directory": "Miami-County"
+        },
+        "Monroe County": {
+            "countySeat": "Woodsfield",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Dayton",
+            "directory": "Montgomery-County"
+        },
+        "Morgan County": {
+            "countySeat": "McConnelsville",
+            "directory": "Morgan-County"
+        },
+        "Morrow County": {
+            "countySeat": "Mount Gilead",
+            "directory": "Morrow-County"
+        },
+        "Muskingum County": {
+            "countySeat": "Zanesville",
+            "directory": "Muskingum-County"
+        },
+        "Noble County": {
+            "countySeat": "Caldwell",
+            "directory": "Noble-County"
+        },
+        "Ottawa County": {
+            "countySeat": "Port Clinton",
+            "directory": "Ottawa-County"
+        },
+        "Paulding County": {
+            "countySeat": "Paulding",
+            "directory": "Paulding-County"
+        },
+        "Perry County": {
+            "countySeat": "New Lexington",
+            "directory": "Perry-County"
+        },
+        "Pickaway County": {
+            "countySeat": "Circleville",
+            "directory": "Pickaway-County"
+        },
+        "Pike County": {
+            "countySeat": "Waverly",
+            "directory": "Pike-County"
+        },
+        "Portage County": {
+            "countySeat": "Ravenna",
+            "directory": "Portage-County"
+        },
+        "Preble County": {
+            "countySeat": "Eaton",
+            "directory": "Preble-County"
+        },
+        "Putnam County": {
+            "countySeat": "Ottawa",
+            "directory": "Putnam-County"
+        },
+        "Richland County": {
+            "countySeat": "Mansfield",
+            "directory": "Richland-County"
+        },
+        "Ross County": {
+            "countySeat": "Chillicothe",
+            "directory": "Ross-County"
+        },
+        "Sandusky County": {
+            "countySeat": "Fremont",
+            "directory": "Sandusky-County"
+        },
+        "Scioto County": {
+            "countySeat": "Portsmouth",
+            "directory": "Scioto-County"
+        },
+        "Seneca County": {
+            "countySeat": "Tiffin",
+            "directory": "Seneca-County"
+        },
+        "Shelby County": {
+            "countySeat": "Sidney",
+            "directory": "Shelby-County"
+        },
+        "Stark County": {
+            "countySeat": "Canton",
+            "directory": "Stark-County"
+        },
+        "Summit County": {
+            "countySeat": "Akron",
+            "directory": "Summit-County"
+        },
+        "Trumbull County": {
+            "countySeat": "Warren",
+            "directory": "Trumbull-County"
+        },
+        "Tuscarawas County": {
+            "countySeat": "New Philadelphia",
+            "directory": "Tuscarawas-County"
+        },
+        "Union County": {
+            "countySeat": "Marysville",
+            "directory": "Union-County"
+        },
+        "Van Wert County": {
+            "countySeat": "Van Wert",
+            "directory": "Van-Wert-County"
+        },
+        "Vinton County": {
+            "countySeat": "McArthur",
+            "directory": "Vinton-County"
+        },
+        "Warren County": {
+            "countySeat": "Lebanon",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Marietta",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Wooster",
+            "directory": "Wayne-County"
+        },
+        "Williams County": {
+            "countySeat": "Bryan",
+            "directory": "Williams-County"
+        },
+        "Wood County": {
+            "countySeat": "Bowling Green",
+            "directory": "Wood-County"
+        },
+        "Wyandot County": {
+            "countySeat": "Upper Sandusky",
+            "directory": "Wyandot-County"
+        }
+    }
+}

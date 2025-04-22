@@ -1,0 +1,194 @@
+{
+    "metadata": {
+        "state": "South Carolina",
+        "stateAbbr": "SC", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 46
+    },
+    "counties": {
+        "Abbeville County": {
+            "countySeat": "Abbeville",
+            "directory": "Abbeville-County"
+        },
+        "Aiken County": {
+            "countySeat": "Aiken",
+            "directory": "Aiken-County"
+        },
+        "Allendale County": {
+            "countySeat": "Allendale",
+            "directory": "Allendale-County"
+        },
+        "Anderson County": {
+            "countySeat": "Anderson",
+            "directory": "Anderson-County"
+        },
+        "Bamberg County": {
+            "countySeat": "Bamberg",
+            "directory": "Bamberg-County"
+        },
+        "Barnwell County": {
+            "countySeat": "Barnwell",
+            "directory": "Barnwell-County"
+        },
+        "Beaufort County": {
+            "countySeat": "Beaufort",
+            "directory": "Beaufort-County"
+        },
+        "Berkeley County": {
+            "countySeat": "Moncks Corner",
+            "directory": "Berkeley-County"
+        },
+        "Calhoun County": {
+            "countySeat": "St. Matthews",
+            "directory": "Calhoun-County"
+        },
+        "Charleston County": {
+            "countySeat": "Charleston",
+            "directory": "Charleston-County"
+        },
+        "Cherokee County": {
+            "countySeat": "Gaffney",
+            "directory": "Cherokee-County"
+        },
+        "Chester County": {
+            "countySeat": "Chester",
+            "directory": "Chester-County"
+        },
+        "Chesterfield County": {
+            "countySeat": "Chesterfield",
+            "directory": "Chesterfield-County"
+        },
+        "Clarendon County": {
+            "countySeat": "Manning",
+            "directory": "Clarendon-County"
+        },
+        "Colleton County": {
+            "countySeat": "Walterboro",
+            "directory": "Colleton-County"
+        },
+        "Darlington County": {
+            "countySeat": "Darlington",
+            "directory": "Darlington-County"
+        },
+        "Dillon County": {
+            "countySeat": "Dillon",
+            "directory": "Dillon-County"
+        },
+        "Dorchester County": {
+            "countySeat": "St. George",
+            "directory": "Dorchester-County"
+        },
+        "Edgefield County": {
+            "countySeat": "Edgefield",
+            "directory": "Edgefield-County"
+        },
+        "Fairfield County": {
+            "countySeat": "Winnsboro",
+            "directory": "Fairfield-County"
+        },
+        "Florence County": {
+            "countySeat": "Florence",
+            "directory": "Florence-County"
+        },
+        "Georgetown County": {
+            "countySeat": "Georgetown",
+            "directory": "Georgetown-County"
+        },
+        "Greenville County": {
+            "countySeat": "Greenville",
+            "directory": "Greenville-County"
+        },
+        "Greenwood County": {
+            "countySeat": "Greenwood",
+            "directory": "Greenwood-County"
+        },
+        "Hampton County": {
+            "countySeat": "Hampton",
+            "directory": "Hampton-County"
+        },
+        "Horry County": {
+            "countySeat": "Conway",
+            "directory": "Horry-County"
+        },
+        "Jasper County": {
+            "countySeat": "Ridgeland",
+            "directory": "Jasper-County"
+        },
+        "Kershaw County": {
+            "countySeat": "Camden",
+            "directory": "Kershaw-County"
+        },
+        "Lancaster County": {
+            "countySeat": "Lancaster",
+            "directory": "Lancaster-County"
+        },
+        "Laurens County": {
+            "countySeat": "Laurens",
+            "directory": "Laurens-County"
+        },
+        "Lee County": {
+            "countySeat": "Bishopville",
+            "directory": "Lee-County"
+        },
+        "Lexington County": {
+            "countySeat": "Lexington",
+            "directory": "Lexington-County"
+        },
+        "Marion County": {
+            "countySeat": "Marion",
+            "directory": "Marion-County"
+        },
+        "Marlboro County": {
+            "countySeat": "Bennettsville",
+            "directory": "Marlboro-County"
+        },
+        "McCormick County": {
+            "countySeat": "McCormick",
+            "directory": "McCormick-County"
+        },
+        "Newberry County": {
+            "countySeat": "Newberry",
+            "directory": "Newberry-County"
+        },
+        "Oconee County": {
+            "countySeat": "Walhalla",
+            "directory": "Oconee-County"
+        },
+        "Orangeburg County": {
+            "countySeat": "Orangeburg",
+            "directory": "Orangeburg-County"
+        },
+        "Pickens County": {
+            "countySeat": "Pickens",
+            "directory": "Pickens-County"
+        },
+        "Richland County": {
+            "countySeat": "Columbia",
+            "directory": "Richland-County"
+        },
+        "Saluda County": {
+            "countySeat": "Saluda",
+            "directory": "Saluda-County"
+        },
+        "Spartanburg County": {
+            "countySeat": "Spartanburg",
+            "directory": "Spartanburg-County"
+        },
+        "Sumter County": {
+            "countySeat": "Sumter",
+            "directory": "Sumter-County"
+        },
+        "Union County": {
+            "countySeat": "Union",
+            "directory": "Union-County"
+        },
+        "Williamsburg County": {
+            "countySeat": "Kingstree",
+            "directory": "Williamsburg-County"
+        },
+        "York County": {
+            "countySeat": "York",
+            "directory": "York-County"
+        }
+    }
+}

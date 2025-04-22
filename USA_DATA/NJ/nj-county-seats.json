@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "state": "New Jersey",
+        "stateAbbr": "NJ", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 21
+    },
+    "counties": {
+        "Atlantic County": {
+            "countySeat": "Mays Landing",
+            "directory": "Atlantic-County"
+        },
+        "Bergen County": {
+            "countySeat": "Hackensack",
+            "directory": "Bergen-County"
+        },
+        "Burlington County": {
+            "countySeat": "Mount Holly",
+            "directory": "Burlington-County"
+        },
+        "Camden County": {
+            "countySeat": "Camden",
+            "directory": "Camden-County"
+        },
+        "Cape May County": {
+            "countySeat": "Cape May Court House",
+            "directory": "Cape-May-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Bridgeton",
+            "directory": "Cumberland-County"
+        },
+        "Essex County": {
+            "countySeat": "Newark",
+            "directory": "Essex-County"
+        },
+        "Gloucester County": {
+            "countySeat": "Woodbury",
+            "directory": "Gloucester-County"
+        },
+        "Hudson County": {
+            "countySeat": "Jersey City",
+            "directory": "Hudson-County"
+        },
+        "Hunterdon County": {
+            "countySeat": "Flemington",
+            "directory": "Hunterdon-County"
+        },
+        "Mercer County": {
+            "countySeat": "Trenton",
+            "directory": "Mercer-County"
+        },
+        "Middlesex County": {
+            "countySeat": "New Brunswick",
+            "directory": "Middlesex-County"
+        },
+        "Monmouth County": {
+            "countySeat": "Freehold",
+            "directory": "Monmouth-County"
+        },
+        "Morris County": {
+            "countySeat": "Morristown",
+            "directory": "Morris-County"
+        },
+        "Ocean County": {
+            "countySeat": "Toms River",
+            "directory": "Ocean-County"
+        },
+        "Passaic County": {
+            "countySeat": "Paterson",
+            "directory": "Passaic-County"
+        },
+        "Salem County": {
+            "countySeat": "Salem",
+            "directory": "Salem-County"
+        },
+        "Somerset County": {
+            "countySeat": "Somerville",
+            "directory": "Somerset-County"
+        },
+        "Sussex County": {
+            "countySeat": "Newton",
+            "directory": "Sussex-County"
+        },
+        "Union County": {
+            "countySeat": "Elizabeth",
+            "directory": "Union-County"
+        },
+        "Warren County": {
+            "countySeat": "Belvidere",
+            "directory": "Warren-County"
+        }
+    }
+}

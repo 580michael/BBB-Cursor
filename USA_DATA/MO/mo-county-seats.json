@@ -1,0 +1,466 @@
+{
+  "metadata": {
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 114
+  },
+  "counties": {
+    "Adair County": {
+      "countySeat": "Kirksville",
+      "directory": "Adair-County"
+    },
+    "Andrew County": {
+      "countySeat": "Savannah",
+      "directory": "Andrew-County"
+    },
+    "Atchison County": {
+      "countySeat": "Rock Port",
+      "directory": "Atchison-County"
+    },
+    "Audrain County": {
+      "countySeat": "Mexico",
+      "directory": "Audrain-County"
+    },
+    "Barry County": {
+      "countySeat": "Cassville",
+      "directory": "Barry-County"
+    },
+    "Barton County": {
+      "countySeat": "Lamar",
+      "directory": "Barton-County"
+    },
+    "Bates County": {
+      "countySeat": "Butler",
+      "directory": "Bates-County"
+    },
+    "Benton County": {
+      "countySeat": "Warsaw",
+      "directory": "Benton-County"
+    },
+    "Bollinger County": {
+      "countySeat": "Marble Hill",
+      "directory": "Bollinger-County"
+    },
+    "Boone County": {
+      "countySeat": "Columbia",
+      "directory": "Boone-County"
+    },
+    "Buchanan County": {
+      "countySeat": "St. Joseph",
+      "directory": "Buchanan-County"
+    },
+    "Butler County": {
+      "countySeat": "Poplar Bluff",
+      "directory": "Butler-County"
+    },
+    "Caldwell County": {
+      "countySeat": "Kingston",
+      "directory": "Caldwell-County"
+    },
+    "Callaway County": {
+      "countySeat": "Fulton",
+      "directory": "Callaway-County"
+    },
+    "Camden County": {
+      "countySeat": "Camdenton",
+      "directory": "Camden-County"
+    },
+    "Cape Girardeau County": {
+      "countySeat": "Jackson",
+      "directory": "Cape-Girardeau-County"
+    },
+    "Carroll County": {
+      "countySeat": "Carrollton",
+      "directory": "Carroll-County"
+    },
+    "Carter County": {
+      "countySeat": "Van Buren",
+      "directory": "Carter-County"
+    },
+    "Cass County": {
+      "countySeat": "Harrisonville",
+      "directory": "Cass-County"
+    },
+    "Cedar County": {
+      "countySeat": "Stockton",
+      "directory": "Cedar-County"
+    },
+    "Chariton County": {
+      "countySeat": "Keytesville",
+      "directory": "Chariton-County"
+    },
+    "Christian County": {
+      "countySeat": "Ozark",
+      "directory": "Christian-County"
+    },
+    "Clark County": {
+      "countySeat": "Kahoka",
+      "directory": "Clark-County"
+    },
+    "Clay County": {
+      "countySeat": "Liberty",
+      "directory": "Clay-County"
+    },
+    "Clinton County": {
+      "countySeat": "Plattsburg",
+      "directory": "Clinton-County"
+    },
+    "Cole County": {
+      "countySeat": "Jefferson City",
+      "directory": "Cole-County"
+    },
+    "Cooper County": {
+      "countySeat": "Boonville",
+      "directory": "Cooper-County"
+    },
+    "Crawford County": {
+      "countySeat": "Steelville",
+      "directory": "Crawford-County"
+    },
+    "Dade County": {
+      "countySeat": "Greenfield",
+      "directory": "Dade-County"
+    },
+    "Dallas County": {
+      "countySeat": "Buffalo",
+      "directory": "Dallas-County"
+    },
+    "Daviess County": {
+      "countySeat": "Gallatin",
+      "directory": "Daviess-County"
+    },
+    "DeKalb County": {
+      "countySeat": "Maysville",
+      "directory": "DeKalb-County"
+    },
+    "Dent County": {
+      "countySeat": "Salem",
+      "directory": "Dent-County"
+    },
+    "Douglas County": {
+      "countySeat": "Ava",
+      "directory": "Douglas-County"
+    },
+    "Dunklin County": {
+      "countySeat": "Kennett",
+      "directory": "Dunklin-County"
+    },
+    "Franklin County": {
+      "countySeat": "Union",
+      "directory": "Franklin-County"
+    },
+    "Gasconade County": {
+      "countySeat": "Hermann",
+      "directory": "Gasconade-County"
+    },
+    "Gentry County": {
+      "countySeat": "Albany",
+      "directory": "Gentry-County"
+    },
+    "Greene County": {
+      "countySeat": "Springfield",
+      "directory": "Greene-County"
+    },
+    "Grundy County": {
+      "countySeat": "Trenton",
+      "directory": "Grundy-County"
+    },
+    "Harrison County": {
+      "countySeat": "Bethany",
+      "directory": "Harrison-County"
+    },
+    "Henry County": {
+      "countySeat": "Clinton",
+      "directory": "Henry-County"
+    },
+    "Hickory County": {
+      "countySeat": "Hermitage",
+      "directory": "Hickory-County"
+    },
+    "Holt County": {
+      "countySeat": "Oregon",
+      "directory": "Holt-County"
+    },
+    "Howard County": {
+      "countySeat": "Fayette",
+      "directory": "Howard-County"
+    },
+    "Howell County": {
+      "countySeat": "West Plains",
+      "directory": "Howell-County"
+    },
+    "Iron County": {
+      "countySeat": "Ironton",
+      "directory": "Iron-County"
+    },
+    "Jackson County": {
+      "countySeat": "Independence",
+      "directory": "Jackson-County"
+    },
+    "Jasper County": {
+      "countySeat": "Carthage",
+      "directory": "Jasper-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Hillsboro",
+      "directory": "Jefferson-County"
+    },
+    "Johnson County": {
+      "countySeat": "Warrensburg",
+      "directory": "Johnson-County"
+    },
+    "Knox County": {
+      "countySeat": "Edina",
+      "directory": "Knox-County"
+    },
+    "Laclede County": {
+      "countySeat": "Lebanon",
+      "directory": "Laclede-County"
+    },
+    "Lafayette County": {
+      "countySeat": "Lexington",
+      "directory": "Lafayette-County"
+    },
+    "Lawrence County": {
+      "countySeat": "Mount Vernon",
+      "directory": "Lawrence-County"
+    },
+    "Lewis County": {
+      "countySeat": "Monticello",
+      "directory": "Lewis-County"
+    },
+    "Lincoln County": {
+      "countySeat": "Troy",
+      "directory": "Lincoln-County"
+    },
+    "Linn County": {
+      "countySeat": "Linneus",
+      "directory": "Linn-County"
+    },
+    "Livingston County": {
+      "countySeat": "Chillicothe",
+      "directory": "Livingston-County"
+    },
+    "McDonald County": {
+      "countySeat": "Pineville",
+      "directory": "McDonald-County"
+    },
+    "Macon County": {
+      "countySeat": "Macon",
+      "directory": "Macon-County"
+    },
+    "Madison County": {
+      "countySeat": "Fredericktown",
+      "directory": "Madison-County"
+    },
+    "Maries County": {
+      "countySeat": "Vienna",
+      "directory": "Maries-County"
+    },
+    "Marion County": {
+      "countySeat": "Palmyra",
+      "directory": "Marion-County"
+    },
+    "Mercer County": {
+      "countySeat": "Princeton",
+      "directory": "Mercer-County"
+    },
+    "Miller County": {
+      "countySeat": "Tuscumbia",
+      "directory": "Miller-County"
+    },
+    "Mississippi County": {
+      "countySeat": "Charleston",
+      "directory": "Mississippi-County"
+    },
+    "Moniteau County": {
+      "countySeat": "California",
+      "directory": "Moniteau-County"
+    },
+    "Monroe County": {
+      "countySeat": "Paris",
+      "directory": "Monroe-County"
+    },
+    "Montgomery County": {
+      "countySeat": "Montgomery City",
+      "directory": "Montgomery-County"
+    },
+    "Morgan County": {
+      "countySeat": "Versailles",
+      "directory": "Morgan-County"
+    },
+    "New Madrid County": {
+      "countySeat": "New Madrid",
+      "directory": "New-Madrid-County"
+    },
+    "Newton County": {
+      "countySeat": "Neosho",
+      "directory": "Newton-County"
+    },
+    "Nodaway County": {
+      "countySeat": "Maryville",
+      "directory": "Nodaway-County"
+    },
+    "Oregon County": {
+      "countySeat": "Alton",
+      "directory": "Oregon-County"
+    },
+    "Osage County": {
+      "countySeat": "Linn",
+      "directory": "Osage-County"
+    },
+    "Ozark County": {
+      "countySeat": "Gainesville",
+      "directory": "Ozark-County"
+    },
+    "Pemiscot County": {
+      "countySeat": "Caruthersville",
+      "directory": "Pemiscot-County"
+    },
+    "Perry County": {
+      "countySeat": "Perryville",
+      "directory": "Perry-County"
+    },
+    "Pettis County": {
+      "countySeat": "Sedalia",
+      "directory": "Pettis-County"
+    },
+    "Phelps County": {
+      "countySeat": "Rolla",
+      "directory": "Phelps-County"
+    },
+    "Pike County": {
+      "countySeat": "Bowling Green",
+      "directory": "Pike-County"
+    },
+    "Platte County": {
+      "countySeat": "Platte City",
+      "directory": "Platte-County"
+    },
+    "Polk County": {
+      "countySeat": "Bolivar",
+      "directory": "Polk-County"
+    },
+    "Pulaski County": {
+      "countySeat": "Waynesville",
+      "directory": "Pulaski-County"
+    },
+    "Putnam County": {
+      "countySeat": "Unionville",
+      "directory": "Putnam-County"
+    },
+    "Ralls County": {
+      "countySeat": "New London",
+      "directory": "Ralls-County"
+    },
+    "Randolph County": {
+      "countySeat": "Huntsville",
+      "directory": "Randolph-County"
+    },
+    "Ray County": {
+      "countySeat": "Richmond",
+      "directory": "Ray-County"
+    },
+    "Reynolds County": {
+      "countySeat": "Centerville",
+      "directory": "Reynolds-County"
+    },
+    "Ripley County": {
+      "countySeat": "Doniphan",
+      "directory": "Ripley-County"
+    },
+    "St. Charles County": {
+      "countySeat": "St. Charles",
+      "directory": "St.-Charles-County"
+    },
+    "St. Clair County": {
+      "countySeat": "Osceola",
+      "directory": "St.-Clair-County"
+    },
+    "St. Francois County": {
+      "countySeat": "Farmington",
+      "directory": "St.-Francois-County"
+    },
+    "St. Louis County": {
+      "countySeat": "Clayton",
+      "directory": "St.-Louis-County"
+    },
+    "Ste. Genevieve County": {
+      "countySeat": "Ste. Genevieve",
+      "directory": "Ste.-Genevieve-County"
+    },
+    "Saline County": {
+      "countySeat": "Marshall",
+      "directory": "Saline-County"
+    },
+    "Schuyler County": {
+      "countySeat": "Lancaster",
+      "directory": "Schuyler-County"
+    },
+    "Scotland County": {
+      "countySeat": "Memphis",
+      "directory": "Scotland-County"
+    },
+    "Scott County": {
+      "countySeat": "Benton",
+      "directory": "Scott-County"
+    },
+    "Shannon County": {
+      "countySeat": "Eminence",
+      "directory": "Shannon-County"
+    },
+    "Shelby County": {
+      "countySeat": "Shelbyville",
+      "directory": "Shelby-County"
+    },
+    "Stoddard County": {
+      "countySeat": "Bloomfield",
+      "directory": "Stoddard-County"
+    },
+    "Stone County": {
+      "countySeat": "Galena",
+      "directory": "Stone-County"
+    },
+    "Sullivan County": {
+      "countySeat": "Milan",
+      "directory": "Sullivan-County"
+    },
+    "Taney County": {
+      "countySeat": "Forsyth",
+      "directory": "Taney-County"
+    },
+    "Texas County": {
+      "countySeat": "Houston",
+      "directory": "Texas-County"
+    },
+    "Vernon County": {
+      "countySeat": "Nevada",
+      "directory": "Vernon-County"
+    },
+    "Warren County": {
+      "countySeat": "Warrenton",
+      "directory": "Warren-County"
+    },
+    "Washington County": {
+      "countySeat": "Potosi",
+      "directory": "Washington-County"
+    },
+    "Wayne County": {
+      "countySeat": "Greenville",
+      "directory": "Wayne-County"
+    },
+    "Webster County": {
+      "countySeat": "Marshfield",
+      "directory": "Webster-County"
+    },
+    "Worth County": {
+      "countySeat": "Grant City",
+      "directory": "Worth-County"
+    },
+    "Wright County": {
+      "countySeat": "Hartville",
+      "directory": "Wright-County"
+    }
+  }
+}

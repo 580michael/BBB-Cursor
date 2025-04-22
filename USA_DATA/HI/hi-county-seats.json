@@ -1,0 +1,30 @@
+{
+    "metadata": {
+      "state": "Hawaii",
+      "stateAbbr": "HI",
+      "lastUpdated": "2025-03-26",
+      "totalCounties": 5
+    },
+    "counties": {
+      "Hawaii County": {
+        "countySeat": "Hilo",
+        "directory": "Hawaii-County"
+      },
+      "Honolulu County": {
+        "countySeat": "Honolulu",
+        "directory": "Honolulu-County"
+      },
+      "Kalawao County": {
+        "countySeat": "Kalaupapa",
+        "directory": "Kalawao-County"
+      },
+      "Kauai County": {
+        "countySeat": "Lihue",
+        "directory": "Kauai-County"
+      },
+      "Maui County": {
+        "countySeat": "Wailuku",
+        "directory": "Maui-County"
+      }
+    }
+  }

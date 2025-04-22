@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "state": "Maine",
+        "stateAbbr": "ME",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 16
+    },
+    "counties": {
+        "Androscoggin County": {
+            "countySeat": "Auburn",
+            "directory": "Androscoggin-County"
+        },
+        "Aroostook County": {
+            "countySeat": "Houlton",
+            "directory": "Aroostook-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Portland",
+            "directory": "Cumberland-County"
+        },
+        "Franklin County": {
+            "countySeat": "Farmington",
+            "directory": "Franklin-County"
+        },
+        "Hancock County": {
+            "countySeat": "Ellsworth",
+            "directory": "Hancock-County"
+        },
+        "Kennebec County": {
+            "countySeat": "Augusta",
+            "directory": "Kennebec-County"
+        },
+        "Knox County": {
+            "countySeat": "Rockland",
+            "directory": "Knox-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Wiscasset",
+            "directory": "Lincoln-County"
+        },
+        "Oxford County": {
+            "countySeat": "Paris",
+            "directory": "Oxford-County"
+        },
+        "Penobscot County": {
+            "countySeat": "Bangor",
+            "directory": "Penobscot-County"
+        },
+        "Piscataquis County": {
+            "countySeat": "Dover-Foxcroft",
+            "directory": "Piscataquis-County"
+        },
+        "Sagadahoc County": {
+            "countySeat": "Bath",
+            "directory": "Sagadahoc-County"
+        },
+        "Somerset County": {
+            "countySeat": "Skowhegan",
+            "directory": "Somerset-County"
+        },
+        "Waldo County": {
+            "countySeat": "Belfast",
+            "directory": "Waldo-County"
+        },
+        "Washington County": {
+            "countySeat": "Machias",
+            "directory": "Washington-County"
+        },
+        "York County": {
+            "countySeat": "Alfred",
+            "directory": "York-County"
+        }
+    }
+}

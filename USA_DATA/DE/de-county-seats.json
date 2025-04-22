@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 3
+  },
+  "counties": {
+    "Kent County": {
+      "countySeat": "Dover",
+      "directory": "Kent-County"
+    },
+    "New Castle County": {
+      "countySeat": "Wilmington",
+      "directory": "New-Castle-County"
+    },
+    "Sussex County": {
+      "countySeat": "Georgetown",
+      "directory": "Sussex-County"
+    }
+  }
+}

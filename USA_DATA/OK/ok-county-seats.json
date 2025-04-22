@@ -1,0 +1,318 @@
+{
+    "metadata": {
+        "state": "Oklahoma",
+        "stateAbbr": "OK", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 77
+    },
+    "counties": {
+        "Adair County": {
+            "countySeat": "Stilwell",
+            "directory": "Adair-County"
+        },
+        "Alfalfa County": {
+            "countySeat": "Cherokee",
+            "directory": "Alfalfa-County"
+        },
+        "Atoka County": {
+            "countySeat": "Atoka",
+            "directory": "Atoka-County"
+        },
+        "Beaver County": {
+            "countySeat": "Beaver",
+            "directory": "Beaver-County"
+        },
+        "Beckham County": {
+            "countySeat": "Sayre",
+            "directory": "Beckham-County"
+        },
+        "Blaine County": {
+            "countySeat": "Watonga",
+            "directory": "Blaine-County"
+        },
+        "Bryan County": {
+            "countySeat": "Durant",
+            "directory": "Bryan-County"
+        },
+        "Caddo County": {
+            "countySeat": "Anadarko",
+            "directory": "Caddo-County"
+        },
+        "Canadian County": {
+            "countySeat": "El Reno",
+            "directory": "Canadian-County"
+        },
+        "Carter County": {
+            "countySeat": "Ardmore",
+            "directory": "Carter-County"
+        },
+        "Cherokee County": {
+            "countySeat": "Tahlequah",
+            "directory": "Cherokee-County"
+        },
+        "Choctaw County": {
+            "countySeat": "Hugo",
+            "directory": "Choctaw-County"
+        },
+        "Cimarron County": {
+            "countySeat": "Boise City",
+            "directory": "Cimarron-County"
+        },
+        "Cleveland County": {
+            "countySeat": "Norman",
+            "directory": "Cleveland-County"
+        },
+        "Coal County": {
+            "countySeat": "Coalgate",
+            "directory": "Coal-County"
+        },
+        "Comanche County": {
+            "countySeat": "Lawton",
+            "directory": "Comanche-County"
+        },
+        "Cotton County": {
+            "countySeat": "Walters",
+            "directory": "Cotton-County"
+        },
+        "Craig County": {
+            "countySeat": "Vinita",
+            "directory": "Craig-County"
+        },
+        "Creek County": {
+            "countySeat": "Sapulpa",
+            "directory": "Creek-County"
+        },
+        "Custer County": {
+            "countySeat": "Arapaho",
+            "directory": "Custer-County"
+        },
+        "Delaware County": {
+            "countySeat": "Jay",
+            "directory": "Delaware-County"
+        },
+        "Dewey County": {
+            "countySeat": "Taloga",
+            "directory": "Dewey-County"
+        },
+        "Ellis County": {
+            "countySeat": "Arnett",
+            "directory": "Ellis-County"
+        },
+        "Garfield County": {
+            "countySeat": "Enid",
+            "directory": "Garfield-County"
+        },
+        "Garvin County": {
+            "countySeat": "Pauls Valley",
+            "directory": "Garvin-County"
+        },
+        "Grady County": {
+            "countySeat": "Chickasha",
+            "directory": "Grady-County"
+        },
+        "Grant County": {
+            "countySeat": "Medford",
+            "directory": "Grant-County"
+        },
+        "Greer County": {
+            "countySeat": "Mangum",
+            "directory": "Greer-County"
+        },
+        "Harmon County": {
+            "countySeat": "Hollis",
+            "directory": "Harmon-County"
+        },
+        "Harper County": {
+            "countySeat": "Buffalo",
+            "directory": "Harper-County"
+        },
+        "Haskell County": {
+            "countySeat": "Stigler",
+            "directory": "Haskell-County"
+        },
+        "Hughes County": {
+            "countySeat": "Holdenville",
+            "directory": "Hughes-County"
+        },
+        "Jackson County": {
+            "countySeat": "Altus",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Waurika",
+            "directory": "Jefferson-County"
+        },
+        "Johnston County": {
+            "countySeat": "Tishomingo",
+            "directory": "Johnston-County"
+        },
+        "Kay County": {
+            "countySeat": "Newkirk",
+            "directory": "Kay-County"
+        },
+        "Kingfisher County": {
+            "countySeat": "Kingfisher",
+            "directory": "Kingfisher-County"
+        },
+        "Kiowa County": {
+            "countySeat": "Hobart",
+            "directory": "Kiowa-County"
+        },
+        "Latimer County": {
+            "countySeat": "Wilburton",
+            "directory": "Latimer-County"
+        },
+        "Leflore County": {
+            "countySeat": "Poteau",
+            "directory": "Leflore-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Chandler",
+            "directory": "Lincoln-County"
+        },
+        "Logan County": {
+            "countySeat": "Guthrie",
+            "directory": "Logan-County"
+        },
+        "Love County": {
+            "countySeat": "Marietta",
+            "directory": "Love-County"
+        },
+        "McClain County": {
+            "countySeat": "Purcell",
+            "directory": "McClain-County"
+        },
+        "McCurtain County": {
+            "countySeat": "Idabel",
+            "directory": "McCurtain-County"
+        },
+        "McIntosh County": {
+            "countySeat": "Eufaula",
+            "directory": "McIntosh-County"
+        },
+        "Major County": {
+            "countySeat": "Fairview",
+            "directory": "Major-County"
+        },
+        "Marshall County": {
+            "countySeat": "Madill",
+            "directory": "Marshall-County"
+        },
+        "Mayes County": {
+            "countySeat": "Pryor Creek",
+            "directory": "Mayes-County"
+        },
+        "Murray County": {
+            "countySeat": "Sulphur",
+            "directory": "Murray-County"
+        },
+        "Muskogee County": {
+            "countySeat": "Muskogee",
+            "directory": "Muskogee-County"
+        },
+        "Noble County": {
+            "countySeat": "Perry",
+            "directory": "Noble-County"
+        },
+        "Nowata County": {
+            "countySeat": "Nowata",
+            "directory": "Nowata-County"
+        },
+        "Okfuskee County": {
+            "countySeat": "Okemah",
+            "directory": "Okfuskee-County"
+        },
+        "Oklahoma County": {
+            "countySeat": "Oklahoma City",
+            "directory": "Oklahoma-County"
+        },
+        "Okmulgee County": {
+            "countySeat": "Okmulgee",
+            "directory": "Okmulgee-County"
+        },
+        "Osage County": {
+            "countySeat": "Pawhuska",
+            "directory": "Osage-County"
+        },
+        "Ottawa County": {
+            "countySeat": "Miami",
+            "directory": "Ottawa-County"
+        },
+        "Pawnee County": {
+            "countySeat": "Pawnee",
+            "directory": "Pawnee-County"
+        },
+        "Payne County": {
+            "countySeat": "Stillwater",
+            "directory": "Payne-County"
+        },
+        "Pittsburg County": {
+            "countySeat": "McAlester",
+            "directory": "Pittsburg-County"
+        },
+        "Pontotoc County": {
+            "countySeat": "Ada",
+            "directory": "Pontotoc-County"
+        },
+        "Pottawatomie County": {
+            "countySeat": "Shawnee",
+            "directory": "Pottawatomie-County"
+        },
+        "Pushmataha County": {
+            "countySeat": "Antlers",
+            "directory": "Pushmataha-County"
+        },
+        "Roger Mills County": {
+            "countySeat": "Cheyenne",
+            "directory": "Roger-Mills-County"
+        },
+        "Rogers County": {
+            "countySeat": "Claremore",
+            "directory": "Rogers-County"
+        },
+        "Seminole County": {
+            "countySeat": "Wewoka",
+            "directory": "Seminole-County"
+        },
+        "Sequoyah County": {
+            "countySeat": "Sallisaw",
+            "directory": "Sequoyah-County"
+        },
+        "Stephens County": {
+            "countySeat": "Duncan",
+            "directory": "Stephens-County"
+        },
+        "Texas County": {
+            "countySeat": "Guymon",
+            "directory": "Texas-County"
+        },
+        "Tillman County": {
+            "countySeat": "Frederick",
+            "directory": "Tillman-County"
+        },
+        "Tulsa County": {
+            "countySeat": "Tulsa",
+            "directory": "Tulsa-County"
+        },
+        "Wagoner County": {
+            "countySeat": "Wagoner",
+            "directory": "Wagoner-County"
+        },
+        "Washington County": {
+            "countySeat": "Bartlesville",
+            "directory": "Washington-County"
+        },
+        "Washita County": {
+            "countySeat": "Cordell",
+            "directory": "Washita-County"
+        },
+        "Woods County": {
+            "countySeat": "Alva",
+            "directory": "Woods-County"
+        },
+        "Woodward County": {
+            "countySeat": "Woodward",
+            "directory": "Woodward-County"
+        }
+    }
+}

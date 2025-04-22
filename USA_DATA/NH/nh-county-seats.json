@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "state": "New Hampshire",
+        "stateAbbr": "NH", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 10
+    },
+    "counties": {
+        "Belknap County": {
+            "countySeat": "Laconia",
+            "directory": "Belknap-County"
+        },
+        "Carroll County": {
+            "countySeat": "Ossipee", 
+            "directory": "Carroll-County"
+        },
+        "Cheshire County": {
+            "countySeat": "Keene",
+            "directory": "Cheshire-County"
+        },
+        "Coos County": {
+            "countySeat": "Lancaster",
+            "directory": "Coos-County"
+        },
+        "Grafton County": {
+            "countySeat": "North Haverhill",
+            "directory": "Grafton-County"
+        },
+        "Hillsborough County": {
+            "countySeat": "Nashua",
+            "directory": "Hillsborough-County"
+        },
+        "Merrimack County": {
+            "countySeat": "Concord",
+            "directory": "Merrimack-County"
+        },
+        "Rockingham County": {
+            "countySeat": "Exeter",
+            "directory": "Rockingham-County"
+        },
+        "Strafford County": {
+            "countySeat": "Dover",
+            "directory": "Strafford-County"
+        },
+        "Sullivan County": {
+            "countySeat": "Newport",
+            "directory": "Sullivan-County"
+        }
+    }
+}

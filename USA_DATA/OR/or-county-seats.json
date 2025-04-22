@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "state": "Oregon",
+        "stateAbbr": "OR", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 36
+    },
+    "counties": {
+        "Baker County": {
+            "countySeat": "Baker City",
+            "directory": "Baker-County"
+        },
+        "Benton County": {
+            "countySeat": "Corvallis",
+            "directory": "Benton-County"
+        },
+        "Clackamas County": {
+            "countySeat": "Oregon City",
+            "directory": "Clackamas-County"
+        },
+        "Clatsop County": {
+            "countySeat": "Astoria",
+            "directory": "Clatsop-County"
+        },
+        "Columbia County": {
+            "countySeat": "St. Helens",
+            "directory": "Columbia-County"
+        },
+        "Coos County": {
+            "countySeat": "Coquille",
+            "directory": "Coos-County"
+        },
+        "Crook County": {
+            "countySeat": "Prineville",
+            "directory": "Crook-County"
+        },
+        "Curry County": {
+            "countySeat": "Gold Beach",
+            "directory": "Curry-County"
+        },
+        "Deschutes County": {
+            "countySeat": "Bend",
+            "directory": "Deschutes-County"
+        },
+        "Douglas County": {
+            "countySeat": "Roseburg",
+            "directory": "Douglas-County"
+        },
+        "Gilliam County": {
+            "countySeat": "Condon",
+            "directory": "Gilliam-County"
+        },
+        "Grant County": {
+            "countySeat": "Canyon City",
+            "directory": "Grant-County"
+        },
+        "Harney County": {
+            "countySeat": "Burns",
+            "directory": "Harney-County"
+        },
+        "Hood River County": {
+            "countySeat": "Hood River",
+            "directory": "Hood-River-County"
+        },
+        "Jackson County": {
+            "countySeat": "Medford",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Madras",
+            "directory": "Jefferson-County"
+        },
+        "Josephine County": {
+            "countySeat": "Grants Pass",
+            "directory": "Josephine-County"
+        },
+        "Klamath County": {
+            "countySeat": "Klamath Falls",
+            "directory": "Klamath-County"
+        },
+        "Lake County": {
+            "countySeat": "Lakeview",
+            "directory": "Lake-County"
+        },
+        "Lane County": {
+            "countySeat": "Eugene",
+            "directory": "Lane-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Newport",
+            "directory": "Lincoln-County"
+        },
+        "Linn County": {
+            "countySeat": "Albany",
+            "directory": "Linn-County"
+        },
+        "Malheur County": {
+            "countySeat": "Vale",
+            "directory": "Malheur-County"
+        },
+        "Marion County": {
+            "countySeat": "Salem",
+            "directory": "Marion-County"
+        },
+        "Morrow County": {
+            "countySeat": "Irrigon",
+            "directory": "Morrow-County"
+        },
+        "Multnomah County": {
+            "countySeat": "Portland",
+            "directory": "Multnomah-County"
+        },
+        "Polk County": {
+            "countySeat": "Dallas",
+            "directory": "Polk-County"
+        },
+        "Sherman County": {
+            "countySeat": "Moro",
+            "directory": "Sherman-County"
+        },
+        "Tillamook County": {
+            "countySeat": "Tillamook",
+            "directory": "Tillamook-County"
+        },
+        "Umatilla County": {
+            "countySeat": "Pendleton",
+            "directory": "Umatilla-County"
+        },
+        "Union County": {
+            "countySeat": "La Grande",
+            "directory": "Union-County"
+        },
+        "Wallowa County": {
+            "countySeat": "Enterprise",
+            "directory": "Wallowa-County"
+        },
+        "Wasco County": {
+            "countySeat": "The Dalles",
+            "directory": "Wasco-County"
+        },
+        "Washington County": {
+            "countySeat": "Hillsboro",
+            "directory": "Washington-County"
+        },
+        "Wheeler County": {
+            "countySeat": "Fossil",
+            "directory": "Wheeler-County"
+        },
+        "Yamhill County": {
+            "countySeat": "McMinnville",
+            "directory": "Yamhill-County"
+        }
+    }
+}

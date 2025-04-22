@@ -1,0 +1,390 @@
+{
+    "metadata": {
+        "state": "Virginia",
+        "stateAbbr": "VA",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 95
+    },
+    "counties": {
+        "Accomack County": {
+            "countySeat": "Accomac",
+            "directory": "Accomack-County"
+        },
+        "Albemarle County": {
+            "countySeat": "Charlottesville",
+            "directory": "Albemarle-County"
+        },
+        "Alleghany County": {
+            "countySeat": "Covington",
+            "directory": "Alleghany-County"
+        },
+        "Amelia County": {
+            "countySeat": "Amelia Court House",
+            "directory": "Amelia-County"
+        },
+        "Amherst County": {
+            "countySeat": "Amherst",
+            "directory": "Amherst-County"
+        },
+        "Appomattox County": {
+            "countySeat": "Appomattox",
+            "directory": "Appomattox-County"
+        },
+        "Arlington County": {
+            "countySeat": "Arlington",
+            "directory": "Arlington-County"
+        },
+        "Augusta County": {
+            "countySeat": "Staunton",
+            "directory": "Augusta-County"
+        },
+        "Bath County": {
+            "countySeat": "Warm Springs",
+            "directory": "Bath-County"
+        },
+        "Bedford County": {
+            "countySeat": "Bedford",
+            "directory": "Bedford-County"
+        },
+        "Bland County": {
+            "countySeat": "Bland",
+            "directory": "Bland-County"
+        },
+        "Botetourt County": {
+            "countySeat": "Fincastle",
+            "directory": "Botetourt-County"
+        },
+        "Brunswick County": {
+            "countySeat": "Lawrenceville",
+            "directory": "Brunswick-County"
+        },
+        "Buchanan County": {
+            "countySeat": "Grundy",
+            "directory": "Buchanan-County"
+        },
+        "Buckingham County": {
+            "countySeat": "Buckingham Court House",
+            "directory": "Buckingham-County"
+        },
+        "Campbell County": {
+            "countySeat": "Rustburg",
+            "directory": "Campbell-County"
+        },
+        "Caroline County": {
+            "countySeat": "Bowling Green",
+            "directory": "Caroline-County"
+        },
+        "Carroll County": {
+            "countySeat": "Hillsville",
+            "directory": "Carroll-County"
+        },
+        "Charles City County": {
+            "countySeat": "Charles City",
+            "directory": "Charles-City-County"
+        },
+        "Charlotte County": {
+            "countySeat": "Charlotte Court House",
+            "directory": "Charlotte-County"
+        },
+        "Chesterfield County": {
+            "countySeat": "Chesterfield",
+            "directory": "Chesterfield-County"
+        },
+        "Clarke County": {
+            "countySeat": "Berryville",
+            "directory": "Clarke-County"
+        },
+        "Craig County": {
+            "countySeat": "New Castle",
+            "directory": "Craig-County"
+        },
+        "Culpeper County": {
+            "countySeat": "Culpeper",
+            "directory": "Culpeper-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Cumberland",
+            "directory": "Cumberland-County"
+        },
+        "Dickenson County": {
+            "countySeat": "Clintwood",
+            "directory": "Dickenson-County"
+        },
+        "Dinwiddie County": {
+            "countySeat": "Dinwiddie",
+            "directory": "Dinwiddie-County"
+        },
+        "Essex County": {
+            "countySeat": "Tappahannock",
+            "directory": "Essex-County"
+        },
+        "Fairfax County": {
+            "countySeat": "Fairfax",
+            "directory": "Fairfax-County"
+        },
+        "Fauquier County": {
+            "countySeat": "Warrenton",
+            "directory": "Fauquier-County"
+        },
+        "Floyd County": {
+            "countySeat": "Floyd",
+            "directory": "Floyd-County"
+        },
+        "Fluvanna County": {
+            "countySeat": "Palmyra",
+            "directory": "Fluvanna-County"
+        },
+        "Franklin County": {
+            "countySeat": "Rocky Mount",
+            "directory": "Franklin-County"
+        },
+        "Frederick County": {
+            "countySeat": "Winchester",
+            "directory": "Frederick-County"
+        },
+        "Giles County": {
+            "countySeat": "Pearisburg",
+            "directory": "Giles-County"
+        },
+        "Gloucester County": {
+            "countySeat": "Gloucester Court House",
+            "directory": "Gloucester-County"
+        },
+        "Goochland County": {
+            "countySeat": "Goochland",
+            "directory": "Goochland-County"
+        },
+        "Grayson County": {
+            "countySeat": "Independence",
+            "directory": "Grayson-County"
+        },
+        "Greene County": {
+            "countySeat": "Stanardsville",
+            "directory": "Greene-County"
+        },
+        "Greensville County": {
+            "countySeat": "Emporia",
+            "directory": "Greensville-County"
+        },
+        "Halifax County": {
+            "countySeat": "Halifax",
+            "directory": "Halifax-County"
+        },
+        "Hanover County": {
+            "countySeat": "Hanover",
+            "directory": "Hanover-County"
+        },
+        "Henrico County": {
+            "countySeat": "Richmond",
+            "directory": "Henrico-County"
+        },
+        "Henry County": {
+            "countySeat": "Martinsville",
+            "directory": "Henry-County"
+        },
+        "Highland County": {
+            "countySeat": "Monterey",
+            "directory": "Highland-County"
+        },
+        "Isle of Wight County": {
+            "countySeat": "Isle of Wight",
+            "directory": "Isle-of-Wight-County"
+        },
+        "James City County": {
+            "countySeat": "Williamsburg",
+            "directory": "James-City-County"
+        },
+        "King and Queen County": {
+            "countySeat": "King and Queen Court House",
+            "directory": "King-and-Queen-County"
+        },
+        "King George County": {
+            "countySeat": "King George",
+            "directory": "King-George-County"
+        },
+        "King William County": {
+            "countySeat": "King William",
+            "directory": "King-William-County"
+        },
+        "Lancaster County": {
+            "countySeat": "Lancaster",
+            "directory": "Lancaster-County"
+        },
+        "Lee County": {
+            "countySeat": "Jonesville",
+            "directory": "Lee-County"
+        },
+        "Loudoun County": {
+            "countySeat": "Leesburg",
+            "directory": "Loudoun-County"
+        },
+        "Louisa County": {
+            "countySeat": "Louisa",
+            "directory": "Louisa-County"
+        },
+        "Lunenburg County": {
+            "countySeat": "Lunenburg",
+            "directory": "Lunenburg-County"
+        },
+        "Madison County": {
+            "countySeat": "Madison",
+            "directory": "Madison-County"
+        },
+        "Mathews County": {
+            "countySeat": "Mathews",
+            "directory": "Mathews-County"
+        },
+        "Mecklenburg County": {
+            "countySeat": "Boydton",
+            "directory": "Mecklenburg-County"
+        },
+        "Middlesex County": {
+            "countySeat": "Saluda",
+            "directory": "Middlesex-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Christiansburg",
+            "directory": "Montgomery-County"
+        },
+        "Nelson County": {
+            "countySeat": "Lovingston",
+            "directory": "Nelson-County"
+        },
+        "New Kent County": {
+            "countySeat": "New Kent",
+            "directory": "New-Kent-County"
+        },
+        "Northampton County": {
+            "countySeat": "Eastville",
+            "directory": "Northampton-County"
+        },
+        "Northumberland County": {
+            "countySeat": "Heathsville",
+            "directory": "Northumberland-County"
+        },
+        "Nottoway County": {
+            "countySeat": "Nottoway Court House",
+            "directory": "Nottoway-County"
+        },
+        "Orange County": {
+            "countySeat": "Orange",
+            "directory": "Orange-County"
+        },
+        "Page County": {
+            "countySeat": "Luray",
+            "directory": "Page-County"
+        },
+        "Patrick County": {
+            "countySeat": "Stuart",
+            "directory": "Patrick-County"
+        },
+        "Pittsylvania County": {
+            "countySeat": "Chatham",
+            "directory": "Pittsylvania-County"
+        },
+        "Powhatan County": {
+            "countySeat": "Powhatan",
+            "directory": "Powhatan-County"
+        },
+        "Prince Edward County": {
+            "countySeat": "Farmville",
+            "directory": "Prince-Edward-County"
+        },
+        "Prince George County": {
+            "countySeat": "Prince George",
+            "directory": "Prince-George-County"
+        },
+        "Prince William County": {
+            "countySeat": "Manassas",
+            "directory": "Prince-William-County"
+        },
+        "Pulaski County": {
+            "countySeat": "Pulaski",
+            "directory": "Pulaski-County"
+        },
+        "Rappahannock County": {
+            "countySeat": "Washington",
+            "directory": "Rappahannock-County"
+        },
+        "Richmond County": {
+            "countySeat": "Warsaw",
+            "directory": "Richmond-County"
+        },
+        "Roanoke County": {
+            "countySeat": "Salem",
+            "directory": "Roanoke-County"
+        },
+        "Rockbridge County": {
+            "countySeat": "Lexington",
+            "directory": "Rockbridge-County"
+        },
+        "Rockingham County": {
+            "countySeat": "Harrisonburg",
+            "directory": "Rockingham-County"
+        },
+        "Russell County": {
+            "countySeat": "Lebanon",
+            "directory": "Russell-County"
+        },
+        "Scott County": {
+            "countySeat": "Gate City",
+            "directory": "Scott-County"
+        },
+        "Shenandoah County": {
+            "countySeat": "Woodstock",
+            "directory": "Shenandoah-County"
+        },
+        "Smyth County": {
+            "countySeat": "Marion",
+            "directory": "Smyth-County"
+        },
+        "Southampton County": {
+            "countySeat": "Courtland",
+            "directory": "Southampton-County"
+        },
+        "Spotsylvania County": {
+            "countySeat": "Spotsylvania Court House",
+            "directory": "Spotsylvania-County"
+        },
+        "Stafford County": {
+            "countySeat": "Stafford",
+            "directory": "Stafford-County"
+        },
+        "Surry County": {
+            "countySeat": "Surry",
+            "directory": "Surry-County"
+        },
+        "Sussex County": {
+            "countySeat": "Sussex",
+            "directory": "Sussex-County"
+        },
+        "Tazewell County": {
+            "countySeat": "Tazewell",
+            "directory": "Tazewell-County"
+        },
+        "Warren County": {
+            "countySeat": "Front Royal",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Abingdon",
+            "directory": "Washington-County"
+        },
+        "Westmoreland County": {
+            "countySeat": "Montross",
+            "directory": "Westmoreland-County"
+        },
+        "Wise County": {
+            "countySeat": "Wise",
+            "directory": "Wise-County"
+        },
+        "Wythe County": {
+            "countySeat": "Wytheville",
+            "directory": "Wythe-County"
+        },
+        "York County": {
+            "countySeat": "Yorktown",
+            "directory": "York-County"
+        }
+    }
+}

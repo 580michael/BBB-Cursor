@@ -1,0 +1,230 @@
+{
+    "metadata": {
+        "state": "Montana",
+        "stateAbbr": "MT",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 56
+    },
+    "counties": {
+        "Beaverhead County": {
+            "countySeat": "Dillon",
+            "directory": "Beaverhead-County"
+        },
+        "Big Horn County": {
+            "countySeat": "Hardin",
+            "directory": "Big-Horn-County"
+        },
+        "Blaine County": {
+            "countySeat": "Chinook",
+            "directory": "Blaine-County"
+        },
+        "Broadwater County": {
+            "countySeat": "Townsend",
+            "directory": "Broadwater-County"
+        },
+        "Carbon County": {
+            "countySeat": "Red Lodge",
+            "directory": "Carbon-County"
+        },
+        "Carter County": {
+            "countySeat": "Ekalaka",
+            "directory": "Carter-County"
+        },
+        "Cascade County": {
+            "countySeat": "Great Falls",
+            "directory": "Cascade-County"
+        },
+        "Chouteau County": {
+            "countySeat": "Fort Benton",
+            "directory": "Chouteau-County"
+        },
+        "Custer County": {
+            "countySeat": "Miles City",
+            "directory": "Custer-County"
+        },
+        "Daniels County": {
+            "countySeat": "Scobey",
+            "directory": "Daniels-County"
+        },
+        "Dawson County": {
+            "countySeat": "Glendive",
+            "directory": "Dawson-County"
+        },
+        "Deer Lodge County": {
+            "countySeat": "Anaconda",
+            "directory": "Deer-Lodge-County"
+        },
+        "Fallon County": {
+            "countySeat": "Baker",
+            "directory": "Fallon-County"
+        },
+        "Fergus County": {
+            "countySeat": "Lewistown",
+            "directory": "Fergus-County"
+        },
+        "Flathead County": {
+            "countySeat": "Kalispell",
+            "directory": "Flathead-County"
+        },
+        "Gallatin County": {
+            "countySeat": "Bozeman",
+            "directory": "Gallatin-County"
+        },
+        "Garfield County": {
+            "countySeat": "Jordan",
+            "directory": "Garfield-County"
+        },
+        "Glacier County": {
+            "countySeat": "Cut Bank",
+            "directory": "Glacier-County"
+        },
+        "Golden Valley County": {
+            "countySeat": "Ryegate",
+            "directory": "Golden-Valley-County"
+        },
+        "Granite County": {
+            "countySeat": "Philipsburg",
+            "directory": "Granite-County"
+        },
+        "Hill County": {
+            "countySeat": "Havre",
+            "directory": "Hill-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Boulder",
+            "directory": "Jefferson-County"
+        },
+        "Judith Basin County": {
+            "countySeat": "Stanford",
+            "directory": "Judith-Basin-County"
+        },
+        "Lake County": {
+            "countySeat": "Polson",
+            "directory": "Lake-County"
+        },
+        "Lewis and Clark County": {
+            "countySeat": "Helena",
+            "directory": "Lewis-and-Clark-County"
+        },
+        "Liberty County": {
+            "countySeat": "Chester",
+            "directory": "Liberty-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Libby",
+            "directory": "Lincoln-County"
+        },
+        "McCone County": {
+            "countySeat": "Circle",
+            "directory": "McCone-County"
+        },
+        "Madison County": {
+            "countySeat": "Virginia City",
+            "directory": "Madison-County"
+        },
+        "Meagher County": {
+            "countySeat": "White Sulphur Springs",
+            "directory": "Meagher-County"
+        },
+        "Mineral County": {
+            "countySeat": "Superior",
+            "directory": "Mineral-County"
+        },
+        "Missoula County": {
+            "countySeat": "Missoula",
+            "directory": "Missoula-County"
+        },
+        "Musselshell County": {
+            "countySeat": "Roundup",
+            "directory": "Musselshell-County"
+        },
+        "Park County": {
+            "countySeat": "Livingston",
+            "directory": "Park-County"
+        },
+        "Petroleum County": {
+            "countySeat": "Winnett",
+            "directory": "Petroleum-County"
+        },
+        "Phillips County": {
+            "countySeat": "Malta",
+            "directory": "Phillips-County"
+        },
+        "Pondera County": {
+            "countySeat": "Conrad",
+            "directory": "Pondera-County"
+        },
+        "Powder River County": {
+            "countySeat": "Broadus",
+            "directory": "Powder-River-County"
+        },
+        "Prairie County": {
+            "countySeat": "Terry",
+            "directory": "Prairie-County"
+        },
+        "Ravalli County": {
+            "countySeat": "Hamilton",
+            "directory": "Ravalli-County"
+        },
+        "Richland County": {
+            "countySeat": "Sidney",
+            "directory": "Richland-County"
+        },
+        "Roosevelt County": {
+            "countySeat": "Wolf Point",
+            "directory": "Roosevelt-County"
+        },
+        "Rosebud County": {
+            "countySeat": "Forsyth",
+            "directory": "Rosebud-County"
+        },
+        "Sanders County": {
+            "countySeat": "Thompson Falls",
+            "directory": "Sanders-County"
+        },
+        "Sheridan County": {
+            "countySeat": "Plentywood",
+            "directory": "Sheridan-County"
+        },
+        "Silver Bow County": {
+            "countySeat": "Butte",
+            "directory": "Silver-Bow-County"
+        },
+        "Stillwater County": {
+            "countySeat": "Columbus",
+            "directory": "Stillwater-County"
+        },
+        "Sweet Grass County": {
+            "countySeat": "Big Timber",
+            "directory": "Sweet-Grass-County"
+        },
+        "Teton County": {
+            "countySeat": "Choteau",
+            "directory": "Teton-County"
+        },
+        "Toole County": {
+            "countySeat": "Shelby",
+            "directory": "Toole-County"
+        },
+        "Treasure County": {
+            "countySeat": "Hysham",
+            "directory": "Treasure-County"
+        },
+        "Valley County": {
+            "countySeat": "Glasgow",
+            "directory": "Valley-County"
+        },
+        "Wheatland County": {
+            "countySeat": "Harlowton",
+            "directory": "Wheatland-County"
+        },
+        "Wibaux County": {
+            "countySeat": "Wibaux",
+            "directory": "Wibaux-County"
+        },
+        "Yellowstone County": {
+            "countySeat": "Billings",
+            "directory": "Yellowstone-County"
+        }
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "metadata": {
+        "state": "Kentucky",
+        "stateAbbr": "KY",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 120
+    },
+    "counties": {
+        "Adair County": {
+            "countySeat": "Columbia",
+            "directory": "Adair-County"
+        },
+        "Allen County": {
+            "countySeat": "Scottsville",
+            "directory": "Allen-County"
+        },
+        "Anderson County": {
+            "countySeat": "Lawrenceburg",
+            "directory": "Anderson-County"
+        },
+        "Ballard County": {
+            "countySeat": "Wickliffe",
+            "directory": "Ballard-County"
+        },
+        "Barren County": {
+            "countySeat": "Glasgow",
+            "directory": "Barren-County"
+        },
+        "Bath County": {
+            "countySeat": "Owingsville",
+            "directory": "Bath-County"
+        },
+        "Bell County": {
+            "countySeat": "Pineville",
+            "directory": "Bell-County"
+        },
+        "Boone County": {
+            "countySeat": "Burlington",
+            "directory": "Boone-County"
+        },
+        "Bourbon County": {
+            "countySeat": "Paris",
+            "directory": "Bourbon-County"
+        },
+        "Boyd County": {
+            "countySeat": "Catlettsburg",
+            "directory": "Boyd-County"
+        },
+        "Boyle County": {
+            "countySeat": "Danville",
+            "directory": "Boyle-County"
+        },
+        "Bracken County": {
+            "countySeat": "Brooksville",
+            "directory": "Bracken-County"
+        },
+        "Breathitt County": {
+            "countySeat": "Jackson",
+            "directory": "Breathitt-County"
+        },
+        "Breckinridge County": {
+            "countySeat": "Hardinsburg",
+            "directory": "Breckinridge-County"
+        },
+        "Bullitt County": {
+            "countySeat": "Shepherdsville",
+            "directory": "Bullitt-County"
+        },
+        "Butler County": {
+            "countySeat": "Morgantown",
+            "directory": "Butler-County"
+        },
+        "Caldwell County": {
+            "countySeat": "Princeton",
+            "directory": "Caldwell-County"
+        },
+        "Calloway County": {
+            "countySeat": "Murray",
+            "directory": "Calloway-County"
+        },
+        "Campbell County": {
+            "countySeat": "Alexandria",
+            "directory": "Campbell-County"
+        },
+        "Carlisle County": {
+            "countySeat": "Bardwell",
+            "directory": "Carlisle-County"
+        },
+        "Carroll County": {
+            "countySeat": "Carrollton",
+            "directory": "Carroll-County"
+        },
+        "Carter County": {
+            "countySeat": "Grayson",
+            "directory": "Carter-County"
+        },
+        "Casey County": {
+            "countySeat": "Liberty",
+            "directory": "Casey-County"
+        },
+        "Christian County": {
+            "countySeat": "Hopkinsville",
+            "directory": "Christian-County"
+        },
+        "Clark County": {
+            "countySeat": "Winchester",
+            "directory": "Clark-County"
+        },
+        "Clay County": {
+            "countySeat": "Manchester",
+            "directory": "Clay-County"
+        },
+        "Clinton County": {
+            "countySeat": "Albany",
+            "directory": "Clinton-County"
+        },
+        "Crittenden County": {
+            "countySeat": "Marion",
+            "directory": "Crittenden-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Burkesville",
+            "directory": "Cumberland-County"
+        },
+        "Daviess County": {
+            "countySeat": "Owensboro",
+            "directory": "Daviess-County"
+        },
+        "Edmonson County": {
+            "countySeat": "Brownsville",
+            "directory": "Edmonson-County"
+        },
+        "Elliott County": {
+            "countySeat": "Sandy Hook",
+            "directory": "Elliott-County"
+        },
+        "Estill County": {
+            "countySeat": "Irvine",
+            "directory": "Estill-County"
+        },
+        "Fayette County": {
+            "countySeat": "Lexington",
+            "directory": "Fayette-County"
+        },
+        "Fleming County": {
+            "countySeat": "Flemingsburg",
+            "directory": "Fleming-County"
+        },
+        "Floyd County": {
+            "countySeat": "Prestonsburg",
+            "directory": "Floyd-County"
+        },
+        "Franklin County": {
+            "countySeat": "Frankfort",
+            "directory": "Franklin-County"
+        },
+        "Fulton County": {
+            "countySeat": "Hickman",
+            "directory": "Fulton-County"
+        },
+        "Gallatin County": {
+            "countySeat": "Warsaw",
+            "directory": "Gallatin-County"
+        },
+        "Garrard County": {
+            "countySeat": "Lancaster",
+            "directory": "Garrard-County"
+        },
+        "Grant County": {
+            "countySeat": "Williamstown",
+            "directory": "Grant-County"
+        },
+        "Graves County": {
+            "countySeat": "Mayfield",
+            "directory": "Graves-County"
+        },
+        "Grayson County": {
+            "countySeat": "Leitchfield",
+            "directory": "Grayson-County"
+        },
+        "Green County": {
+            "countySeat": "Greensburg",
+            "directory": "Green-County"
+        },
+        "Hardin County": {
+            "countySeat": "Elizabethtown",
+            "directory": "Hardin-County"
+        },
+        "Harlan County": {
+            "countySeat": "Harlan",
+            "directory": "Harlan-County"
+        },
+        "Harrison County": {
+            "countySeat": "Cynthiana",
+            "directory": "Harrison-County"
+        },
+        "Hart County": {
+            "countySeat": "Munfordville",
+            "directory": "Hart-County"
+        },
+        "Henderson County": {
+            "countySeat": "Henderson",
+            "directory": "Henderson-County"
+        },
+        "Henry County": {
+            "countySeat": "New Castle",
+            "directory": "Henry-County"
+        },
+        "Hickman County": {
+            "countySeat": "Clinton",
+            "directory": "Hickman-County"
+        },
+        "Hopkins County": {
+            "countySeat": "Madisonville",
+            "directory": "Hopkins-County"
+        },
+        "Jackson County": {
+            "countySeat": "McKee",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Louisville",
+            "directory": "Jefferson-County"
+        },
+        "Jessamine County": {
+            "countySeat": "Nicholasville",
+            "directory": "Jessamine-County"
+        },
+        "Johnson County": {
+            "countySeat": "Paintsville",
+            "directory": "Johnson-County"
+        },
+        "Kenton County": {
+            "countySeat": "Covington",
+            "directory": "Kenton-County"
+        },
+        "Knott County": {
+            "countySeat": "Hindman",
+            "directory": "Knott-County"
+        },
+        "Knox County": {
+            "countySeat": "Barbourville",
+            "directory": "Knox-County"
+        },
+        "LaRue County": {
+            "countySeat": "Hodgenville",
+            "directory": "LaRue-County"
+        },
+        "Laurel County": {
+            "countySeat": "London",
+            "directory": "Laurel-County"
+        },
+        "Lawrence County": {
+            "countySeat": "Louisa",
+            "directory": "Lawrence-County"
+        },
+        "Lee County": {
+            "countySeat": "Beattyville",
+            "directory": "Lee-County"
+        },
+        "Leslie County": {
+            "countySeat": "Hyden",
+            "directory": "Leslie-County"
+        },
+        "Letcher County": {
+            "countySeat": "Whitesburg",
+            "directory": "Letcher-County"
+        },
+        "Lewis County": {
+            "countySeat": "Vanceburg",
+            "directory": "Lewis-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Stanford",
+            "directory": "Lincoln-County"
+        },
+        "Livingston County": {
+            "countySeat": "Smithland",
+            "directory": "Livingston-County"
+        },
+        "Logan County": {
+            "countySeat": "Russellville",
+            "directory": "Logan-County"
+        },
+        "Lyon County": {
+            "countySeat": "Eddyville",
+            "directory": "Lyon-County"
+        },
+        "McCracken County": {
+            "countySeat": "Paducah",
+            "directory": "McCracken-County"
+        },
+        "McCreary County": {
+            "countySeat": "Whitley City",
+            "directory": "McCreary-County"
+        },
+        "McLean County": {
+            "countySeat": "Calhoun",
+            "directory": "McLean-County"
+        },
+        "Madison County": {
+            "countySeat": "Richmond",
+            "directory": "Madison-County"
+        },
+        "Magoffin County": {
+            "countySeat": "Salyersville",
+            "directory": "Magoffin-County"
+        },
+        "Marion County": {
+            "countySeat": "Lebanon",
+            "directory": "Marion-County"
+        },
+        "Marshall County": {
+            "countySeat": "Benton",
+            "directory": "Marshall-County"
+        },
+        "Martin County": {
+            "countySeat": "Inez",
+            "directory": "Martin-County"
+        },
+        "Mason County": {
+            "countySeat": "Maysville",
+            "directory": "Mason-County"
+        },
+        "Meade County": {
+            "countySeat": "Brandenburg",
+            "directory": "Meade-County"
+        },
+        "Menifee County": {
+            "countySeat": "Frenchburg",
+            "directory": "Menifee-County"
+        },
+        "Mercer County": {
+            "countySeat": "Harrodsburg",
+            "directory": "Mercer-County"
+        },
+        "Metcalfe County": {
+            "countySeat": "Edmonton",
+            "directory": "Metcalfe-County"
+        },
+        "Monroe County": {
+            "countySeat": "Tompkinsville",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Mount Sterling",
+            "directory": "Montgomery-County"
+        },
+        "Morgan County": {
+            "countySeat": "West Liberty",
+            "directory": "Morgan-County"
+        },
+        "Muhlenberg County": {
+            "countySeat": "Greenville",
+            "directory": "Muhlenberg-County"
+        },
+        "Nelson County": {
+            "countySeat": "Bardstown",
+            "directory": "Nelson-County"
+        },
+        "Nicholas County": {
+            "countySeat": "Carlisle",
+            "directory": "Nicholas-County"
+        },
+        "Ohio County": {
+            "countySeat": "Hartford",
+            "directory": "Ohio-County"
+        },
+        "Oldham County": {
+            "countySeat": "La Grange",
+            "directory": "Oldham-County"
+        },
+        "Owen County": {
+            "countySeat": "Owenton",
+            "directory": "Owen-County"
+        },
+        "Owsley County": {
+            "countySeat": "Booneville",
+            "directory": "Owsley-County"
+        },
+        "Pendleton County": {
+            "countySeat": "Falmouth",
+            "directory": "Pendleton-County"
+        },
+        "Perry County": {
+            "countySeat": "Hazard",
+            "directory": "Perry-County"
+        },
+        "Pike County": {
+            "countySeat": "Pikeville",
+            "directory": "Pike-County"
+        },
+        "Powell County": {
+            "countySeat": "Stanton",
+            "directory": "Powell-County"
+        },
+        "Pulaski County": {
+            "countySeat": "Somerset",
+            "directory": "Pulaski-County"
+        },
+        "Robertson County": {
+            "countySeat": "Mount Olivet",
+            "directory": "Robertson-County"
+        },
+        "Rockcastle County": {
+            "countySeat": "Mount Vernon",
+            "directory": "Rockcastle-County"
+        },
+        "Rowan County": {
+            "countySeat": "Morehead",
+            "directory": "Rowan-County"
+        },
+        "Russell County": {
+            "countySeat": "Jamestown",
+            "directory": "Russell-County"
+        },
+        "Scott County": {
+            "countySeat": "Georgetown",
+            "directory": "Scott-County"
+        },
+        "Shelby County": {
+            "countySeat": "Shelbyville",
+            "directory": "Shelby-County"
+        },
+        "Simpson County": {
+            "countySeat": "Franklin",
+            "directory": "Simpson-County"
+        },
+        "Spencer County": {
+            "countySeat": "Taylorsville",
+            "directory": "Spencer-County"
+        },
+        "Taylor County": {
+            "countySeat": "Campbellsville",
+            "directory": "Taylor-County"
+        },
+        "Todd County": {
+            "countySeat": "Elkton",
+            "directory": "Todd-County"
+        },
+        "Trigg County": {
+            "countySeat": "Cadiz",
+            "directory": "Trigg-County"
+        },
+        "Trimble County": {
+            "countySeat": "Bedford",
+            "directory": "Trimble-County"
+        },
+        "Union County": {
+            "countySeat": "Morganfield",
+            "directory": "Union-County"
+        },
+        "Warren County": {
+            "countySeat": "Bowling Green",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Springfield",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Monticello",
+            "directory": "Wayne-County"
+        },
+        "Webster County": {
+            "countySeat": "Dixon",
+            "directory": "Webster-County"
+        },
+        "Whitley County": {
+            "countySeat": "Williamsburg",
+            "directory": "Whitley-County"
+        },
+        "Wolfe County": {
+            "countySeat": "Campton",
+            "directory": "Wolfe-County"
+        },
+        "Woodford County": {
+            "countySeat": "Versailles",
+            "directory": "Woodford-County"
+        }
+    }
+}

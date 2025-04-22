@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 67
+  },
+  "counties": {
+    "Alachua County": {
+      "countySeat": "Gainesville",
+      "directory": "Alachua-County"
+    },
+    "Baker County": {
+      "countySeat": "Macclenny",
+      "directory": "Baker-County"
+    },
+    "Bay County": {
+      "countySeat": "Panama City",
+      "directory": "Bay-County"
+    },
+    "Bradford County": {
+      "countySeat": "Starke",
+      "directory": "Bradford-County"
+    },
+    "Brevard County": {
+      "countySeat": "Titusville",
+      "directory": "Brevard-County"
+    },
+    "Broward County": {
+      "countySeat": "Fort Lauderdale",
+      "directory": "Broward-County"
+    },
+    "Calhoun County": {
+      "countySeat": "Blountstown",
+      "directory": "Calhoun-County"
+    },
+    "Charlotte County": {
+      "countySeat": "Punta Gorda",
+      "directory": "Charlotte-County"
+    },
+    "Citrus County": {
+      "countySeat": "Inverness",
+      "directory": "Citrus-County"
+    },
+    "Clay County": {
+      "countySeat": "Green Cove Springs",
+      "directory": "Clay-County"
+    },
+    "Collier County": {
+      "countySeat": "East Naples",
+      "directory": "Collier-County"
+    },
+    "Columbia County": {
+      "countySeat": "Lake City",
+      "directory": "Columbia-County"
+    },
+    "DeSoto County": {
+      "countySeat": "Arcadia",
+      "directory": "DeSoto-County"
+    },
+    "Dixie County": {
+      "countySeat": "Cross City",
+      "directory": "Dixie-County"
+    },
+    "Duval County": {
+      "countySeat": "Jacksonville",
+      "directory": "Duval-County"
+    },
+    "Escambia County": {
+      "countySeat": "Pensacola",
+      "directory": "Escambia-County"
+    },
+    "Flagler County": {
+      "countySeat": "Bunnell",
+      "directory": "Flagler-County"
+    },
+    "Franklin County": {
+      "countySeat": "Apalachicola",
+      "directory": "Franklin-County"
+    },
+    "Gadsden County": {
+      "countySeat": "Quincy",
+      "directory": "Gadsden-County"
+    },
+    "Gilchrist County": {
+      "countySeat": "Trenton",
+      "directory": "Gilchrist-County"
+    },
+    "Glades County": {
+      "countySeat": "Moore Haven",
+      "directory": "Glades-County"
+    },
+    "Gulf County": {
+      "countySeat": "Port St. Joe",
+      "directory": "Gulf-County"
+    },
+    "Hamilton County": {
+      "countySeat": "Jasper",
+      "directory": "Hamilton-County"
+    },
+    "Hardee County": {
+      "countySeat": "Wauchula",
+      "directory": "Hardee-County"
+    },
+    "Hendry County": {
+      "countySeat": "LaBelle",
+      "directory": "Hendry-County"
+    },
+    "Hernando County": {
+      "countySeat": "Brooksville",
+      "directory": "Hernando-County"
+    },
+    "Highlands County": {
+      "countySeat": "Sebring",
+      "directory": "Highlands-County"
+    },
+    "Hillsborough County": {
+      "countySeat": "Tampa",
+      "directory": "Hillsborough-County"
+    },
+    "Holmes County": {
+      "countySeat": "Bonifay",
+      "directory": "Holmes-County"
+    },
+    "Indian River County": {
+      "countySeat": "Vero Beach",
+      "directory": "Indian-River-County"
+    },
+    "Jackson County": {
+      "countySeat": "Marianna",
+      "directory": "Jackson-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Monticello",
+      "directory": "Jefferson-County"
+    },
+    "Lafayette County": {
+      "countySeat": "Mayo",
+      "directory": "Lafayette-County"
+    },
+    "Lake County": {
+      "countySeat": "Tavares",
+      "directory": "Lake-County"
+    },
+    "Lee County": {
+      "countySeat": "Fort Myers",
+      "directory": "Lee-County"
+    },
+    "Leon County": {
+      "countySeat": "Tallahassee",
+      "directory": "Leon-County"
+    },
+    "Levy County": {
+      "countySeat": "Bronson",
+      "directory": "Levy-County"
+    },
+    "Liberty County": {
+      "countySeat": "Bristol",
+      "directory": "Liberty-County"
+    },
+    "Madison County": {
+      "countySeat": "Madison",
+      "directory": "Madison-County"
+    },
+    "Manatee County": {
+      "countySeat": "Bradenton",
+      "directory": "Manatee-County"
+    },
+    "Marion County": {
+      "countySeat": "Ocala",
+      "directory": "Marion-County"
+    },
+    "Martin County": {
+      "countySeat": "Stuart",
+      "directory": "Martin-County"
+    },
+    "Miami-Dade County": {
+      "countySeat": "Miami",
+      "directory": "Miami-Dade-County"
+    },
+    "Monroe County": {
+      "countySeat": "Key West",
+      "directory": "Monroe-County"
+    },
+    "Nassau County": {
+      "countySeat": "Fernandina Beach",
+      "directory": "Nassau-County"
+    },
+    "Okaloosa County": {
+      "countySeat": "Crestview",
+      "directory": "Okaloosa-County"
+    },
+    "Okeechobee County": {
+      "countySeat": "Okeechobee",
+      "directory": "Okeechobee-County"
+    },
+    "Orange County": {
+      "countySeat": "Orlando",
+      "directory": "Orange-County"
+    },
+    "Osceola County": {
+      "countySeat": "Kissimmee",
+      "directory": "Osceola-County"
+    },
+    "Palm Beach County": {
+      "countySeat": "West Palm Beach",
+      "directory": "Palm-Beach-County"
+    },
+    "Pasco County": {
+      "countySeat": "Dade City",
+      "directory": "Pasco-County"
+    },
+    "Pinellas County": {
+      "countySeat": "Clearwater",
+      "directory": "Pinellas-County"
+    },
+    "Polk County": {
+      "countySeat": "Bartow",
+      "directory": "Polk-County"
+    },
+    "Putnam County": {
+      "countySeat": "Palatka",
+      "directory": "Putnam-County"
+    },
+    "St. Johns County": {
+      "countySeat": "St. Augustine",
+      "directory": "St.-Johns-County"
+    },
+    "St. Lucie County": {
+      "countySeat": "Fort Pierce",
+      "directory": "St.-Lucie-County"
+    },
+    "Santa Rosa County": {
+      "countySeat": "Milton",
+      "directory": "Santa-Rosa-County"
+    },
+    "Sarasota County": {
+      "countySeat": "Sarasota",
+      "directory": "Sarasota-County"
+    },
+    "Seminole County": {
+      "countySeat": "Sanford",
+      "directory": "Seminole-County"
+    },
+    "Sumter County": {
+      "countySeat": "Bushnell",
+      "directory": "Sumter-County"
+    },
+    "Suwannee County": {
+      "countySeat": "Live Oak",
+      "directory": "Suwannee-County"
+    },
+    "Taylor County": {
+      "countySeat": "Perry",
+      "directory": "Taylor-County"
+    },
+    "Union County": {
+      "countySeat": "Lake Butler",
+      "directory": "Union-County"
+    },
+    "Volusia County": {
+      "countySeat": "DeLand",
+      "directory": "Volusia-County"
+    },
+    "Wakulla County": {
+      "countySeat": "Crawfordville",
+      "directory": "Wakulla-County"
+    },
+    "Walton County": {
+      "countySeat": "DeFuniak Springs",
+      "directory": "Walton-County"
+    },
+    "Washington County": {
+      "countySeat": "Chipley",
+      "directory": "Washington-County"
+    }
+  }
+}

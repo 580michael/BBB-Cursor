@@ -1,0 +1,646 @@
+{
+  "metadata": {
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "lastUpdated": "2025-03-26",
+    "totalCounties": 159
+  },
+  "counties":  {
+    "Appling County": {
+      "countySeat": "Baxley",
+      "directory": "Appling-County"
+    },
+    "Atkinson County": {
+      "countySeat": "Pearson",
+      "directory": "Atkinson-County"
+    },
+    "Bacon County": {
+      "countySeat": "Alma",
+      "directory": "Bacon-County"
+    },
+    "Baker County": {
+      "countySeat": "Newton",
+      "directory": "Baker-County"
+    },
+    "Baldwin County": {
+      "countySeat": "Milledgeville",
+      "directory": "Baldwin-County"
+    },
+    "Banks County": {
+      "countySeat": "Homer",
+      "directory": "Banks-County"
+    },
+    "Barrow County": {
+      "countySeat": "Winder",
+      "directory": "Barrow-County"
+    },
+    "Bartow County": {
+      "countySeat": "Cartersville",
+      "directory": "Bartow-County"
+    },
+    "Ben Hill County": {
+      "countySeat": "Fitzgerald",
+      "directory": "Ben-Hill-County"
+    },
+    "Berrien County": {
+      "countySeat": "Nashville",
+      "directory": "Berrien-County"
+    },
+    "Bibb County": {
+      "countySeat": "Macon",
+      "directory": "Bibb-County"
+    },
+    "Bleckley County": {
+      "countySeat": "Cochran",
+      "directory": "Bleckley-County"
+    },
+    "Brantley County": {
+      "countySeat": "Nahunta",
+      "directory": "Brantley-County"
+    },
+    "Brooks County": {
+      "countySeat": "Quitman",
+      "directory": "Brooks-County"
+    },
+    "Bryan County": {
+      "countySeat": "Pembroke",
+      "directory": "Bryan-County"
+    },
+    "Bulloch County": {
+      "countySeat": "Statesboro",
+      "directory": "Bulloch-County"
+    },
+    "Burke County": {
+      "countySeat": "Waynesboro",
+      "directory": "Burke-County"
+    },
+    "Butts County": {
+      "countySeat": "Jackson",
+      "directory": "Butts-County"
+    },
+    "Calhoun County": {
+      "countySeat": "Morgan",
+      "directory": "Calhoun-County"
+    },
+    "Camden County": {
+      "countySeat": "Woodbine",
+      "directory": "Camden-County"
+    },
+    "Candler County": {
+      "countySeat": "Metter",
+      "directory": "Candler-County"
+    },
+    "Carroll County": {
+      "countySeat": "Carrollton",
+      "directory": "Carroll-County"
+    },
+    "Catoosa County": {
+      "countySeat": "Ringgold",
+      "directory": "Catoosa-County"
+    },
+    "Charlton County": {
+      "countySeat": "Folkston",
+      "directory": "Charlton-County"
+    },
+    "Chatham County": {
+      "countySeat": "Savannah",
+      "directory": "Chatham-County"
+    },
+    "Chattahoochee County": {
+      "countySeat": "Cusseta",
+      "directory": "Chattahoochee-County"
+    },
+    "Chattooga County": {
+      "countySeat": "Summerville",
+      "directory": "Chattooga-County"
+    },
+    "Cherokee County": {
+      "countySeat": "Canton",
+      "directory": "Cherokee-County"
+    },
+    "Clarke County": {
+      "countySeat": "Athens",
+      "directory": "Clarke-County"
+    },
+    "Clay County": {
+      "countySeat": "Fort Gaines",
+      "directory": "Clay-County"
+    },
+    "Clayton County": {
+      "countySeat": "Jonesboro",
+      "directory": "Clayton-County"
+    },
+    "Clinch County": {
+      "countySeat": "Homerville",
+      "directory": "Clinch-County"
+    },
+    "Cobb County": {
+      "countySeat": "Marietta",
+      "directory": "Cobb-County"
+    },
+    "Coffee County": {
+      "countySeat": "Douglas",
+      "directory": "Coffee-County"
+    },
+    "Colquitt County": {
+      "countySeat": "Moultrie",
+      "directory": "Colquitt-County"
+    },
+    "Columbia County": {
+      "countySeat": "Appling",
+      "directory": "Columbia-County"
+    },
+    "Cook County": {
+      "countySeat": "Adel",
+      "directory": "Cook-County"
+    },
+    "Coweta County": {
+      "countySeat": "Newnan",
+      "directory": "Coweta-County"
+    },
+    "Crawford County": {
+      "countySeat": "Knoxville",
+      "directory": "Crawford-County"
+    },
+    "Crisp County": {
+      "countySeat": "Cordele",
+      "directory": "Crisp-County"
+    },
+    "Dade County": {
+      "countySeat": "Trenton",
+      "directory": "Dade-County"
+    },
+    "Dawson County": {
+      "countySeat": "Dawsonville",
+      "directory": "Dawson-County"
+    },
+    "Decatur County": {
+      "countySeat": "Bainbridge",
+      "directory": "Decatur-County"
+    },
+    "DeKalb County": {
+      "countySeat": "Decatur",
+      "directory": "DeKalb-County"
+    },
+    "Dodge County": {
+      "countySeat": "Eastman",
+      "directory": "Dodge-County"
+    },
+    "Dooly County": {
+      "countySeat": "Vienna",
+      "directory": "Dooly-County"
+    },
+    "Dougherty County": {
+      "countySeat": "Albany",
+      "directory": "Dougherty-County"
+    },
+    "Douglas County": {
+      "countySeat": "Douglasville",
+      "directory": "Douglas-County"
+    },
+    "Early County": {
+      "countySeat": "Blakely",
+      "directory": "Early-County"
+    },
+    "Echols County": {
+      "countySeat": "Statenville",
+      "directory": "Echols-County"
+    },
+    "Effingham County": {
+      "countySeat": "Springfield",
+      "directory": "Effingham-County"
+    },
+    "Elbert County": {
+      "countySeat": "Elberton",
+      "directory": "Elbert-County"
+    },
+    "Emanuel County": {
+      "countySeat": "Swainsboro",
+      "directory": "Emanuel-County"
+    },
+    "Evans County": {
+      "countySeat": "Claxton",
+      "directory": "Evans-County"
+    },
+    "Fannin County": {
+      "countySeat": "Blue Ridge",
+      "directory": "Fannin-County"
+    },
+    "Fayette County": {
+      "countySeat": "Fayetteville",
+      "directory": "Fayette-County"
+    },
+    "Floyd County": {
+      "countySeat": "Rome",
+      "directory": "Floyd-County"
+    },
+    "Forsyth County": {
+      "countySeat": "Cumming",
+      "directory": "Forsyth-County"
+    },
+    "Franklin County": {
+      "countySeat": "Carnesville",
+      "directory": "Franklin-County"
+    },
+    "Fulton County": {
+      "countySeat": "Atlanta",
+      "directory": "Fulton-County"
+    },
+    "Gilmer County": {
+      "countySeat": "Ellijay",
+      "directory": "Gilmer-County"
+    },
+    "Glascock County": {
+      "countySeat": "Gibson",
+      "directory": "Glascock-County"
+    },
+    "Glynn County": {
+      "countySeat": "Brunswick",
+      "directory": "Glynn-County"
+    },
+    "Gordon County": {
+      "countySeat": "Calhoun",
+      "directory": "Gordon-County"
+    },
+    "Grady County": {
+      "countySeat": "Cairo",
+      "directory": "Grady-County"
+    },
+    "Greene County": {
+      "countySeat": "Greensboro",
+      "directory": "Greene-County"
+    },
+    "Gwinnett County": {
+      "countySeat": "Lawrenceville",
+      "directory": "Gwinnett-County"
+    },
+    "Habersham County": {
+      "countySeat": "Clarkesville",
+      "directory": "Habersham-County"
+    },
+    "Hall County": {
+      "countySeat": "Gainesville",
+      "directory": "Hall-County"
+    },
+    "Hancock County": {
+      "countySeat": "Sparta",
+      "directory": "Hancock-County"
+    },
+    "Haralson County": {
+      "countySeat": "Buchanan",
+      "directory": "Haralson-County"
+    },
+    "Harris County": {
+      "countySeat": "Hamilton",
+      "directory": "Harris-County"
+    },
+    "Hart County": {
+      "countySeat": "Hartwell",
+      "directory": "Hart-County"
+    },
+    "Heard County": {
+      "countySeat": "Franklin",
+      "directory": "Heard-County"
+    },
+    "Henry County": {
+      "countySeat": "McDonough",
+      "directory": "Henry-County"
+    },
+    "Houston County": {
+      "countySeat": "Perry",
+      "directory": "Houston-County"
+    },
+    "Irwin County": {
+      "countySeat": "Ocilla",
+      "directory": "Irwin-County"
+    },
+    "Jackson County": {
+      "countySeat": "Jefferson",
+      "directory": "Jackson-County"
+    },
+    "Jasper County": {
+      "countySeat": "Monticello",
+      "directory": "Jasper-County"
+    },
+    "Jeff Davis County": {
+      "countySeat": "Hazlehurst",
+      "directory": "Jeff-Davis-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Louisville",
+      "directory": "Jefferson-County"
+    },
+    "Jenkins County": {
+      "countySeat": "Millen",
+      "directory": "Jenkins-County"
+    },
+    "Johnson County": {
+      "countySeat": "Wrightsville",
+      "directory": "Johnson-County"
+    },
+    "Jones County": {
+      "countySeat": "Gray",
+      "directory": "Jones-County"
+    },
+    "Lamar County": {
+      "countySeat": "Barnesville",
+      "directory": "Lamar-County"
+    },
+    "Lanier County": {
+      "countySeat": "Lakeland",
+      "directory": "Lanier-County"
+    },
+    "Laurens County": {
+      "countySeat": "Dublin",
+      "directory": "Laurens-County"
+    },
+    "Lee County": {
+      "countySeat": "Leesburg",
+      "directory": "Lee-County"
+    },
+    "Liberty County": {
+      "countySeat": "Hinesville",
+      "directory": "Liberty-County"
+    },
+    "Lincoln County": {
+      "countySeat": "Lincolnton",
+      "directory": "Lincoln-County"
+    },
+    "Long County": {
+      "countySeat": "Ludowici",
+      "directory": "Long-County"
+    },
+    "Lowndes County": {
+      "countySeat": "Valdosta",
+      "directory": "Lowndes-County"
+    },
+    "Lumpkin County": {
+      "countySeat": "Dahlonega",
+      "directory": "Lumpkin-County"
+    },
+    "Macon County": {
+      "countySeat": "Oglethorpe",
+      "directory": "Macon-County"
+    },
+    "Madison County": {
+      "countySeat": "Danielsville",
+      "directory": "Madison-County"
+    },
+    "Marion County": {
+      "countySeat": "Buena Vista",
+      "directory": "Marion-County"
+    },
+    "McDuffie County": {
+      "countySeat": "Thomson",
+      "directory": "McDuffie-County"
+    },
+    "McIntosh County": {
+      "countySeat": "Darien",
+      "directory": "McIntosh-County"
+    },
+    "Meriwether County": {
+      "countySeat": "Greenville",
+      "directory": "Meriwether-County"
+    },
+    "Miller County": {
+      "countySeat": "Colquitt",
+      "directory": "Miller-County"
+    },
+    "Mitchell County": {
+      "countySeat": "Camilla",
+      "directory": "Mitchell-County"
+    },
+    "Monroe County": {
+      "countySeat": "Forsyth",
+      "directory": "Monroe-County"
+    },
+    "Montgomery County": {
+      "countySeat": "Mount Vernon",
+      "directory": "Montgomery-County"
+    },
+    "Morgan County": {
+      "countySeat": "Madison",
+      "directory": "Morgan-County"
+    },
+    "Murray County": {
+      "countySeat": "Chatsworth",
+      "directory": "Murray-County"
+    },
+    "Muscogee County": {
+      "countySeat": "Columbus",
+      "directory": "Muscogee-County"
+    },
+    "Newton County": {
+      "countySeat": "Covington",
+      "directory": "Newton-County"
+    },
+    "Oconee County": {
+      "countySeat": "Watkinsville",
+      "directory": "Oconee-County"
+    },
+    "Oglethorpe County": {
+      "countySeat": "Lexington",
+      "directory": "Oglethorpe-County"
+    },
+    "Paulding County": {
+      "countySeat": "Dallas",
+      "directory": "Paulding-County"
+    },
+    "Peach County": {
+      "countySeat": "Fort Valley",
+      "directory": "Peach-County"
+    },
+    "Pickens County": {
+      "countySeat": "Jasper",
+      "directory": "Pickens-County"
+    },
+    "Pierce County": {
+      "countySeat": "Blackshear",
+      "directory": "Pierce-County"
+    },
+    "Pike County": {
+      "countySeat": "Zebulon",
+      "directory": "Pike-County"
+    },
+    "Polk County": {
+      "countySeat": "Cedartown",
+      "directory": "Polk-County"
+    },
+    "Pulaski County": {
+      "countySeat": "Hawkinsville",
+      "directory": "Pulaski-County"
+    },
+    "Putnam County": {
+      "countySeat": "Eatonton",
+      "directory": "Putnam-County"
+    },
+    "Quitman County": {
+      "countySeat": "Georgetown",
+      "directory": "Quitman-County"
+    },
+    "Rabun County": {
+      "countySeat": "Clayton",
+      "directory": "Rabun-County"
+    },
+    "Randolph County": {
+      "countySeat": "Cuthbert",
+      "directory": "Randolph-County"
+    },
+    "Richmond County": {
+      "countySeat": "Augusta",
+      "directory": "Richmond-County"
+    },
+    "Rockdale County": {
+      "countySeat": "Conyers",
+      "directory": "Rockdale-County"
+    },
+    "Schley County": {
+      "countySeat": "Ellaville",
+      "directory": "Schley-County"
+    },
+    "Screven County": {
+      "countySeat": "Sylvania",
+      "directory": "Screven-County"
+    },
+    "Seminole County": {
+      "countySeat": "Donalsonville",
+      "directory": "Seminole-County"
+    },
+    "Spalding County": {
+      "countySeat": "Griffin",
+      "directory": "Spalding-County"
+    },
+    "Stephens County": {
+      "countySeat": "Toccoa",
+      "directory": "Stephens-County"
+    },
+    "Stewart County": {
+      "countySeat": "Lumpkin",
+      "directory": "Stewart-County"
+    },
+    "Sumter County": {
+      "countySeat": "Americus",
+      "directory": "Sumter-County"
+    },
+    "Talbot County": {
+      "countySeat": "Talbotton",
+      "directory": "Talbot-County"
+    },
+    "Taliaferro County": {
+      "countySeat": "Crawfordville",
+      "directory": "Taliaferro-County"
+    },
+    "Tattnall County": {
+      "countySeat": "Reidsville",
+      "directory": "Tattnall-County"
+    },
+    "Taylor County": {
+      "countySeat": "Butler",
+      "directory": "Taylor-County"
+    },
+    "Telfair County": {
+      "countySeat": "McRae",
+      "directory": "Telfair-County"
+    },
+    "Terrell County": {
+      "countySeat": "Dawson",
+      "directory": "Terrell-County"
+    },
+    "Thomas County": {
+      "countySeat": "Thomasville",
+      "directory": "Thomas-County"
+    },
+    "Tift County": {
+      "countySeat": "Tifton",
+      "directory": "Tift-County"
+    },
+    "Toombs County": {
+      "countySeat": "Lyons",
+      "directory": "Toombs-County"
+    },
+    "Towns County": {
+      "countySeat": "Hiawassee",
+      "directory": "Towns-County"
+    },
+    "Treutlen County": {
+      "countySeat": "Soperton",
+      "directory": "Treutlen-County"
+    },
+    "Troup County": {
+      "countySeat": "LaGrange",
+      "directory": "Troup-County"
+    },
+    "Turner County": {
+      "countySeat": "Ashburn",
+      "directory": "Turner-County"
+    },
+    "Twiggs County": {
+      "countySeat": "Jeffersonville",
+      "directory": "Twiggs-County"
+    },
+    "Union County": {
+      "countySeat": "Blairsville",
+      "directory": "Union-County"
+    },
+    "Upson County": {
+      "countySeat": "Thomaston",
+      "directory": "Upson-County"
+    },
+    "Walker County": {
+      "countySeat": "LaFayette",
+      "directory": "Walker-County"
+    },
+    "Walton County": {
+      "countySeat": "Monroe",
+      "directory": "Walton-County"
+    },
+    "Ware County": {
+      "countySeat": "Waycross",
+      "directory": "Ware-County"
+    },
+    "Warren County": {
+      "countySeat": "Warrenton",
+      "directory": "Warren-County"
+    },
+    "Washington County": {
+      "countySeat": "Sandersville",
+      "directory": "Washington-County"
+    },
+    "Wayne County": {
+      "countySeat": "Jesup",
+      "directory": "Wayne-County"
+    },
+    "Webster County": {
+      "countySeat": "Preston",
+      "directory": "Webster-County"
+    },
+    "Wheeler County": {
+      "countySeat": "Alamo",
+      "directory": "Wheeler-County"
+    },
+    "White County": {
+      "countySeat": "Cleveland",
+      "directory": "White-County"
+    },
+    "Whitfield County": {
+      "countySeat": "Dalton",
+      "directory": "Whitfield-County"
+    },
+    "Wilcox County": {
+      "countySeat": "Abbeville",
+      "directory": "Wilcox-County"
+    },
+    "Wilkes County": {
+      "countySeat": "Washington",
+      "directory": "Wilkes-County"
+    },
+    "Wilkinson County": {
+      "countySeat": "Irwinton",
+      "directory": "Wilkinson-County"
+    },
+        "Worth County": {
+            "countySeat": "Sylvester",
+            "directory": "Worth-County"
+        }
+    }
+}

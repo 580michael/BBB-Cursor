@@ -1,0 +1,67 @@
+ABMPS
+Albertson
+Atlantic Beach
+Baldwin
+Bayville
+Bellerose Village
+Bellmore
+Bethpage
+Carle Place
+Cedarhurst
+East Meadow
+East Norwich
+East Rockaway
+Elmont
+Farmingdale
+Floral Park
+Franklin Square
+Freeport
+Garden City
+Glen Cove
+Glen Head
+Glenwood Landing
+Great Neck
+Greenvale
+Hempstead
+Hewlett
+Hicksville
+Inwood
+Island Park
+Jericho
+Lawrence
+Levittown
+Locust Valley
+Long Beach
+Lynbrook
+Malverne
+Manhasset
+Massapequa
+Massapequa Park
+Merrick
+Mill Neck
+Mineola
+New Hyde Park
+Oceanside
+Old Bethpage
+Old Westbury
+Oyster Bay
+Plainview
+Point Lookout
+Port Washington
+RVC
+Rockville Centre
+Roosevelt
+Roslyn
+Roslyn Heights
+Sea Cliff
+Seaford
+South Floral Park
+Syosset
+Uniondale
+Valley Stream
+Wantagh
+West Hempstead
+Westbury
+Williston Park
+Woodbury
+Woodmere

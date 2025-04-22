@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "state": "Maryland",
+        "stateAbbr": "MD",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 24
+    },
+    "counties": {
+        "Allegany County": {
+            "countySeat": "Cumberland",
+            "directory": "Allegany-County"
+        },
+        "Anne Arundel County": {
+            "countySeat": "Annapolis",
+            "directory": "Anne-Arundel-County"
+        },
+        "Baltimore County": {
+            "countySeat": "Towson",
+            "directory": "Baltimore-County"
+        },
+        "Calvert County": {
+            "countySeat": "Prince Frederick",
+            "directory": "Calvert-County"
+        },
+        "Caroline County": {
+            "countySeat": "Denton",
+            "directory": "Caroline-County"
+        },
+        "Carroll County": {
+            "countySeat": "Westminster",
+            "directory": "Carroll-County"
+        },
+        "Cecil County": {
+            "countySeat": "Elkton",
+            "directory": "Cecil-County"
+        },
+        "Charles County": {
+            "countySeat": "La Plata",
+            "directory": "Charles-County"
+        },
+        "Dorchester County": {
+            "countySeat": "Cambridge",
+            "directory": "Dorchester-County"
+        },
+        "Frederick County": {
+            "countySeat": "Frederick",
+            "directory": "Frederick-County"
+        },
+        "Garrett County": {
+            "countySeat": "Oakland",
+            "directory": "Garrett-County"
+        },
+        "Harford County": {
+            "countySeat": "Bel Air",
+            "directory": "Harford-County"
+        },
+        "Howard County": {
+            "countySeat": "Ellicott City",
+            "directory": "Howard-County"
+        },
+        "Kent County": {
+            "countySeat": "Chestertown",
+            "directory": "Kent-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Rockville",
+            "directory": "Montgomery-County"
+        },
+        "Prince George's County": {
+            "countySeat": "Upper Marlboro",
+            "directory": "Prince-Georges-County"
+        },
+        "Queen Anne's County": {
+            "countySeat": "Centreville",
+            "directory": "Queen-Annes-County"
+        },
+        "Somerset County": {
+            "countySeat": "Princess Anne",
+            "directory": "Somerset-County"
+        },
+        "St. Mary's County": {
+            "countySeat": "Leonardtown",
+            "directory": "St-Marys-County"
+        },
+        "Talbot County": {
+            "countySeat": "Easton",
+            "directory": "Talbot-County"
+        },
+        "Washington County": {
+            "countySeat": "Hagerstown",
+            "directory": "Washington-County"
+        },
+        "Wicomico County": {
+            "countySeat": "Salisbury",
+            "directory": "Wicomico-County"
+        },
+        "Worcester County": {
+            "countySeat": "Snow Hill",
+            "directory": "Worcester-County"
+        },
+        "Baltimore City": {
+            "countySeat": "Baltimore",
+            "directory": "Baltimore-City"
+        }
+    }
+}

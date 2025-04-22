@@ -1,0 +1,426 @@
+{
+    "metadata": {
+        "state": "Kansas",
+        "stateAbbr": "KS",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 105
+    },
+    "counties": {
+        "Allen County": {
+            "countySeat": "Iola",
+            "directory": "Allen-County"
+        },
+        "Anderson County": {
+            "countySeat": "Garnett",
+            "directory": "Anderson-County"
+        },
+        "Atchison County": {
+            "countySeat": "Atchison",
+            "directory": "Atchison-County"
+        },
+        "Barber County": {
+            "countySeat": "Medicine Lodge",
+            "directory": "Barber-County"
+        },
+        "Barton County": {
+            "countySeat": "Hays",
+            "directory": "Barton-County"
+        },
+        "Bourbon County": {
+            "countySeat": "Fort Scott",
+            "directory": "Bourbon-County"
+        },
+        "Brown County": {
+            "countySeat": "Hiawatha",
+            "directory": "Brown-County"
+        },
+        "Butler County": {
+            "countySeat": "El Dorado",
+            "directory": "Butler-County"
+        },
+        "Chase County": {
+            "countySeat": "Cottonwood Falls",
+            "directory": "Chase-County"
+        },
+        "Chautauqua County": {
+            "countySeat": "Sedan",
+            "directory": "Chautauqua-County"
+        },
+        "Cherokee County": {
+            "countySeat": "Columbus",
+            "directory": "Cherokee-County"
+        },
+        "Cheyenne County": {
+            "countySeat": "St. Francis",
+            "directory": "Cheyenne-County"
+        },
+        "Clark County": {
+            "countySeat": "Dodge City",
+            "directory": "Clark-County"
+        },
+        "Clay County": {
+            "countySeat": "Clay Center",
+            "directory": "Clay-County"
+        },
+        "Cloud County": {
+            "countySeat": "Concordia",
+            "directory": "Cloud-County"
+        },
+        "Coffey County": {
+            "countySeat": "Burlington",
+            "directory": "Coffey-County"
+        },
+        "Comanche County": {
+            "countySeat": "Coldwater",
+            "directory": "Comanche-County"
+        },
+        "Cowley County": {
+            "countySeat": "Winfield",
+            "directory": "Cowley-County"
+        },
+        "Crawford County": {
+            "countySeat": "Girard",
+            "directory": "Crawford-County"
+        },
+        "Decatur County": {
+            "countySeat": "Oberlin",
+            "directory": "Decatur-County"
+        },
+        "Dickinson County": {
+            "countySeat": "Abilene",
+            "directory": "Dickinson-County"
+        },
+        "Doniphan County": {
+            "countySeat": "Troy",
+            "directory": "Doniphan-County"
+        },
+        "Douglas County": {
+            "countySeat": "Lawrence",
+            "directory": "Douglas-County"
+        },
+        "Edwards County": {
+            "countySeat": "Kinsley",
+            "directory": "Edwards-County"
+        },
+        "Elk County": {
+            "countySeat": "Howard",
+            "directory": "Elk-County"
+        },
+        "Ellis County": {
+            "countySeat": "Hays",
+            "directory": "Ellis-County"
+        },
+        "Ellsworth County": {
+            "countySeat": "Ellsworth",
+            "directory": "Ellsworth-County"
+        },
+        "Finney County": {
+            "countySeat": "Garden City",
+            "directory": "Finney-County"
+        },
+        "Ford County": {
+            "countySeat": "Dodge City",
+            "directory": "Ford-County"
+        },
+        "Franklin County": {
+            "countySeat": "Ottawa",
+            "directory": "Franklin-County"
+        },
+        "Geary County": {
+            "countySeat": "Junction City",
+            "directory": "Geary-County"
+        },
+        "Gove County": {
+            "countySeat": "Gove",
+            "directory": "Gove-County"
+        },
+        "Graham County": {
+            "countySeat": "Hill City",
+            "directory": "Graham-County"
+        },
+        "Grant County": {
+            "countySeat": "Ulysses",
+            "directory": "Grant-County"
+        },
+        "Gray County": {
+            "countySeat": "Cimarron",
+            "directory": "Gray-County"
+        },
+        "Greeley County": {
+            "countySeat": "Tribune",
+            "directory": "Greeley-County"
+        },
+        "Greenwood County": {
+            "countySeat": "Eureka",
+            "directory": "Greenwood-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Syracuse",
+            "directory": "Hamilton-County"
+        },
+        "Harper County": {
+            "countySeat": "Harper",
+            "directory": "Harper-County"
+        },
+        "Harvey County": {
+            "countySeat": "Newton",
+            "directory": "Harvey-County"
+        },
+        "Haskell County": {
+            "countySeat": "Sublette",
+            "directory": "Haskell-County"
+        },
+        "Hodgeman County": {
+            "countySeat": "Jetmore",
+            "directory": "Hodgeman-County"
+        }
+        "Hunter County": {
+            "countySeat": "Scandia",
+            "directory": "Hunter-County"
+        },
+        "Jewell County": {
+            "countySeat": "Mankato",
+            "directory": "Jewell-County"
+        },
+        "Johnson County": {
+            "countySeat": "Olathe",
+            "directory": "Johnson-County"
+        },
+        "Kearny County": {
+            "countySeat": "Lakin",
+            "directory": "Kearny-County"
+        },
+        "Kingman County": {
+            "countySeat": "Kingman",
+            "directory": "Kingman-County"
+        },
+        "Kiowa County": {
+            "countySeat": "Greensburg",
+            "directory": "Kiowa-County"
+        },
+        "Labette County": {
+            "countySeat": "Altamont",
+            "directory": "Labette-County"
+        },
+        "Lane County": {
+            "countySeat": "Dighton",
+            "directory": "Lane-County"
+        },
+        "Leavenworth County": {
+            "countySeat": "Leavenworth",
+            "directory": "Leavenworth-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Lincoln",
+            "directory": "Lincoln-County"
+        },
+        "Linn County": {
+            "countySeat": "Pleasanton",
+            "directory": "Linn-County"
+        },
+        "Logan County": {
+            "countySeat": "Oakley",
+            "directory": "Logan-County"
+        },
+        "Lyon County": {
+            "countySeat": "Emporia",
+            "directory": "Lyon-County"
+        },
+        "Marion County": {
+            "countySeat": "Marion",
+            "directory": "Marion-County"
+        },
+        "Marshall County": {
+            "countySeat": "Marysville",
+            "directory": "Marshall-County"
+        },
+        "McPherson County": {
+            "countySeat": "McPherson",
+            "directory": "McPherson-County"
+        },
+        "Meade County": {
+            "countySeat": "Meade",
+            "directory": "Meade-County"
+        },
+        "Miami County": {
+            "countySeat": "Paola",
+            "directory": "Miami-County"
+        },
+        "Mitchell County": {
+            "countySeat": "Beloit",
+            "directory": "Mitchell-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Independence",
+            "directory": "Montgomery-County"
+        },
+        "Morris County": {
+            "countySeat": "Council Grove",
+            "directory": "Morris-County"
+        },
+        "Morton County": {
+            "countySeat": "Elkhart",
+            "directory": "Morton-County"
+        },
+        "Nemaha County": {
+            "countySeat": "Seneca",
+            "directory": "Nemaha-County"
+        },
+        "Neosho County": {
+            "countySeat": "Erie",
+            "directory": "Neosho-County"
+        },
+        "Ness County": {
+            "countySeat": "Ness City",
+            "directory": "Ness-County"
+        },
+        "Norton County": {
+            "countySeat": "Norton",
+            "directory": "Norton-County"
+        },
+        "Osage County": {
+            "countySeat": "Lyndon",
+            "directory": "Osage-County"
+        },
+        "Osborne County": {
+            "countySeat": "Osborne",
+            "directory": "Osborne-County"
+        },
+        "Ottawa County": {
+            "countySeat": "Minneapolis",
+            "directory": "Ottawa-County"
+        },
+        "Pawnee County": {
+            "countySeat": "Larned",
+            "directory": "Pawnee-County"
+        },
+        "Phillips County": {
+            "countySeat": "Phillipsburg",
+            "directory": "Phillips-County"
+        },
+        "Pottawatomie County": {
+            "countySeat": "Westmoreland",
+            "directory": "Pottawatomie-County"
+        },
+        "Pratt County": {
+            "countySeat": "Pratt",
+            "directory": "Pratt-County"
+        },
+        "Rawlins County": {
+            "countySeat": "Atwood",
+            "directory": "Rawlins-County"
+        },
+        "Reno County": {
+            "countySeat": "Hutchinson",
+            "directory": "Reno-County"
+        },
+        "Republic County": {
+            "countySeat": "Belleville",
+            "directory": "Republic-County"
+        },
+        "Rice County": {
+            "countySeat": "Lyons",
+            "directory": "Rice-County"
+        },
+        "Riley County": {
+            "countySeat": "Manhattan",
+            "directory": "Riley-County"
+        },
+        "Rooks County": {
+            "countySeat": "Stockton",
+            "directory": "Rooks-County"
+        },
+        "Rush County": {
+            "countySeat": "La Crosse",
+            "directory": "Rush-County"
+        },
+        "Russell County": {
+            "countySeat": "Russell",
+            "directory": "Russell-County"
+        },
+        "Saline County": {
+            "countySeat": "Salina",
+            "directory": "Saline-County"
+        },
+        "Scott County": {
+            "countySeat": "Scott City",
+            "directory": "Scott-County"
+        },
+        "Sedgwick County": {
+            "countySeat": "Wichita",
+            "directory": "Sedgwick-County"
+        },
+        "Seward County": {
+            "countySeat": "Liberal",
+            "directory": "Seward-County"
+        },
+        "Shawnee County": {
+            "countySeat": "Topeka",
+            "directory": "Shawnee-County"
+        },
+        "Sheridan County": {
+            "countySeat": "Hoxie",
+            "directory": "Sheridan-County"
+        },
+        "Sherman County": {
+            "countySeat": "Goodland",
+            "directory": "Sherman-County"
+        },
+        "Smith County": {
+            "countySeat": "Smith Center",
+            "directory": "Smith-County"
+        },
+        "Stafford County": {
+            "countySeat": "St. John",
+            "directory": "Stafford-County"
+        },
+        "Stanton County": {
+            "countySeat": "Johnson",
+            "directory": "Stanton-County"
+        },
+        "Stevens County": {
+            "countySeat": "Hugoton",
+            "directory": "Stevens-County"
+        },
+        "Sumner County": {
+            "countySeat": "Wellington",
+            "directory": "Sumner-County"
+        },
+        "Thomas County": {
+            "countySeat": "Colby",
+            "directory": "Thomas-County"
+        },
+        "Trego County": {
+            "countySeat": "WaKeeney",
+            "directory": "Trego-County"
+        },
+        "Wabaunsee County": {
+            "countySeat": "Alma",
+            "directory": "Wabaunsee-County"
+        },
+        "Wallace County": {
+            "countySeat": "Sharon Springs",
+            "directory": "Wallace-County"
+        },
+        "Washington County": {
+            "countySeat": "Washington",
+            "directory": "Washington-County"
+        },
+        "Wichita County": {
+            "countySeat": "Leoti",
+            "directory": "Wichita-County"
+        },
+        "Wilson County": {
+            "countySeat": "Fredonia",
+            "directory": "Wilson-County"
+        },
+        "Woodson County": {
+            "countySeat": "Yates Center",
+            "directory": "Woodson-County"
+        },
+        "Wyandotte County": {
+            "countySeat": "Kansas City",
+            "directory": "Wyandotte-County"
+        }
+    }
+}

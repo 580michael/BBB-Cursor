@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "state": "Minnesota",
+        "stateAbbr": "MN",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 87
+    },
+    "counties": {
+        "Aitkin County": {
+            "countySeat": "Aitkin",
+            "directory": "Aitkin-County"
+        },
+        "Anoka County": {
+            "countySeat": "Anoka",
+            "directory": "Anoka-County"
+        },
+        "Becker County": {
+            "countySeat": "Detroit Lakes",
+            "directory": "Becker-County"
+        },
+        "Beltrami County": {
+            "countySeat": "Bemidji",
+            "directory": "Beltrami-County"
+        },
+        "Benton County": {
+            "countySeat": "Foley",
+            "directory": "Benton-County"
+        },
+        "Big Stone County": {
+            "countySeat": "Ortonville",
+            "directory": "Big-Stone-County"
+        },
+        "Blue Earth County": {
+            "countySeat": "Mankato",
+            "directory": "Blue-Earth-County"
+        },
+        "Brown County": {
+            "countySeat": "New Ulm",
+            "directory": "Brown-County"
+        },
+        "Carlton County": {
+            "countySeat": "Carlton",
+            "directory": "Carlton-County"
+        },
+        "Carver County": {
+            "countySeat": "Chaska",
+            "directory": "Carver-County"
+        },
+        "Cass County": {
+            "countySeat": "Walker",
+            "directory": "Cass-County"
+        },
+        "Chippewa County": {
+            "countySeat": "Montevideo",
+            "directory": "Chippewa-County"
+        },
+        "Chisago County": {
+            "countySeat": "Center City",
+            "directory": "Chisago-County"
+        },
+        "Clay County": {
+            "countySeat": "Moorhead",
+            "directory": "Clay-County"
+        },
+        "Clearwater County": {
+            "countySeat": "Bagley",
+            "directory": "Clearwater-County"
+        },
+        "Cook County": {
+            "countySeat": "Grand Marais",
+            "directory": "Cook-County"
+        },
+        "Cottonwood County": {
+            "countySeat": "Windom",
+            "directory": "Cottonwood-County"
+        },
+        "Crow Wing County": {
+            "countySeat": "Brainerd",
+            "directory": "Crow-Wing-County"
+        },
+        "Dakota County": {
+            "countySeat": "Hastings",
+            "directory": "Dakota-County"
+        },
+        "Dodge County": {
+            "countySeat": "Mantorville",
+            "directory": "Dodge-County"
+        },
+        "Douglas County": {
+            "countySeat": "Alexandria",
+            "directory": "Douglas-County"
+        },
+        "Faribault County": {
+            "countySeat": "Blue Earth",
+            "directory": "Faribault-County"
+        },
+        "Fillmore County": {
+            "countySeat": "Preston",
+            "directory": "Fillmore-County"
+        },
+        "Freeborn County": {
+            "countySeat": "Albert Lea",
+            "directory": "Freeborn-County"
+        },
+        "Goodhue County": {
+            "countySeat": "Red Wing",
+            "directory": "Goodhue-County"
+        },
+        "Grant County": {
+            "countySeat": "Elbow Lake",
+            "directory": "Grant-County"
+        },
+        "Hennepin County": {
+            "countySeat": "Minneapolis",
+            "directory": "Hennepin-County"
+        },
+        "Houston County": {
+            "countySeat": "Caledonia",
+            "directory": "Houston-County"
+        },
+        "Hubbard County": {
+            "countySeat": "Park Rapids",
+            "directory": "Hubbard-County"
+        },
+        "Isanti County": {
+            "countySeat": "Cambridge",
+            "directory": "Isanti-County"
+        },
+        "Itasca County": {
+            "countySeat": "Grand Rapids",
+            "directory": "Itasca-County"
+        },
+        "Jackson County": {
+            "countySeat": "Jackson",
+            "directory": "Jackson-County"
+        },
+        "Kanabec County": {
+            "countySeat": "Mora",
+            "directory": "Kanabec-County"
+        },
+        "Kandiyohi County": {
+            "countySeat": "Willmar",
+            "directory": "Kandiyohi-County"
+        },
+        "Kittson County": {
+            "countySeat": "Hallock",
+            "directory": "Kittson-County"
+        },
+        "Koochiching County": {
+            "countySeat": "International Falls",
+            "directory": "Koochiching-County"
+        },
+        "Lac qui Parle County": {
+            "countySeat": "Madison",
+            "directory": "Lac-qui-Parle-County"
+        },
+        "Lake County": {
+            "countySeat": "Two Harbors",
+            "directory": "Lake-County"
+        },
+        "Lake of the Woods County": {
+            "countySeat": "Baudette",
+            "directory": "Lake-of-the-Woods-County"
+        },
+        "Le Sueur County": {
+            "countySeat": "Le Center",
+            "directory": "Le-Sueur-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Lake Benton",
+            "directory": "Lincoln-County"
+        },
+        "Lyon County": {
+            "countySeat": "Marshall",
+            "directory": "Lyon-County"
+        },
+        "McLeod County": {
+            "countySeat": "Glencoe",
+            "directory": "McLeod-County"
+        },
+        "Mahnomen County": {
+            "countySeat": "Mahnomen",
+            "directory": "Mahnomen-County"
+        },
+        "Marshall County": {
+            "countySeat": "Warren",
+            "directory": "Marshall-County"
+        },
+        "Martin County": {
+            "countySeat": "Fairmont",
+            "directory": "Martin-County"
+        },
+        "Meeker County": {
+            "countySeat": "Litchfield",
+            "directory": "Meeker-County"
+        },
+        "Mille Lacs County": {
+            "countySeat": "Milaca",
+            "directory": "Mille-Lacs-County"
+        },
+        "Morrison County": {
+            "countySeat": "Little Falls",
+            "directory": "Morrison-County"
+        },
+        "Mower County": {
+            "countySeat": "Austin",
+            "directory": "Mower-County"
+        },
+        "Murray County": {
+            "countySeat": "Slayton",
+            "directory": "Murray-County"
+        },
+        "Nicollet County": {
+            "countySeat": "St. Peter",
+            "directory": "Nicollet-County"
+        },
+        "Nobles County": {
+            "countySeat": "Worthington",
+            "directory": "Nobles-County"
+        },
+        "Norman County": {
+            "countySeat": "Ada",
+            "directory": "Norman-County"
+        },
+        "Olmsted County": {
+            "countySeat": "Rochester",
+            "directory": "Olmsted-County"
+        },
+        "Otter Tail County": {
+            "countySeat": "Fergus Falls",
+            "directory": "Otter-Tail-County"
+        },
+        "Pennington County": {
+            "countySeat": "Thief River Falls",
+            "directory": "Pennington-County"
+        },
+        "Pine County": {
+            "countySeat": "Pine City",
+            "directory": "Pine-County"
+        },
+        "Pipestone County": {
+            "countySeat": "Pipestone",
+            "directory": "Pipestone-County"
+        },
+        "Polk County": {
+            "countySeat": "Crookston",
+            "directory": "Polk-County"
+        },
+        "Pope County": {
+            "countySeat": "Glenwood",
+            "directory": "Pope-County"
+        },
+        "Ramsey County": {
+            "countySeat": "St. Paul",
+            "directory": "Ramsey-County"
+        },
+        "Red Lake County": {
+            "countySeat": "Red Lake Falls",
+            "directory": "Red-Lake-County"
+        },
+        "Redwood County": {
+            "countySeat": "Redwood Falls",
+            "directory": "Redwood-County"
+        },
+        "Renville County": {
+            "countySeat": "Olivia",
+            "directory": "Renville-County"
+        },
+        "Rice County": {
+            "countySeat": "Faribault",
+            "directory": "Rice-County"
+        },
+        "Rock County": {
+            "countySeat": "Luverne",
+            "directory": "Rock-County"
+        },
+        "Roseau County": {
+            "countySeat": "Roseau",
+            "directory": "Roseau-County"
+        },
+        "St. Louis County": {
+            "countySeat": "Duluth",
+            "directory": "St-Louis-County"
+        },
+        "Scott County": {
+            "countySeat": "Shakopee",
+            "directory": "Scott-County"
+        },
+        "Sherburne County": {
+            "countySeat": "Elk River",
+            "directory": "Sherburne-County"
+        },
+        "Sibley County": {
+            "countySeat": "Gaylord",
+            "directory": "Sibley-County"
+        },
+        "Stearns County": {
+            "countySeat": "St. Cloud",
+            "directory": "Stearns-County"
+        },
+        "Steele County": {
+            "countySeat": "Owatonna",
+            "directory": "Steele-County"
+        },
+        "Stevens County": {
+            "countySeat": "Morris",
+            "directory": "Stevens-County"
+        },
+        "Swift County": {
+            "countySeat": "Benson",
+            "directory": "Swift-County"
+        },
+        "Todd County": {
+            "countySeat": "Long Prairie",
+            "directory": "Todd-County"
+        },
+        "Traverse County": {
+            "countySeat": "Wheaton",
+            "directory": "Traverse-County"
+        },
+        "Wabasha County": {
+            "countySeat": "Wabasha",
+            "directory": "Wabasha-County"
+        },
+        "Wadena County": {
+            "countySeat": "Wadena",
+            "directory": "Wadena-County"
+        },
+        "Waseca County": {
+            "countySeat": "Waseca",
+            "directory": "Waseca-County"
+        },
+        "Washington County": {
+            "countySeat": "Stillwater",
+            "directory": "Washington-County"
+        },
+        "Watonwan County": {
+            "countySeat": "St. James",
+            "directory": "Watonwan-County"
+        },
+        "Wilkin County": {
+            "countySeat": "Breckenridge",
+            "directory": "Wilkin-County"
+        },
+        "Winona County": {
+            "countySeat": "Winona",
+            "directory": "Winona-County"
+        },
+        "Wright County": {
+            "countySeat": "Buffalo",
+            "directory": "Wright-County"
+        },
+        "Yellow Medicine County": {
+            "countySeat": "Granite Falls",
+            "directory": "Yellow-Medicine-County"
+        }
+    }
+}
+        

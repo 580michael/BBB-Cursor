@@ -1,0 +1,258 @@
+{
+    "metadata": {
+        "state": "Louisiana",
+        "stateAbbr": "LA",
+        "lastUpdated": "2024-03-26",
+        "totalParishes": 64
+    },
+    "parishes": {
+        "Acadia Parish": {
+            "parishSeat": "Crowley",
+            "directory": "Acadia-Parish"
+        },
+        "Allen Parish": {
+            "parishSeat": "Oberlin",
+            "directory": "Allen-Parish"
+        },
+        "Ascension Parish": {
+            "parishSeat": "Gonzales",
+            "directory": "Ascension-Parish"
+        },
+        "Assumption Parish": {
+            "parishSeat": "Napoleonville",
+            "directory": "Assumption-Parish"
+        },
+        "Avoyelles Parish": {
+            "parishSeat": "Marksville",
+            "directory": "Avoyelles-Parish"
+        },
+        "Beauregard Parish": {
+            "parishSeat": "DeRidder",
+            "directory": "Beauregard-Parish"
+        },
+        "Bienville Parish": {
+            "parishSeat": "Arcadia",
+            "directory": "Bienville-Parish"
+        },
+        "Bossier Parish": {
+            "parishSeat": "Benton",
+            "directory": "Bossier-Parish"
+        },
+        "Caddo Parish": {
+            "parishSeat": "Shreveport",
+            "directory": "Caddo-Parish"
+        },
+        "Calcasieu Parish": {
+            "parishSeat": "Lake Charles",
+            "directory": "Calcasieu-Parish"
+        },
+        "Caldwell Parish": {
+            "parishSeat": "Columbia",
+            "directory": "Caldwell-Parish"
+        },
+        "Cameron Parish": {
+            "parishSeat": "Cameron",
+            "directory": "Cameron-Parish"
+        },
+        "Catahoula Parish": {
+            "parishSeat": "Harrisonburg",
+            "directory": "Catahoula-Parish"
+        },
+        "Claiborne Parish": {
+            "parishSeat": "Homer",
+            "directory": "Claiborne-Parish"
+        },
+        "Concordia Parish": {
+            "parishSeat": "Vidalia",
+            "directory": "Concordia-Parish"
+        },
+        "De Soto Parish": {
+            "parishSeat": "Mansfield",
+            "directory": "De-Soto-Parish"
+        },
+        "East Baton Rouge Parish": {
+            "parishSeat": "Baton Rouge",
+            "directory": "East-Baton-Rouge-Parish"
+        },
+        "East Feliciana Parish": {
+            "parishSeat": "Clinton",
+            "directory": "East-Feliciana-Parish"
+        },
+        "Evangeline Parish": {
+            "parishSeat": "Ville Platte",
+            "directory": "Evangeline-Parish"
+        },
+        "Franklin Parish": {
+            "parishSeat": "Winnsboro",
+            "directory": "Franklin-Parish"
+        },
+        "Grant Parish": {
+            "parishSeat": "Colfax",
+            "directory": "Grant-Parish"
+        },
+        "Iberia Parish": {
+            "parishSeat": "New Iberia",
+            "directory": "Iberia-Parish"
+        },
+        "Iberville Parish": {
+            "parishSeat": "Plaquemine",
+            "directory": "Iberville-Parish"
+        },
+        "Jackson Parish": {
+            "parishSeat": "Jonesboro",
+            "directory": "Jackson-Parish"
+        },
+        "Jefferson Parish": {
+            "parishSeat": "Gretna",
+            "directory": "Jefferson-Parish"
+        },
+        "Jefferson Davis Parish": {
+            "parishSeat": "Jennings",
+            "directory": "Jefferson-Davis-Parish"
+        },
+        "La Salle Parish": {
+            "parishSeat": "Jena",
+            "directory": "La-Salle-Parish"
+        },
+        "Lafayette Parish": {
+            "parishSeat": "Lafayette",
+            "directory": "Lafayette-Parish"
+        },
+        "Lafourche Parish": {
+            "parishSeat": "Thibodaux",
+            "directory": "Lafourche-Parish"
+        },
+        "Lincoln Parish": {
+            "parishSeat": "Ruston",
+            "directory": "Lincoln-Parish"
+        },
+        "Livingston Parish": {
+            "parishSeat": "Livingston",
+            "directory": "Livingston-Parish"
+        },
+        "Madison Parish": {
+            "parishSeat": "Tallulah",
+            "directory": "Madison-Parish"
+        },
+        "Morehouse Parish": {
+            "parishSeat": "Bastrop",
+            "directory": "Morehouse-Parish"
+        },
+        "Natchitoches Parish": {
+            "parishSeat": "Natchitoches",
+            "directory": "Natchitoches-Parish"
+        },
+        "Orleans Parish": {
+            "parishSeat": "New Orleans",
+            "directory": "Orleans-Parish"
+        },
+        "Ouachita Parish": {
+            "parishSeat": "Monroe",
+            "directory": "Ouachita-Parish"
+        },
+        "Plaquemines Parish": {
+            "parishSeat": "Pointe a la Hache",
+            "directory": "Plaquemines-Parish"
+        },
+        "Pointe Coupee Parish": {
+            "parishSeat": "New Roads",
+            "directory": "Pointe-Coupee-Parish"
+        },
+        "Rapides Parish": {
+            "parishSeat": "Alexandria",
+            "directory": "Rapides-Parish"
+        },
+        "Red River Parish": {
+            "parishSeat": "Coushatta",
+            "directory": "Red-River-Parish"
+        },
+        "Richland Parish": {
+            "parishSeat": "Rayville",
+            "directory": "Richland-Parish"
+        },
+        "Sabine Parish": {
+            "parishSeat": "Many",
+            "directory": "Sabine-Parish"
+        },
+        "St. Bernard Parish": {
+            "parishSeat": "Chalmette",
+            "directory": "St-Bernard-Parish"
+        },
+        "St. Charles Parish": {
+            "parishSeat": "Hahnville",
+            "directory": "St-Charles-Parish"
+        },
+        "St. Helena Parish": {
+            "parishSeat": "Greensburg",
+            "directory": "St-Helena-Parish"
+        },
+        "St. James Parish": {
+            "parishSeat": "Convent",
+            "directory": "St-James-Parish"
+        },
+        "St. John the Baptist Parish": {
+            "parishSeat": "Edgard",
+            "directory": "St-John-the-Baptist-Parish"
+        },
+        "St. Landry Parish": {
+            "parishSeat": "Opelousas",
+            "directory": "St-Landry-Parish"
+        },
+        "St. Martin Parish": {
+            "parishSeat": "St. Martinville",
+            "directory": "St-Martin-Parish"
+        },
+        "St. Mary Parish": {
+            "parishSeat": "Franklin",
+            "directory": "St-Mary-Parish"
+        },
+        "St. Tammany Parish": {
+            "parishSeat": "Covington",
+            "directory": "St-Tammany-Parish"
+        },
+        "Tangipahoa Parish": {
+            "parishSeat": "Amite",
+            "directory": "Tangipahoa-Parish"
+        },
+        "Tensas Parish": {
+            "parishSeat": "St. Joseph",
+            "directory": "Tensas-Parish"
+        },
+        "Terrebonne Parish": {
+            "parishSeat": "Houma",
+            "directory": "Terrebonne-Parish"
+        },
+        "Union Parish": {
+            "parishSeat": "Farmerville",
+            "directory": "Union-Parish"
+        },
+        "Vermilion Parish": {
+            "parishSeat": "Abbeville",
+            "directory": "Vermilion-Parish"
+        },
+        "Vernon Parish": {
+            "parishSeat": "Leesville",
+            "directory": "Vernon-Parish"
+        },
+        "Washington Parish": {
+            "parishSeat": "Franklinton",
+            "directory": "Washington-Parish"
+        },
+        "Webster Parish": {
+            "parishSeat": "Minden",
+            "directory": "Webster-Parish"
+        },
+        "West Baton Rouge Parish": {
+            "parishSeat": "Port Allen",
+            "directory": "West-Baton-Rouge-Parish"
+        },
+        "West Feliciana Parish": {
+            "parishSeat": "St. Francisville",
+            "directory": "West-Feliciana-Parish"
+        },
+        "Winn Parish": {
+            "parishSeat": "Winnfield",
+            "directory": "Winn-Parish"
+        }
+    }
+}

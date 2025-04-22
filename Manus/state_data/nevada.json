@@ -1,0 +1,34 @@
+{
+  "name": "Nevada",
+  "abbreviation": "NV",
+  "nickname": "Silver State",
+  "capital": "Carson City",
+  "population": 3104614,
+  "num_counties": 17,
+  "largest_counties": [
+    {
+      "name": "Clark County",
+      "description": "County seat: Las Vegas - Largest county containing Las Vegas metropolitan area"
+    },
+    {
+      "name": "Washoe County",
+      "description": "County seat: Reno - Second largest county containing Reno-Sparks metropolitan area"
+    },
+    {
+      "name": "Lyon County",
+      "description": "County seat: Yerington - Third largest county by population"
+    }
+  ],
+  "major_cities": [
+    "Las Vegas",
+    "Reno",
+    "Henderson",
+    "North Las Vegas",
+    "Sparks"
+  ],
+  "economy": "Nevada's economy is primarily driven by tourism, gaming, and mining. Las Vegas and Reno are major entertainment and casino destinations, while the state also has significant gold and silver mining operations.",
+  "bail_system": "Nevada operates a regulated bail bond system where licensed bondsmen provide services throughout the state. Bail amounts are set during initial court appearances and vary by jurisdiction and offense severity. The state requires bail bond agents to be licensed through the Division of Insurance.",
+  "criminal_justice": "The Nevada criminal justice system includes district courts, justice courts, and municipal courts. Each county operates its own detention facilities, and the state maintains several correctional institutions. The Nevada Department of Corrections oversees state prisons, while county sheriffs manage local jails.",
+  "geography": "Nevada spans 110,567 square miles, making it the 7th largest state. Major highways include I-15 and I-80, connecting major population centers. The landscape includes desert basins, mountain ranges, and the Sierra Nevada.",
+  "weather": "Nevada experiences a desert climate with hot summers and mild winters in lower elevations. Mountain areas can receive significant snowfall. Weather rarely impacts bail processing in urban areas but can affect travel times in rural regions."
+}

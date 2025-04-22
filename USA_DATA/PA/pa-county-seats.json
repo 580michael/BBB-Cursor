@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "state": "Pennsylvania",
+        "stateAbbr": "PA", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 67
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Gettysburg",
+            "directory": "Adams-County"
+        },
+        "Allegheny County": {
+            "countySeat": "Pittsburgh",
+            "directory": "Allegheny-County"
+        },
+        "Armstrong County": {
+            "countySeat": "Kittanning",
+            "directory": "Armstrong-County"
+        },
+        "Beaver County": {
+            "countySeat": "Beaver",
+            "directory": "Beaver-County"
+        },
+        "Bedford County": {
+            "countySeat": "Bedford",
+            "directory": "Bedford-County"
+        },
+        "Berks County": {
+            "countySeat": "Reading",
+            "directory": "Berks-County"
+        },
+        "Blair County": {
+            "countySeat": "Hollidaysburg",
+            "directory": "Blair-County"
+        },
+        "Bradford County": {
+            "countySeat": "Towanda",
+            "directory": "Bradford-County"
+        },
+        "Bucks County": {
+            "countySeat": "Doylestown",
+            "directory": "Bucks-County"
+        },
+        "Butler County": {
+            "countySeat": "Butler",
+            "directory": "Butler-County"
+        },
+        "Cambria County": {
+            "countySeat": "Ebensburg",
+            "directory": "Cambria-County"
+        },
+        "Cameron County": {
+            "countySeat": "Emporium",
+            "directory": "Cameron-County"
+        },
+        "Carbon County": {
+            "countySeat": "Jim Thorpe",
+            "directory": "Carbon-County"
+        },
+        "Centre County": {
+            "countySeat": "Bellefonte",
+            "directory": "Centre-County"
+        },
+        "Chester County": {
+            "countySeat": "West Chester",
+            "directory": "Chester-County"
+        },
+        "Clarion County": {
+            "countySeat": "Clarion",
+            "directory": "Clarion-County"
+        },
+        "Clearfield County": {
+            "countySeat": "Clearfield",
+            "directory": "Clearfield-County"
+        },
+        "Clinton County": {
+            "countySeat": "Lock Haven",
+            "directory": "Clinton-County"
+        },
+        "Columbia County": {
+            "countySeat": "Bloomsburg",
+            "directory": "Columbia-County"
+        },
+        "Crawford County": {
+            "countySeat": "Meadville",
+            "directory": "Crawford-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Carlisle",
+            "directory": "Cumberland-County"
+        },
+        "Dauphin County": {
+            "countySeat": "Harrisburg",
+            "directory": "Dauphin-County"
+        },
+        "Delaware County": {
+            "countySeat": "Media",
+            "directory": "Delaware-County"
+        },
+        "Elk County": {
+            "countySeat": "Ridgway",
+            "directory": "Elk-County"
+        },
+        "Erie County": {
+            "countySeat": "Erie",
+            "directory": "Erie-County"
+        },
+        "Fayette County": {
+            "countySeat": "Uniontown",
+            "directory": "Fayette-County"
+        },
+        "Forest County": {
+            "countySeat": "Tionesta",
+            "directory": "Forest-County"
+        },
+        "Franklin County": {
+            "countySeat": "Chambersburg",
+            "directory": "Franklin-County"
+        },
+        "Fulton County": {
+            "countySeat": "McConnellsburg",
+            "directory": "Fulton-County"
+        },
+        "Greene County": {
+            "countySeat": "Waynesburg",
+            "directory": "Greene-County"
+        },
+        "Huntingdon County": {
+            "countySeat": "Huntingdon",
+            "directory": "Huntingdon-County"
+        },
+        "Indiana County": {
+            "countySeat": "Indiana",
+            "directory": "Indiana-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Brookville",
+            "directory": "Jefferson-County"
+        },
+        "Juniata County": {
+            "countySeat": "Mifflintown",
+            "directory": "Juniata-County"
+        },
+        "Lackawanna County": {
+            "countySeat": "Scranton",
+            "directory": "Lackawanna-County"
+        },
+        "Lancaster County": {
+            "countySeat": "Lancaster",
+            "directory": "Lancaster-County"
+        },
+        "Lawrence County": {
+            "countySeat": "New Castle",
+            "directory": "Lawrence-County"
+        },
+        "Lebanon County": {
+            "countySeat": "Lebanon",
+            "directory": "Lebanon-County"
+        },
+        "Lehigh County": {
+            "countySeat": "Allentown",
+            "directory": "Lehigh-County"
+        },
+        "Luzerne County": {
+            "countySeat": "Wilkes-Barre",
+            "directory": "Luzerne-County"
+        },
+        "Lycoming County": {
+            "countySeat": "Williamsport",
+            "directory": "Lycoming-County"
+        },
+        "McKean County": {
+            "countySeat": "Smethport",
+            "directory": "McKean-County"
+        },
+        "Mercer County": {
+            "countySeat": "Mercer",
+            "directory": "Mercer-County"
+        },
+        "Mifflin County": {
+            "countySeat": "Lewistown",
+            "directory": "Mifflin-County"
+        },
+        "Monroe County": {
+            "countySeat": "Stroudsburg",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Norristown",
+            "directory": "Montgomery-County"
+        },
+        "Montour County": {
+            "countySeat": "Danville",
+            "directory": "Montour-County"
+        },
+        "Northampton County": {
+            "countySeat": "Easton",
+            "directory": "Northampton-County"
+        },
+        "Northumberland County": {
+            "countySeat": "Sunbury",
+            "directory": "Northumberland-County"
+        },
+        "Perry County": {
+            "countySeat": "New Bloomfield",
+            "directory": "Perry-County"
+        },
+        "Philadelphia County": {
+            "countySeat": "Philadelphia",
+            "directory": "Philadelphia-County"
+        },
+        "Pike County": {
+            "countySeat": "Milford",
+            "directory": "Pike-County"
+        },
+        "Potter County": {
+            "countySeat": "Coudersport",
+            "directory": "Potter-County"
+        },
+        "Schuylkill County": {
+            "countySeat": "Pottsville",
+            "directory": "Schuylkill-County"
+        },
+        "Snyder County": {
+            "countySeat": "Middleburg",
+            "directory": "Snyder-County"
+        },
+        "Somerset County": {
+            "countySeat": "Somerset",
+            "directory": "Somerset-County"
+        },
+        "Sullivan County": {
+            "countySeat": "Laporte",
+            "directory": "Sullivan-County"
+        },
+        "Susquehanna County": {
+            "countySeat": "Montrose",
+            "directory": "Susquehanna-County"
+        },
+        "Tioga County": {
+            "countySeat": "Wellsboro",
+            "directory": "Tioga-County"
+        },
+        "Union County": {
+            "countySeat": "Lewisburg",
+            "directory": "Union-County"
+        },
+        "Venango County": {
+            "countySeat": "Franklin",
+            "directory": "Venango-County"
+        },
+        "Warren County": {
+            "countySeat": "Warren",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Washington",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Honesdale",
+            "directory": "Wayne-County"
+        },
+        "Westmoreland County": {
+            "countySeat": "Greensburg",
+            "directory": "Westmoreland-County"
+        },
+        "Wyoming County": {
+            "countySeat": "Tunkhannock",
+            "directory": "Wyoming-County"
+        },
+        "York County": {
+            "countySeat": "York",
+            "directory": "York-County"
+        }
+    }
+}

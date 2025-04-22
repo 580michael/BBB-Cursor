@@ -1,0 +1,410 @@
+{
+    "metadata": {
+        "state": "North Carolina",
+        "stateAbbr": "NC",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 100
+    },
+    "counties": {
+        "Alamance County": {
+            "countySeat": "Graham",
+            "directory": "Alamance-County"
+        },
+        "Alexander County": {
+            "countySeat": "Taylorsville",
+            "directory": "Alexander-County"
+        },
+        "Alleghany County": {
+            "countySeat": "Sparta",
+            "directory": "Alleghany-County"
+        },
+        "Anson County": {
+            "countySeat": "Wadesboro",
+            "directory": "Anson-County"
+        },
+        "Ashe County": {
+            "countySeat": "Jefferson",
+            "directory": "Ashe-County"
+        },
+        "Avery County": {
+            "countySeat": "Newland",
+            "directory": "Avery-County"
+        },
+        "Beaufort County": {
+            "countySeat": "Washington",
+            "directory": "Beaufort-County"
+        },
+        "Bertie County": {
+            "countySeat": "Windsor",
+            "directory": "Bertie-County"
+        },
+        "Bladen County": {
+            "countySeat": "Elizabeth Town",
+            "directory": "Bladen-County"
+        },
+        "Brunswick County": {
+            "countySeat": "Bolivia",
+            "directory": "Brunswick-County"
+        },
+        "Buncombe County": {
+            "countySeat": "Asheville",
+            "directory": "Buncombe-County"
+        },
+        "Burke County": {
+            "countySeat": "Morganton",
+            "directory": "Burke-County"
+        },
+        "Cabarrus County": {
+            "countySeat": "Concord",
+            "directory": "Cabarrus-County"
+        },
+        "Caldwell County": {
+            "countySeat": "Lenoir",
+            "directory": "Caldwell-County"
+        },
+        "Camden County": {
+            "countySeat": "Camden",
+            "directory": "Camden-County"
+        },
+        "Carteret County": {
+            "countySeat": "Beaufort",
+            "directory": "Carteret-County"
+        },
+        "Caswell County": {
+            "countySeat": "Yanceyville",
+            "directory": "Caswell-County"
+        },
+        "Catawba County": {
+            "countySeat": "Newton",
+            "directory": "Catawba-County"
+        },
+        "Chatham County": {
+            "countySeat": "Pittsboro",
+            "directory": "Chatham-County"
+        },
+        "Cherokee County": {
+            "countySeat": "Murphy",
+            "directory": "Cherokee-County"
+        },
+        "Chowan County": {
+            "countySeat": "Edenton",
+            "directory": "Chowan-County"
+        },
+        "Clay County": {
+            "countySeat": "Hayesville",
+            "directory": "Clay-County"
+        },
+        "Cleveland County": {
+            "countySeat": "Shelby",
+            "directory": "Cleveland-County"
+        },
+        "Columbus County": {
+            "countySeat": "Whiteville",
+            "directory": "Columbus-County"
+        },
+        "Craven County": {
+            "countySeat": "New Bern",
+            "directory": "Craven-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Fayetteville",
+            "directory": "Cumberland-County"
+        },
+        "Currituck County": {
+            "countySeat": "Currituck",
+            "directory": "Currituck-County"
+        },
+        "Dare County": {
+            "countySeat": "Manteo",
+            "directory": "Dare-County"
+        },
+        "Davidson County": {
+            "countySeat": "Lexington",
+            "directory": "Davidson-County"
+        },
+        "Davie County": {
+            "countySeat": "Mocksville",
+            "directory": "Davie-County"
+        },
+        "Duplin County": {
+            "countySeat": "Kenansville",
+            "directory": "Duplin-County"
+        },
+        "Durham County": {
+            "countySeat": "Durham",
+            "directory": "Durham-County"
+        },
+        "Edgecombe County": {
+            "countySeat": "Tarboro",
+            "directory": "Edgecombe-County"
+        },
+        "Forsyth County": {
+            "countySeat": "Winston-Salem",
+            "directory": "Forsyth-County"
+        },
+        "Franklin County": {
+            "countySeat": "Louisburg",
+            "directory": "Franklin-County"
+        },
+        "Gaston County": {
+            "countySeat": "Gastonia",
+            "directory": "Gaston-County"
+        },
+        "Gates County": {
+            "countySeat": "Gatesville",
+            "directory": "Gates-County"
+        },
+        "Graham County": {
+            "countySeat": "Robbinsville",
+            "directory": "Graham-County"
+        },
+        "Granville County": {
+            "countySeat": "Oxford",
+            "directory": "Granville-County"
+        },
+        "Greene County": {
+            "countySeat": "Snow Hill",
+            "directory": "Greene-County"
+        },
+        "Guilford County": {
+            "countySeat": "Greensboro",
+            "directory": "Guilford-County"
+        },
+        "Halifax County": {
+            "countySeat": "Halifax",
+            "directory": "Halifax-County"
+        },
+        "Harnett County": {
+            "countySeat": "Lillington",
+            "directory": "Harnett-County"
+        },
+        "Haywood County": {
+            "countySeat": "Waynesville",
+            "directory": "Haywood-County"
+        },
+        "Henderson County": {
+            "countySeat": "Hendersonville",
+            "directory": "Henderson-County"
+        },
+        "Hertford County": {
+            "countySeat": "Winton",
+            "directory": "Hertford-County"
+        },
+        "Hoke County": {
+            "countySeat": "Raeford",
+            "directory": "Hoke-County"
+        },
+        "Hyde County": {
+            "countySeat": "Swan Quarter",
+            "directory": "Hyde-County"
+        },
+        "Iredell County": {
+            "countySeat": "Statesville",
+            "directory": "Iredell-County"
+        },
+        "Jackson County": {
+            "countySeat": "Sylva",
+            "directory": "Jackson-County"
+        },
+        "Johnston County": {
+            "countySeat": "Smithfield",
+            "directory": "Johnston-County"
+        },
+        "Jones County": {
+            "countySeat": "Trenton",
+            "directory": "Jones-County"
+        },
+        "Lee County": {
+            "countySeat": "Sanford",
+            "directory": "Lee-County"
+        },
+        "Lenoir County": {
+            "countySeat": "Kinston",
+            "directory": "Lenoir-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Lincolnton",
+            "directory": "Lincoln-County"
+        },
+        "McDowell County": {
+            "countySeat": "Marion",
+            "directory": "McDowell-County"
+        },
+        "Macon County": {
+            "countySeat": "Franklin",
+            "directory": "Macon-County"
+        },
+        "Madison County": {
+            "countySeat": "Marshall",
+            "directory": "Madison-County"
+        },
+        "Martin County": {
+            "countySeat": "Williamston",
+            "directory": "Martin-County"
+        },
+        "Mecklenburg County": {
+            "countySeat": "Charlotte",
+            "directory": "Mecklenburg-County"
+        },
+        "Mitchell County": {
+            "countySeat": "Bakersville",
+            "directory": "Mitchell-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Troy",
+            "directory": "Montgomery-County"
+        },
+        "Moore County": {
+            "countySeat": "Carthage",
+            "directory": "Moore-County"
+        },
+        "Nash County": {
+            "countySeat": "Nashville",
+            "directory": "Nash-County"
+        },
+        "New Hanover County": {
+            "countySeat": "Wilmington",
+            "directory": "New-Hanover-County"
+        },
+        "Northampton County": {
+            "countySeat": "Jackson",
+            "directory": "Northampton-County"
+        },
+        "Onslow County": {
+            "countySeat": "Jacksonville",
+            "directory": "Onslow-County"
+        },
+        "Orange County": {
+            "countySeat": "Hillsborough",
+            "directory": "Orange-County"
+        },
+        "Pamlico County": {
+            "countySeat": "Bayboro",
+            "directory": "Pamlico-County"
+        },
+        "Pasquotank County": {
+            "countySeat": "Elizabeth City",
+            "directory": "Pasquotank-County"
+        },
+        "Pender County": {
+            "countySeat": "Burgaw",
+            "directory": "Pender-County"
+        },
+        "Perquimans County": {
+            "countySeat": "Hertford",
+            "directory": "Perquimans-County"
+        },
+        "Person County": {
+            "countySeat": "Roxboro",
+            "directory": "Person-County"
+        },
+        "Pitt County": {
+            "countySeat": "Greenville",
+            "directory": "Pitt-County"
+        },
+        "Polk County": {
+            "countySeat": "Columbus",
+            "directory": "Polk-County"
+        },
+        "Randolph County": {
+            "countySeat": "Asheboro",
+            "directory": "Randolph-County"
+        },
+        "Richmond County": {
+            "countySeat": "Rockingham",
+            "directory": "Richmond-County"
+        },
+        "Robeson County": {
+            "countySeat": "Lumberton",
+            "directory": "Robeson-County"
+        },
+        "Rockingham County": {
+            "countySeat": "Wentworth",
+            "directory": "Rockingham-County"
+        },
+        "Rowan County": {
+            "countySeat": "Salisbury",
+            "directory": "Rowan-County"
+        },
+        "Rutherford County": {
+            "countySeat": "Rutherfordton",
+            "directory": "Rutherford-County"
+        },
+        "Sampson County": {
+            "countySeat": "Clinton",
+            "directory": "Sampson-County"
+        },
+        "Scotland County": {
+            "countySeat": "Laurinburg",
+            "directory": "Scotland-County"
+        },
+        "Stanly County": {
+            "countySeat": "Albemarle",
+            "directory": "Stanly-County"
+        },
+        "Stokes County": {
+            "countySeat": "Danbury",
+            "directory": "Stokes-County"
+        },
+        "Surry County": {
+            "countySeat": "Dobson",
+            "directory": "Surry-County"
+        },
+        "Swain County": {
+            "countySeat": "Bryson City",
+            "directory": "Swain-County"
+        },
+        "Transylvania County": {
+            "countySeat": "Brevard",
+            "directory": "Transylvania-County"
+        },
+        "Tyrrell County": {
+            "countySeat": "Columbia",
+            "directory": "Tyrrell-County"
+        },
+        "Union County": {
+            "countySeat": "Monroe",
+            "directory": "Union-County"
+        },
+        "Vance County": {
+            "countySeat": "Henderson",
+            "directory": "Vance-County"
+        },
+        "Wake County": {
+            "countySeat": "Raleigh",
+            "directory": "Wake-County"
+        },
+        "Warren County": {
+            "countySeat": "Warrenton",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Plymouth",
+            "directory": "Washington-County"
+        },
+        "Watauga County": {
+            "countySeat": "Boone",
+            "directory": "Watauga-County"
+        },
+        "Wayne County": {
+            "countySeat": "Goldsboro",
+            "directory": "Wayne-County"
+        },
+        "Wilkes County": {
+            "countySeat": "Wilkesboro",
+            "directory": "Wilkes-County"
+        },
+        "Wilson County": {
+            "countySeat": "Wilson",
+            "directory": "Wilson-County"
+        },
+        "Yadkin County": {
+            "countySeat": "Yadkinville",
+            "directory": "Yadkin-County"
+        },
+        "Yancey County": {
+            "countySeat": "Burnsville",
+            "directory": "Yancey-County"
+        }
+    }
+}

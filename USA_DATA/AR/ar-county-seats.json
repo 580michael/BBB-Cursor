@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 75
+  },
+  "counties": {
+    "Arkansas County": {
+      "countySeat": ["Stuttgart", "DeWitt"],
+      "directory": "Arkansas-County"
+    },
+    "Ashley County": {
+      "countySeat": ["Hamburg"],
+      "directory": "Ashley-County"
+    },
+    "Baxter County": {
+      "countySeat": ["Mountain Home"],
+      "directory": "Baxter-County"
+    },
+    "Benton County": {
+      "countySeat": ["Bentonville"],
+      "directory": "Benton-County"
+    },
+    "Boone County": {
+      "countySeat": ["Harrison"],
+      "directory": "Boone-County"
+    },
+    "Bradley County": {
+      "countySeat": ["Warren"],
+      "directory": "Bradley-County"
+    },
+    "Calhoun County": {
+      "countySeat": ["Hampton"],
+      "directory": "Calhoun-County"
+    },
+    "Carroll County": {
+      "countySeat": ["Berryville", "Eureka Springs"],
+      "directory": "Carroll-County"
+    },
+    "Chicot County": {
+      "countySeat": ["Lake Village"],
+      "directory": "Chicot-County"
+    },
+    "Clark County": {
+      "countySeat": ["Arkadelphia"],
+      "directory": "Clark-County"
+    },
+    "Clay County": {
+      "countySeat": ["Piggott", "Corning"],
+      "directory": "Clay-County"
+    },
+    "Cleburne County": {
+      "countySeat": ["Heber Springs"],
+      "directory": "Cleburne-County"
+    },
+    "Cleveland County": {
+      "countySeat": ["Rison"],
+      "directory": "Cleveland-County"
+    },
+    "Columbia County": {
+      "countySeat": ["Magnolia"],
+      "directory": "Columbia-County"
+    },
+    "Conway County": {
+      "countySeat": ["Morrilton"],
+      "directory": "Conway-County"
+    },
+    "Craighead County": {
+      "countySeat": ["Jonesboro", "Lake City"],
+      "directory": "Craighead-County"
+    },
+    "Crawford County": {
+      "countySeat": ["Van Buren"],
+      "directory": "Crawford-County"
+    },
+    "Crittenden County": {
+      "countySeat": ["Marion"],
+      "directory": "Crittenden-County"
+    },
+    "Cross County": {
+      "countySeat": ["Wynne"],
+      "directory": "Cross-County"
+    },
+    "Dallas County": {
+      "countySeat": ["Fordyce"],
+      "directory": "Dallas-County"
+    },
+    "Desha County": {
+      "countySeat": ["Arkansas City"],
+      "directory": "Desha-County"
+    },
+    "Drew County": {
+      "countySeat": ["Monticello"],
+      "directory": "Drew-County"
+    },
+    "Faulkner County": {
+      "countySeat": ["Conway"],
+      "directory": "Faulkner-County"
+    },
+    "Franklin County": {
+      "countySeat": ["Ozark", "Charleston"],
+      "directory": "Franklin-County"
+    },
+    "Fulton County": {
+      "countySeat": ["Salem"],
+      "directory": "Fulton-County"
+    },
+    "Garland County": {
+      "countySeat": ["Hot Springs"],
+      "directory": "Garland-County"
+    },
+    "Grant County": {
+      "countySeat": ["Sheridan"],
+      "directory": "Grant-County"
+    },
+    "Greene County": {
+      "countySeat": ["Paragould"],
+      "directory": "Greene-County"
+    },
+    "Hempstead County": {
+      "countySeat": ["Hope"],
+      "directory": "Hempstead-County"
+    },
+    "Hot Spring County": {
+      "countySeat": ["Malvern"],
+      "directory": "Hot-Spring-County"
+    },
+    "Howard County": {
+      "countySeat": ["Nashville"],
+      "directory": "Howard-County"
+    },
+    "Independence County": {
+      "countySeat": ["Batesville"],
+      "directory": "Independence-County"
+    },
+    "Izard County": {
+      "countySeat": ["Melbourne"],
+      "directory": "Izard-County"
+    },
+    "Jackson County": {
+      "countySeat": ["Newport"],
+      "directory": "Jackson-County"
+    },
+    "Jefferson County": {
+      "countySeat": ["Pine Bluff"],
+      "directory": "Jefferson-County"
+    },
+    "Johnson County": {
+      "countySeat": ["Clarksville"],
+      "directory": "Johnson-County"
+    },
+    "Lafayette County": {
+      "countySeat": ["Lewisville"],
+      "directory": "Lafayette-County"
+    },
+    "Lawrence County": {
+      "countySeat": ["Walnut Ridge"],
+      "directory": "Lawrence-County"
+    },
+    "Lee County": {
+      "countySeat": ["Marianna"],
+      "directory": "Lee-County"
+    },
+    "Lincoln County": {
+      "countySeat": ["Star City"],
+      "directory": "Lincoln-County"
+    },
+    "Little River County": {
+      "countySeat": ["Ashdown"],
+      "directory": "Little-River-County"
+    },
+    "Logan County": {
+      "countySeat": ["Booneville", "Paris"],
+      "directory": "Logan-County"
+    },
+    "Lonoke County": {
+      "countySeat": ["Lonoke"],
+      "directory": "Lonoke-County"
+    },
+    "Madison County": {
+      "countySeat": ["Huntsville"],
+      "directory": "Madison-County"
+    },
+    "Marion County": {
+      "countySeat": ["Yellville"],
+      "directory": "Marion-County"
+    },
+    "Miller County": {
+      "countySeat": ["Texarkana"],
+      "directory": "Miller-County"
+    },
+    "Mississippi County": {
+      "countySeat": ["Blytheville", "Osceola"],
+      "directory": "Mississippi-County"
+    },
+    "Monroe County": {
+      "countySeat": ["Clarendon"],
+      "directory": "Monroe-County"
+    },
+    "Montgomery County": {
+      "countySeat": ["Mount Ida"],
+      "directory": "Montgomery-County"
+    },
+    "Nevada County": {
+      "countySeat": ["Prescott"],
+      "directory": "Nevada-County"
+    },
+    "Newton County": {
+      "countySeat": ["Jasper"],
+      "directory": "Newton-County"
+    },
+    "Ouachita County": {
+      "countySeat": ["Camden"],
+      "directory": "Ouachita-County"
+    },
+    "Perry County": {
+      "countySeat": ["Perryville"],
+      "directory": "Perry-County"
+    },
+    "Phillips County": {
+      "countySeat": ["Helena"],
+      "directory": "Phillips-County"
+    },
+    "Pike County": {
+      "countySeat": ["Murfreesboro"],
+      "directory": "Pike-County"
+    },
+    "Poinsett County": {
+      "countySeat": ["Harrisburg"],
+      "directory": "Poinsett-County"
+    },
+    "Polk County": {
+      "countySeat": ["Mena"],
+      "directory": "Polk-County"
+    },
+    "Pope County": {
+      "countySeat": ["Russellville"],
+      "directory": "Pope-County"
+    },
+    "Prairie County": {
+      "countySeat": ["Des Arc", "DeValls Bluff"],
+      "directory": "Prairie-County"
+    },
+    "Pulaski County": {
+      "countySeat": ["Little Rock"],
+      "directory": "Pulaski-County"
+    },
+    "Randolph County": {
+      "countySeat": ["Pocahontas"],
+      "directory": "Randolph-County"
+    },
+    "St. Francis County": {
+      "countySeat": ["Forrest City"],
+      "directory": "St-Francis-County"
+    },
+    "Saline County": {
+      "countySeat": ["Benton"],
+      "directory": "Saline-County"
+    },
+    "Scott County": {
+      "countySeat": ["Waldron"],
+      "directory": "Scott-County"
+    },
+    "Searcy County": {
+      "countySeat": ["Marshall"],
+      "directory": "Searcy-County"
+    },
+    "Sebastian County": {
+      "countySeat": ["Fort Smith", "Greenwood"],
+      "directory": "Sebastian-County"
+    },
+    "Sevier County": {
+      "countySeat": ["De Queen"],
+      "directory": "Sevier-County"
+    },
+    "Sharp County": {
+      "countySeat": ["Ash Flat"],
+      "directory": "Sharp-County"
+    },
+    "Stone County": {
+      "countySeat": ["Mountain View"],
+      "directory": "Stone-County"
+    },
+    "Union County": {
+      "countySeat": ["El Dorado"],
+      "directory": "Union-County"
+    },
+    "Van Buren County": {
+      "countySeat": ["Clinton"],
+      "directory": "Van-Buren-County"
+    },
+    "Washington County": {
+      "countySeat": ["Fayetteville"],
+      "directory": "Washington-County"
+    },
+    "White County": {
+      "countySeat": ["Searcy"],
+      "directory": "White-County"
+    },
+    "Woodruff County": {
+      "countySeat": ["Augusta"],
+      "directory": "Woodruff-County"
+    },
+    "Yell County": {
+      "countySeat": ["Dardanelle", "Danville"],
+      "directory": "Yell-County"
+    }
+  }
+} 

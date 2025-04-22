@@ -1,0 +1,38 @@
+{
+  "name": "Maryland",
+  "abbreviation": "MD",
+  "nickname": "Old Line State",
+  "capital": "Annapolis",
+  "population": 6177224,
+  "num_counties": 24,
+  "largest_counties": [
+    {
+      "name": "Montgomery County",
+      "description": "Most populous county in Maryland, home to major cities like Rockville and Bethesda, and numerous federal government facilities"
+    },
+    {
+      "name": "Prince George's County",
+      "description": "Second most populous county, featuring the University of Maryland and multiple federal agencies"
+    },
+    {
+      "name": "Baltimore County",
+      "description": "Major economic center surrounding Baltimore City, with diverse industries and educational institutions"
+    }
+  ],
+  "major_cities": [
+    "Baltimore",
+    "Columbia",
+    "Germantown",
+    "Silver Spring",
+    "Waldorf"
+  ],
+  "economy": "Maryland's economy is diverse and robust, anchored by federal government facilities, defense contractors, and the Port of Baltimore. The state is a leader in healthcare, biotechnology, and cybersecurity sectors. The presence of numerous federal agencies and military installations provides stable employment and drives economic growth.",
+  "bail_system": "Maryland operates a comprehensive bail system where defendants can secure release through cash bonds or licensed bail bondsmen. Bail amounts are set during initial appearances and vary by jurisdiction and offense severity. The state maintains a network of pretrial services programs.",
+  "criminal_justice": "The Maryland criminal justice system includes district courts, circuit courts, and the Court of Appeals. Each county operates its own detention facilities, and the state maintains several correctional institutions. Recent reforms focus on pretrial release assessment and rehabilitation programs.",
+  "geography": "Maryland spans from the Chesapeake Bay to the Appalachian Mountains, with diverse terrain including coastal plains, the Piedmont region, and mountain ranges. Major highways include I-95, I-70, and I-81, connecting major population centers and facilitating bail bond services across the state.",
+  "weather": "Maryland experiences all four seasons, with hot summers and mild to cold winters. The climate varies from coastal areas to inland regions, with the mountains receiving more snowfall. Weather conditions rarely impact bail processing in urban areas but can affect travel times in rural regions during severe weather events.",
+  "facilities": {
+    "courts": [],
+    "detention_centers": []
+  }
+}

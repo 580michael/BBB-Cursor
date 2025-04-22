@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "state": "Wyoming",
+        "stateAbbr": "WY",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 23
+    },
+    "counties": {
+        "Albany County": {
+            "countySeat": "Laramie",
+            "directory": "Albany-County"
+        },
+        "Big Horn County": {
+            "countySeat": "Basin",
+            "directory": "Big-Horn-County"
+        },
+        "Campbell County": {
+            "countySeat": "Gillette",
+            "directory": "Campbell-County"
+        },
+        "Carbon County": {
+            "countySeat": "Rawlins",
+            "directory": "Carbon-County"
+        },
+        "Converse County": {
+            "countySeat": "Douglas",
+            "directory": "Converse-County"
+        },
+        "Crook County": {
+            "countySeat": "Sundance",
+            "directory": "Crook-County"
+        },
+        "Fremont County": {
+            "countySeat": "Lander",
+            "directory": "Fremont-County"
+        },
+        "Goshen County": {
+            "countySeat": "Torrington",
+            "directory": "Goshen-County"
+        },
+        "Hot Springs County": {
+            "countySeat": "Thermopolis",
+            "directory": "Hot-Springs-County"
+        },
+        "Johnson County": {
+            "countySeat": "Buffalo",
+            "directory": "Johnson-County"
+        },
+        "Laramie County": {
+            "countySeat": "Cheyenne",
+            "directory": "Laramie-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Kemmerer",
+            "directory": "Lincoln-County"
+        },
+        "Mesa County": {
+            "countySeat": "Lovell",
+            "directory": "Mesa-County"
+        },
+        "Natrona County": {
+            "countySeat": "Casper",
+            "directory": "Natrona-County"
+        },
+        "Niobrara County": {
+            "countySeat": "Lusk",
+            "directory": "Niobrara-County"
+        },
+        "Park County": {
+            "countySeat": "Cody",
+            "directory": "Park-County"
+        },
+        "Platte County": {
+            "countySeat": "Wheatland",
+            "directory": "Platte-County"
+        },
+        "Sheridan County": {
+            "countySeat": "Sheridan",
+            "directory": "Sheridan-County"
+        },
+        "Sherman County": {
+            "countySeat": "Lyman",
+            "directory": "Sherman-County"
+        },
+        "Sublette County": {
+            "countySeat": "Pinedale",
+            "directory": "Sublette-County"
+        },
+        "Sweetwater County": {
+            "countySeat": "Green River",
+            "directory": "Sweetwater-County"
+        },
+        "Teton County": {
+            "countySeat": "Jackson",
+            "directory": "Teton-County"
+        },
+        "Uinta County": {
+            "countySeat": "Evanston",
+            "directory": "Uinta-County"
+        },
+        "Washakie County": {
+            "countySeat": "Worland",
+            "directory": "Washakie-County"
+        }
+    }
+}

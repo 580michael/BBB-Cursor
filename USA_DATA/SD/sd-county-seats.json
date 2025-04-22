@@ -1,0 +1,274 @@
+{
+    "metadata": {
+        "state": "South Dakota",
+        "stateAbbr": "SD", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 66
+    },
+    "counties": {
+        "Aurora County": {
+            "countySeat": "Plankinton",
+            "directory": "Aurora-County"
+        },
+        "Beadle County": {
+            "countySeat": "Huron",
+            "directory": "Beadle-County"
+        },
+        "Bennett County": {
+            "countySeat": "Martin",
+            "directory": "Bennett-County"
+        },
+        "Bon Homme County": {
+            "countySeat": "Tyndall",
+            "directory": "Bon-Homme-County"
+        },
+        "Brookings County": {
+            "countySeat": "Brookings",
+            "directory": "Brookings-County"
+        },
+        "Brown County": {
+            "countySeat": "Aberdeen",
+            "directory": "Brown-County"
+        },
+        "Brule County": {
+            "countySeat": "Chamberlain",
+            "directory": "Brule-County"
+        },
+        "Buffalo County": {
+            "countySeat": "Gann Valley",
+            "directory": "Buffalo-County"
+        },
+        "Butte County": {
+            "countySeat": "Belle Fourche",
+            "directory": "Butte-County"
+        },
+        "Campbell County": {
+            "countySeat": "Mound City",
+            "directory": "Campbell-County"
+        },
+        "Charles Mix County": {
+            "countySeat": "Lake Andes",
+            "directory": "Charles-Mix-County"
+        },
+        "Clark County": {
+            "countySeat": "Clark",
+            "directory": "Clark-County"
+        },
+        "Clay County": {
+            "countySeat": "Vermillion",
+            "directory": "Clay-County"
+        },
+        "Codington County": {
+            "countySeat": "Watertown",
+            "directory": "Codington-County"
+        },
+        "Corson County": {
+            "countySeat": "McIntosh",
+            "directory": "Corson-County"
+        },
+        "Custer County": {
+            "countySeat": "Custer",
+            "directory": "Custer-County"
+        },
+        "Davison County": {
+            "countySeat": "Mitchell",
+            "directory": "Davison-County"
+        },
+        "Day County": {
+            "countySeat": "Webster",
+            "directory": "Day-County"
+        },
+        "Deuel County": {
+            "countySeat": "Clear Lake",
+            "directory": "Deuel-County"
+        },
+        "Dewey County": {
+            "countySeat": "Timber Lake",
+            "directory": "Dewey-County"
+        },
+        "Douglas County": {
+            "countySeat": "Armour",
+            "directory": "Douglas-County"
+        },
+        "Edmunds County": {
+            "countySeat": "Ipswich",
+            "directory": "Edmunds-County"
+        },
+        "Fall River County": {
+            "countySeat": "Hot Springs",
+            "directory": "Fall-River-County"
+        },
+        "Faulk County": {
+            "countySeat": "Faulkton",
+            "directory": "Faulk-County"
+        },
+        "Grant County": {
+            "countySeat": "Milbank",
+            "directory": "Grant-County"
+        },
+        "Gregory County": {
+            "countySeat": "Burke",
+            "directory": "Gregory-County"
+        },
+        "Haakon County": {
+            "countySeat": "Philip",
+            "directory": "Haakon-County"
+        },
+        "Hamlin County": {
+            "countySeat": "Hayti",
+            "directory": "Hamlin-County"
+        },
+        "Hand County": {
+            "countySeat": "Miller",
+            "directory": "Hand-County"
+        },
+        "Hanson County": {
+            "countySeat": "Alexandria",
+            "directory": "Hanson-County"
+        },
+        "Harding County": {
+            "countySeat": "Buffalo",
+            "directory": "Harding-County"
+        },
+        "Hughes County": {
+            "countySeat": "Pierre",
+            "directory": "Hughes-County"
+        },
+        "Hutchinson County": {
+            "countySeat": "Olivet",
+            "directory": "Hutchinson-County"
+        },
+        "Hyde County": {
+            "countySeat": "Highmore",
+            "directory": "Hyde-County"
+        },
+        "Jackson County": {
+            "countySeat": "Kadoka",
+            "directory": "Jackson-County"
+        },
+        "Jerauld County": {
+            "countySeat": "Wessington",
+            "directory": "Jerauld-County"
+        },
+        "Jones County": {
+            "countySeat": "Murdo",
+            "directory": "Jones-County"
+        },
+        "Kingsbury County": {
+            "countySeat": "De Smet",
+            "directory": "Kingsbury-County"
+        },
+        "Lake County": {
+            "countySeat": "Madison",
+            "directory": "Lake-County"
+        },
+        "Lawrence County": {
+            "countySeat": "Deadwood",
+            "directory": "Lawrence-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Canton",
+            "directory": "Lincoln-County"
+        },
+        "Lyman County": {
+            "countySeat": "Kennebec",
+            "directory": "Lyman-County"
+        },
+        "Marshall County": {
+            "countySeat": "Britton",
+            "directory": "Marshall-County"
+        },
+        "McCook County": {
+            "countySeat": "Salem",
+            "directory": "McCook-County"
+        },
+        "McPherson County": {
+            "countySeat": "Leola",
+            "directory": "McPherson-County"
+        },
+        "Mellette County": {
+            "countySeat": "White River",
+            "directory": "Mellette-County"
+        },
+        "Miner County": {
+            "countySeat": "Howard",
+            "directory": "Miner-County"
+        },
+        "Minnehaha County": {
+            "countySeat": "Sioux Falls",
+            "directory": "Minnehaha-County"
+        },
+        "Moody County": {
+            "countySeat": "Flandreau",
+            "directory": "Moody-County"
+        },
+        "Pennington County": {
+            "countySeat": "Rapid City",
+            "directory": "Pennington-County"
+        },
+        "Perry County": {
+            "countySeat": "Elk Point",
+            "directory": "Perry-County"
+        },
+        "Potter County": {
+            "countySeat": "Gettysburg",
+            "directory": "Potter-County"
+        },
+        "Roberts County": {
+            "countySeat": "Sisseton",
+            "directory": "Roberts-County"
+        },
+        "Sanborn County": {
+            "countySeat": "Woonsocket",
+            "directory": "Sanborn-County"
+        },
+        "Spink County": {
+            "countySeat": "Redfield",
+            "directory": "Spink-County"
+        },
+        "Stanley County": {
+            "countySeat": "Fort Pierre",
+            "directory": "Stanley-County"
+        },
+        "Sully County": {
+            "countySeat": "Onida",
+            "directory": "Sully-County"
+        },
+        "Todd County": {
+            "countySeat": "Mission",
+            "directory": "Todd-County"
+        },
+        "Tripp County": {
+            "countySeat": "Winner",
+            "directory": "Tripp-County"
+        },
+        "Turner County": {
+            "countySeat": "Parker",
+            "directory": "Turner-County"
+        },
+        "Union County": {
+            "countySeat": "Elk Point",
+            "directory": "Union-County"
+        },
+        "Walworth County": {
+            "countySeat": "Mobridge",
+            "directory": "Walworth-County"
+        },
+        "Washabaugh County": {
+            "countySeat": "Peno",
+            "directory": "Washabaugh-County"
+        },
+        "Washington County": {
+            "countySeat": "Pierre",
+            "directory": "Washington-County"
+        },
+        "Yankton County": {
+            "countySeat": "Yankton",
+            "directory": "Yankton-County"
+        },
+        "Ziebach County": {
+            "countySeat": "Dupree",
+            "directory": "Ziebach-County"
+        }
+    }
+}

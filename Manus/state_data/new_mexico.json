@@ -1,0 +1,53 @@
+{
+  "name": "New Mexico",
+  "abbreviation": "NE",
+  "nickname": "New Mexico State",
+  "capital": "State Capital",
+  "population": "N/A",
+  "num_counties": "N/A",
+  "largest_counties": [
+    {
+      "name": "Largest County",
+      "description": "Description needed"
+    },
+    {
+      "name": "Second County",
+      "description": "Description needed"
+    },
+    {
+      "name": "Third County",
+      "description": "Description needed"
+    }
+  ],
+  "major_cities": [
+    "Major City 1",
+    "Major City 2"
+  ],
+  "economy": "Economic details for New Mexico to be added.",
+  "bail_system": "Bail system information for New Mexico to be added.",
+  "criminal_justice": "Criminal justice context for New Mexico to be added.",
+  "geography": "Geographical notes for New Mexico to be added.",
+  "weather": "Weather considerations for New Mexico to be added.",
+  "faqs": [
+    {
+      "question": "What's the typical release timeframe after posting bail in New Mexico?",
+      "answer": "In New Mexico, once a bail bond is posted, release processing usually takes between 3-6 hours, though this varies by facility and current booking volume. During busy periods or weekends, processing may take longer. Your bail agent will provide regular updates throughout the process."
+    },
+    {
+      "question": "What kind of collateral is accepted for bail bonds in New Mexico?",
+      "answer": "New Mexico bail bond agencies generally accept collateral in forms such as real estate equity, vehicle titles, valuable personal property (jewelry, electronics, collectibles), and sometimes financial instruments like certificates of deposit. The specific requirements vary by bondsman and depend on the bond amount, the defendant's history, and the assessed flight risk."
+    },
+    {
+      "question": "How is the cost of a bail bond calculated in New Mexico?",
+      "answer": "In New Mexico, bail bond fees typically range from 10-15% of the total bail amount, though this can vary by county and individual bondsman. For example, a $10,000 bail would cost $1,000-$1,500 in non-refundable fees. Some bondsmen offer payment plans for larger amounts. Additional costs may include court filing fees, travel expenses for out-of-county service, or credit card processing fees."
+    },
+    {
+      "question": "What information is required to arrange a bail bond in New Mexico?",
+      "answer": "When contacting a bail bondsman in New Mexico, you should have the following information ready: the full legal name of the detained person, their date of birth, the facility where they're being held, the booking or case number if available, the charge(s), the bail amount if set, and your relationship to the defendant. Additionally, having information about the defendant's employment, community ties, and residence in New Mexico can help expedite the process."
+    },
+    {
+      "question": "What payment options do New Mexico bail bond agencies offer?",
+      "answer": "New Mexico bail bond agencies generally accept various payment methods including cash, credit cards, debit cards, electronic transfers, money orders, and cashier's checks. Many bondsmen offer flexible payment plans for clients unable to pay the full premium immediately. These financing arrangements typically require a down payment (often 25-35% of the premium) and verifiable income or additional collateral. Some agencies charge convenience fees for certain payment methods."
+    }
+  ]
+}

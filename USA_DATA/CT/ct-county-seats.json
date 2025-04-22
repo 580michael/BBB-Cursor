@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 8
+  },
+  "counties": {
+    "Fairfield County": {
+      "countySeat": "Bridgeport",
+      "directory": "Fairfield-County"
+    },
+    "Hartford County": {
+      "countySeat": "Hartford",
+      "directory": "Hartford-County"
+    },
+    "Litchfield County": {
+      "countySeat": "Litchfield",
+      "directory": "Litchfield-County"
+    },
+    "Middlesex County": {
+      "countySeat": "Middletown",
+      "directory": "Middlesex-County"
+    },
+    "New Haven County": {
+      "countySeat": "New Haven",
+      "directory": "New-Haven-County"
+    },
+    "New London County": {
+      "countySeat": "New London",
+      "directory": "New-London-County"
+    },
+    "Tolland County": {
+      "countySeat": "Rockville",
+      "directory": "Tolland-County"
+    },
+    "Windham County": {
+      "countySeat": "Willimantic",
+      "directory": "Windham-County"
+    }
+  }
+}

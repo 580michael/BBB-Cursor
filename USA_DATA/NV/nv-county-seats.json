@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 17
+  },
+  "counties": {
+    "Carson City": {
+      "countySeat": "Carson City",
+      "directory": "Carson-City"
+    },
+    "Churchill County": {
+      "countySeat": "Fallon",
+      "directory": "Churchill-County"
+    },
+    "Clark County": {
+      "countySeat": "Las Vegas",
+      "directory": "Clark-County"
+    },
+    "Douglas County": {
+      "countySeat": "Minden",
+      "directory": "Douglas-County"
+    },
+    "Elko County": {
+      "countySeat": "Elko",
+      "directory": "Elko-County"
+    },
+    "Esmeralda County": {
+      "countySeat": "Goldfield",
+      "directory": "Esmeralda-County"
+    },
+    "Eureka County": {
+      "countySeat": "Eureka",
+      "directory": "Eureka-County"
+    },
+    "Humboldt County": {
+      "countySeat": "Winnemucca",
+      "directory": "Humboldt-County"
+    },
+    "Lander County": {
+      "countySeat": "Battle Mountain",
+      "directory": "Lander-County"
+    },
+    "Lincoln County": {
+      "countySeat": "Pioche",
+      "directory": "Lincoln-County"
+    },
+    "Lyon County": {
+      "countySeat": "Yerington",
+      "directory": "Lyon-County"
+    },
+    "Mineral County": {
+      "countySeat": "Hawthorne",
+      "directory": "Mineral-County"
+    },
+    "Nye County": {
+      "countySeat": "Tonopah",
+      "directory": "Nye-County"
+    },
+    "Pershing County": {
+      "countySeat": "Lovelock",
+      "directory": "Pershing-County"
+    },
+    "Storey County": {
+      "countySeat": "Virginia City",
+      "directory": "Storey-County"
+    },
+    "Washoe County": {
+      "countySeat": "Reno",
+      "directory": "Washoe-County"
+    },
+    "White Pine County": {
+      "countySeat": "Ely",
+      "directory": "White-Pine-County"
+    }
+  }
+}

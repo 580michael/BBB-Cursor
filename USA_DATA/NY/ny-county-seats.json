@@ -1,0 +1,258 @@
+{
+    "metadata": {
+        "state": "New York",
+        "stateAbbr": "NY", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 62
+    },
+    "counties": {
+        "Albany County": {
+            "countySeat": "Albany",
+            "directory": "Albany-County"
+        },
+        "Allegany County": {
+            "countySeat": "Belmont",
+            "directory": "Allegany-County"
+        },
+        "Bronx County": {
+            "countySeat": "Bronx",
+            "directory": "Bronx-County"
+        },
+        "Broome County": {
+            "countySeat": "Binghamton",
+            "directory": "Broome-County"
+        },
+        "Cattaraugus County": {
+            "countySeat": "Little Valley",
+            "directory": "Cattaraugus-County"
+        },
+        "Cayuga County": {
+            "countySeat": "Auburn",
+            "directory": "Cayuga-County"
+        },
+        "Chautauqua County": {
+            "countySeat": "Mayville",
+            "directory": "Chautauqua-County"
+        },
+        "Chemung County": {
+            "countySeat": "Elmira",
+            "directory": "Chemung-County"
+        },
+        "Chenango County": {
+            "countySeat": "Norwich",
+            "directory": "Chenango-County"
+        },
+        "Clinton County": {
+            "countySeat": "Plattsburgh",
+            "directory": "Clinton-County"
+        },
+        "Columbia County": {
+            "countySeat": "Hudson",
+            "directory": "Columbia-County"
+        },
+        "Cortland County": {
+            "countySeat": "Cortland",
+            "directory": "Cortland-County"
+        },
+        "Delaware County": {
+            "countySeat": "Delhi",
+            "directory": "Delaware-County"
+        },
+        "Dutchess County": {
+            "countySeat": "Poughkeepsie",
+            "directory": "Dutchess-County"
+        },
+        "Erie County": {
+            "countySeat": "Buffalo",
+            "directory": "Erie-County"
+        },
+        "Essex County": {
+            "countySeat": "Elizabethtown",
+            "directory": "Essex-County"
+        },
+        "Franklin County": {
+            "countySeat": "Malone",
+            "directory": "Franklin-County"
+        },
+        "Fulton County": {
+            "countySeat": "Johnstown",
+            "directory": "Fulton-County"
+        },
+        "Genesee County": {
+            "countySeat": "Batavia",
+            "directory": "Genesee-County"
+        },
+        "Greene County": {
+            "countySeat": "Catskill",
+            "directory": "Greene-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Lake Pleasant",
+            "directory": "Hamilton-County"
+        },
+        "Herkimer County": {
+            "countySeat": "Herkimer",
+            "directory": "Herkimer-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Watertown",
+            "directory": "Jefferson-County"
+        },
+        "Kings County": {
+            "countySeat": "Brooklyn",
+            "directory": "Kings-County"
+        },
+        "Lewis County": {
+            "countySeat": "Lowville",
+            "directory": "Lewis-County"
+        },
+        "Livingston County": {
+            "countySeat": "Geneseo",
+            "directory": "Livingston-County"
+        },
+        "Madison County": {
+            "countySeat": "Wampsville",
+            "directory": "Madison-County"
+        },
+        "Monroe County": {
+            "countySeat": "Rochester",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Fonda",
+            "directory": "Montgomery-County"
+        },
+        "Nassau County": {
+            "countySeat": "Mineola",
+            "directory": "Nassau-County"
+        },
+        "New York County": {
+            "countySeat": "Manhattan",
+            "directory": "New-York-County"
+        },
+        "Niagara County": {
+            "countySeat": "Lockport",
+            "directory": "Niagara-County"
+        },
+        "Oneida County": {
+            "countySeat": "Utica",
+            "directory": "Oneida-County"
+        },
+        "Onondaga County": {
+            "countySeat": "Syracuse",
+            "directory": "Onondaga-County"
+        },
+        "Ontario County": {
+            "countySeat": "Canandaigua",
+            "directory": "Ontario-County"
+        },
+        "Orange County": {
+            "countySeat": "Goshen",
+            "directory": "Orange-County"
+        },
+        "Orleans County": {
+            "countySeat": "Albion",
+            "directory": "Orleans-County"
+        },
+        "Oswego County": {
+            "countySeat": "Oswego",
+            "directory": "Oswego-County"
+        },
+        "Otsego County": {
+            "countySeat": "Cooperstown",
+            "directory": "Otsego-County"
+        },
+        "Putnam County": {
+            "countySeat": "Carmel",
+            "directory": "Putnam-County"
+        },
+        "Queens County": {
+            "countySeat": "Queens",
+            "directory": "Queens-County"
+        },
+        "Rensselaer County": {
+            "countySeat": "Troy",
+            "directory": "Rensselaer-County"
+        },
+        "Richmond County": {
+            "countySeat": "Staten Island",
+            "directory": "Richmond-County"
+        },
+        "Rockland County": {
+            "countySeat": "New City",
+            "directory": "Rockland-County"
+        },
+        "St. Lawrence County": {
+            "countySeat": "Canton",
+            "directory": "St-Lawrence-County"
+        },
+        "Saratoga County": {
+            "countySeat": "Ballston Spa",
+            "directory": "Saratoga-County"
+        },
+        "Schenectady County": {
+            "countySeat": "Schenectady",
+            "directory": "Schenectady-County"
+        },
+        "Schoharie County": {
+            "countySeat": "Schoharie",
+            "directory": "Schoharie-County"
+        },
+        "Schuyler County": {
+            "countySeat": "Watkins Glen",
+            "directory": "Schuyler-County"
+        },
+        "Seneca County": {
+            "countySeat": "Waterloo",
+            "directory": "Seneca-County"
+        },
+        "Steuben County": {
+            "countySeat": "Bath",
+            "directory": "Steuben-County"
+        },
+        "Suffolk County": {
+            "countySeat": "Riverhead",
+            "directory": "Suffolk-County"
+        },
+        "Sullivan County": {
+            "countySeat": "Monticello",
+            "directory": "Sullivan-County"
+        },
+        "Tioga County": {
+            "countySeat": "Owego",
+            "directory": "Tioga-County"
+        },
+        "Tompkins County": {
+            "countySeat": "Ithaca",
+            "directory": "Tompkins-County"
+        },
+        "Ulster County": {
+            "countySeat": "Kingston",
+            "directory": "Ulster-County"
+        },
+        "Warren County": {
+            "countySeat": "Lake George",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Hudson Falls",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Lyons",
+            "directory": "Wayne-County"
+        },
+        "Westchester County": {
+            "countySeat": "White Plains",
+            "directory": "Westchester-County"
+        },
+        "Wyoming County": {
+            "countySeat": "Warsaw",
+            "directory": "Wyoming-County"
+        },
+        "Yates County": {
+            "countySeat": "Penn Yan",
+            "directory": "Yates-County"
+        }
+    }
+}

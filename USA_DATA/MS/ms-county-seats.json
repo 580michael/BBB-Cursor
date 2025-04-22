@@ -1,0 +1,338 @@
+{
+    "metadata": {
+        "state": "Mississippi",
+        "stateAbbr": "MS",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 82
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Natchez",
+            "directory": "Adams-County"
+        },
+        "Alcorn County": {
+            "countySeat": "Corinth",
+            "directory": "Alcorn-County"
+        },
+        "Amite County": {
+            "countySeat": "Liberty",
+            "directory": "Amite-County"
+        },
+        "Attala County": {
+            "countySeat": "Kosciusko",
+            "directory": "Attala-County"
+        },
+        "Benton County": {
+            "countySeat": "Ashland",
+            "directory": "Benton-County"
+        },
+        "Bolivar County": {
+            "countySeat": "Cleveland",
+            "directory": "Bolivar-County"
+        },
+        "Calhoun County": {
+            "countySeat": "Pittsboro",
+            "directory": "Calhoun-County"
+        },
+        "Carroll County": {
+            "countySeat": "Carrollton",
+            "directory": "Carroll-County"
+        },
+        "Chickasaw County": {
+            "countySeat": "Houston",
+            "directory": "Chickasaw-County"
+        },
+        "Choctaw County": {
+            "countySeat": "Ackerman",
+            "directory": "Choctaw-County"
+        },
+        "Claiborne County": {
+            "countySeat": "Port Gibson",
+            "directory": "Claiborne-County"
+        },
+        "Clarke County": {
+            "countySeat": "Quitman",
+            "directory": "Clarke-County"
+        },
+        "Clay County": {
+            "countySeat": "West Point",
+            "directory": "Clay-County"
+        },
+        "Coahoma County": {
+            "countySeat": "Clarksdale",
+            "directory": "Coahoma-County"
+        },
+        "Copiah County": {
+            "countySeat": "Hazlehurst",
+            "directory": "Copiah-County"
+        },
+        "Covington County": {
+            "countySeat": "Collins",
+            "directory": "Covington-County"
+        },
+        "DeSoto County": {
+            "countySeat": "Hernando",
+            "directory": "DeSoto-County"
+        },
+        "Forrest County": {
+            "countySeat": "Hattiesburg",
+            "directory": "Forrest-County"
+        },
+        "Franklin County": {
+            "countySeat": "Meadville",
+            "directory": "Franklin-County"
+        },
+        "George County": {
+            "countySeat": "Lucedale",
+            "directory": "George-County"
+        },
+        "Greene County": {
+            "countySeat": "Leakesville",
+            "directory": "Greene-County"
+        },
+        "Grenada County": {
+            "countySeat": "Grenada",
+            "directory": "Grenada-County"
+        },
+        "Hancock County": {
+            "countySeat": "Bay St. Louis",
+            "directory": "Hancock-County"
+        },
+        "Harrison County": {
+            "countySeat": "Gulfport",
+            "directory": "Harrison-County"
+        },
+        "Hinds County": {
+            "countySeat": "Jackson",
+            "directory": "Hinds-County"
+        },
+        "Holmes County": {
+            "countySeat": "Lexington",
+            "directory": "Holmes-County"
+        },
+        "Humphreys County": {
+            "countySeat": "Belzoni",
+            "directory": "Humphreys-County"
+        },
+        "Issaquena County": {
+            "countySeat": "Mayersville",
+            "directory": "Issaquena-County"
+        },
+        "Itawamba County": {
+            "countySeat": "Fulton",
+            "directory": "Itawamba-County"
+        },
+        "Jackson County": {
+            "countySeat": "Pascagoula",
+            "directory": "Jackson-County"
+        },
+        "Jasper County": {
+            "countySeat": "Bay Springs",
+            "directory": "Jasper-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Fayette",
+            "directory": "Jefferson-County"
+        },
+        "Jefferson Davis County": {
+            "countySeat": "Prentiss",
+            "directory": "Jefferson-Davis-County"
+        },
+        "Jones County": {
+            "countySeat": "Laurel",
+            "directory": "Jones-County"
+        },
+        "Kemper County": {
+            "countySeat": "DeKalb",
+            "directory": "Kemper-County"
+        },
+        "Lafayette County": {
+            "countySeat": "Oxford",
+            "directory": "Lafayette-County"
+        },
+        "Lamar County": {
+            "countySeat": "Purvis",
+            "directory": "Lamar-County"
+        },
+        "Lauderdale County": {
+            "countySeat": "Meridian",
+            "directory": "Lauderdale-County"
+        },
+        "Lawrence County": {
+            "countySeat": "Monticello",
+            "directory": "Lawrence-County"
+        },
+        "Leake County": {
+            "countySeat": "Carthage",
+            "directory": "Leake-County"
+        },
+        "Lee County": {
+            "countySeat": "Tupelo",
+            "directory": "Lee-County"
+        },
+        "Leflore County": {
+            "countySeat": "Greenwood",
+            "directory": "Leflore-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Brookhaven",
+            "directory": "Lincoln-County"
+        },
+        "Lowndes County": {
+            "countySeat": "Columbus",
+            "directory": "Lowndes-County"
+        },
+        "Madison County": {
+            "countySeat": "Canton",
+            "directory": "Madison-County"
+        },
+        "Marion County": {
+            "countySeat": "Columbia",
+            "directory": "Marion-County"
+        },
+        "Marshall County": {
+            "countySeat": "Holly Springs",
+            "directory": "Marshall-County"
+        },
+        "Monroe County": {
+            "countySeat": "Aberdeen",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Winona",
+            "directory": "Montgomery-County"
+        },
+        "Neshoba County": {
+            "countySeat": "Philadelphia",
+            "directory": "Neshoba-County"
+        },
+        "Newton County": {
+            "countySeat": "Decatur",
+            "directory": "Newton-County"
+        },
+        "Noxubee County": {
+            "countySeat": "Macon",
+            "directory": "Noxubee-County"
+        },
+        "Oktibbeha County": {
+            "countySeat": "Starkville",
+            "directory": "Oktibbeha-County"
+        },
+        "Panola County": {
+            "countySeat": "Batesville",
+            "directory": "Panola-County"
+        },
+        "Pearl River County": {
+            "countySeat": "Poplarville",
+            "directory": "Pearl-River-County"
+        },
+        "Perry County": {
+            "countySeat": "New Augusta",
+            "directory": "Perry-County"
+        },
+        "Pike County": {
+            "countySeat": "Magnolia",
+            "directory": "Pike-County"
+        },
+        "Pontotoc County": {
+            "countySeat": "Pontotoc",
+            "directory": "Pontotoc-County"
+        },
+        "Prentiss County": {
+            "countySeat": "Booneville",
+            "directory": "Prentiss-County"
+        },
+        "Quitman County": {
+            "countySeat": "Marks",
+            "directory": "Quitman-County"
+        },
+        "Rankin County": {
+            "countySeat": "Brandon",
+            "directory": "Rankin-County"
+        },
+        "Scott County": {
+            "countySeat": "Forest",
+            "directory": "Scott-County"
+        },
+        "Sharkey County": {
+            "countySeat": "Rolling Fork",
+            "directory": "Sharkey-County"
+        },
+        "Simpson County": {
+            "countySeat": "Mendenhall",
+            "directory": "Simpson-County"
+        },
+        "Smith County": {
+            "countySeat": "Raleigh",
+            "directory": "Smith-County"
+        },
+        "Stone County": {
+            "countySeat": "Wiggins",
+            "directory": "Stone-County"
+        },
+        "Sunflower County": {
+            "countySeat": "Indianola",
+            "directory": "Sunflower-County"
+        },
+        "Tallahatchie County": {
+            "countySeat": "Charleston",
+            "directory": "Tallahatchie-County"
+        },
+        "Tate County": {
+            "countySeat": "Senatobia",
+            "directory": "Tate-County"
+        },
+        "Tippah County": {
+            "countySeat": "Ripley",
+            "directory": "Tippah-County"
+        },
+        "Tishomingo County": {
+            "countySeat": "Iuka",
+            "directory": "Tishomingo-County"
+        },
+        "Tunica County": {
+            "countySeat": "Tunica",
+            "directory": "Tunica-County"
+        },
+        "Union County": {
+            "countySeat": "New Albany",
+            "directory": "Union-County"
+        },
+        "Walthall County": {
+            "countySeat": "Tylertown",
+            "directory": "Walthall-County"
+        },
+        "Warren County": {
+            "countySeat": "Vicksburg",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Greenville",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Waynesboro",
+            "directory": "Wayne-County"
+        },
+        "Webster County": {
+            "countySeat": "Eupora",
+            "directory": "Webster-County"
+        },
+        "Wilkinson County": {
+            "countySeat": "Woodville",
+            "directory": "Wilkinson-County"
+        },
+        "Winston County": {
+            "countySeat": "Louisville",
+            "directory": "Winston-County"
+        },
+        "Yalobusha County": {
+            "countySeat": "Water Valley",
+            "directory": "Yalobusha-County"
+        },
+        "Yazoo County": {
+            "countySeat": "Yazoo City",
+            "directory": "Yazoo-County"
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "state": "California",
+    "stateAbbr": "CA",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 58
+  },
+  "counties": {
+    "Alameda County": {
+      "countySeat": ["Oakland"],
+      "directory": "Alameda-County"
+    },
+    "Alpine County": {
+      "countySeat": ["Markleeville"],
+      "directory": "Alpine-County"
+    },
+    "Amador County": {
+      "countySeat": ["Jackson"],
+      "directory": "Amador-County"
+    },
+    "Butte County": {
+      "countySeat": ["Oroville"],
+      "directory": "Butte-County"
+    },
+    "Calaveras County": {
+      "countySeat": ["San Andreas"],
+      "directory": "Calaveras-County"
+    },
+    "Colusa County": {
+      "countySeat": ["Colusa"],
+      "directory": "Colusa-County"
+    },
+    "Contra Costa County": {
+      "countySeat": ["Martinez"],
+      "directory": "Contra-Costa-County"
+    },
+    "Del Norte County": {
+      "countySeat": ["Crescent City"],
+      "directory": "Del-Norte-County"
+    },
+    "El Dorado County": {
+      "countySeat": ["Placerville"],
+      "directory": "El-Dorado-County"
+    },
+    "Fresno County": {
+      "countySeat": ["Fresno"],
+      "directory": "Fresno-County"
+    },
+    "Glenn County": {
+      "countySeat": ["Willows"],
+      "directory": "Glenn-County"
+    },
+    "Humboldt County": {
+      "countySeat": ["Eureka"],
+      "directory": "Humboldt-County"
+    },
+    "Imperial County": {
+      "countySeat": ["El Centro"],
+      "directory": "Imperial-County"
+    },
+    "Inyo County": {
+      "countySeat": ["Independence"],
+      "directory": "Inyo-County"
+    },
+    "Kern County": {
+      "countySeat": ["Bakersfield"],
+      "directory": "Kern-County"
+    },
+    "Kings County": {
+      "countySeat": ["Hanford"],
+      "directory": "Kings-County"
+    },
+    "Lake County": {
+      "countySeat": ["Lakeport"],
+      "directory": "Lake-County"
+    },
+    "Lassen County": {
+      "countySeat": ["Susanville"],
+      "directory": "Lassen-County"
+    },
+    "Los Angeles County": {
+      "countySeat": ["Los Angeles"],
+      "directory": "Los-Angeles-County"
+    },
+    "Madera County": {
+      "countySeat": ["Madera"],
+      "directory": "Madera-County"
+    },
+    "Marin County": {
+      "countySeat": ["San Rafael"],
+      "directory": "Marin-County"
+    },
+    "Mariposa County": {
+      "countySeat": ["Mariposa"],
+      "directory": "Mariposa-County"
+    },
+    "Mendocino County": {
+      "countySeat": ["Ukiah"],
+      "directory": "Mendocino-County"
+    },
+    "Merced County": {
+      "countySeat": ["Merced"],
+      "directory": "Merced-County"
+    },
+    "Modoc County": {
+      "countySeat": ["Alturas"],
+      "directory": "Modoc-County"
+    },
+    "Mono County": {
+      "countySeat": ["Bridgeport"],
+      "directory": "Mono-County"
+    },
+    "Monterey County": {
+      "countySeat": ["Salinas"],
+      "directory": "Monterey-County"
+    },
+    "Napa County": {
+      "countySeat": ["Napa"],
+      "directory": "Napa-County"
+    },
+    "Nevada County": {
+      "countySeat": ["Nevada City"],
+      "directory": "Nevada-County"
+    },
+    "Orange County": {
+      "countySeat": ["Santa Ana"],
+      "directory": "Orange-County"
+    },
+    "Placer County": {
+      "countySeat": ["Auburn"],
+      "directory": "Placer-County"
+    },
+    "Plumas County": {
+      "countySeat": ["Quincy"],
+      "directory": "Plumas-County"
+    },
+    "Riverside County": {
+      "countySeat": ["Riverside"],
+      "directory": "Riverside-County"
+    },
+    "Sacramento County": {
+      "countySeat": ["Sacramento"],
+      "directory": "Sacramento-County"
+    },
+    "San Benito County": {
+      "countySeat": ["Hollister"],
+      "directory": "San-Benito-County"
+    },
+    "San Bernardino County": {
+      "countySeat": ["San Bernardino"],
+      "directory": "San-Bernardino-County"
+    },
+    "San Diego County": {
+      "countySeat": ["San Diego"],
+      "directory": "San-Diego-County"
+    },
+    "San Francisco County": {
+      "countySeat": ["San Francisco"],
+      "directory": "San-Francisco-County"
+    },
+    "San Joaquin County": {
+      "countySeat": ["Stockton"],
+      "directory": "San-Joaquin-County"
+    },
+    "San Luis Obispo County": {
+      "countySeat": ["San Luis Obispo"],
+      "directory": "San-Luis-Obispo-County"
+    },
+    "San Mateo County": {
+      "countySeat": ["Redwood City"],
+      "directory": "San-Mateo-County"
+    },
+    "Santa Barbara County": {
+      "countySeat": ["Santa Barbara"],
+      "directory": "Santa-Barbara-County"
+    },
+    "Santa Clara County": {
+      "countySeat": ["San Jose"],
+      "directory": "Santa-Clara-County"
+    },
+    "Santa Cruz County": {
+      "countySeat": ["Santa Cruz"],
+      "directory": "Santa-Cruz-County"
+    },
+    "Shasta County": {
+      "countySeat": ["Redding"],
+      "directory": "Shasta-County"
+    },
+    "Sierra County": {
+      "countySeat": ["Downieville"],
+      "directory": "Sierra-County"
+    },
+    "Siskiyou County": {
+      "countySeat": ["Yreka"],
+      "directory": "Siskiyou-County"
+    },
+    "Solano County": {
+      "countySeat": ["Fairfield"],
+      "directory": "Solano-County"
+    },
+    "Sonoma County": {
+      "countySeat": ["Santa Rosa"],
+      "directory": "Sonoma-County"
+    },
+    "Stanislaus County": {
+      "countySeat": ["Modesto"],
+      "directory": "Stanislaus-County"
+    },
+    "Sutter County": {
+      "countySeat": ["Yuba City"],
+      "directory": "Sutter-County"
+    },
+    "Tehama County": {
+      "countySeat": ["Red Bluff"],
+      "directory": "Tehama-County"
+    },
+    "Trinity County": {
+      "countySeat": ["Weaverville"],
+      "directory": "Trinity-County"
+    },
+    "Tulare County": {
+      "countySeat": ["Visalia"],
+      "directory": "Tulare-County"
+    },
+    "Tuolumne County": {
+      "countySeat": ["Sonora"],
+      "directory": "Tuolumne-County"
+    },
+    "Ventura County": {
+      "countySeat": ["Ventura"],
+      "directory": "Ventura-County"
+    },
+    "Yolo County": {
+      "countySeat": ["Woodland"],
+      "directory": "Yolo-County"
+    },
+    "Yuba County": {
+      "countySeat": ["Marysville"],
+      "directory": "Yuba-County"
+    }
+  }
+} 

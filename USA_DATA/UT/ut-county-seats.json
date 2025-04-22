@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "state": "Utah",
+        "stateAbbr": "UT",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 29
+    },
+    "counties": {
+        "Beaver County": {
+            "countySeat": "Beaver",
+            "directory": "Beaver-County"
+        },
+        "Box Elder County": {
+            "countySeat": "Brigham City",
+            "directory": "Box-Elder-County"
+        },
+        "Cache County": {
+            "countySeat": "Logan",
+            "directory": "Cache-County"
+        },
+        "Carbon County": {
+            "countySeat": "Price",
+            "directory": "Carbon-County"
+        },
+        "Daggett County": {
+            "countySeat": "Manila",
+            "directory": "Daggett-County"
+        },
+        "Davis County": {
+            "countySeat": "Farmington",
+            "directory": "Davis-County"
+        },
+        "Duchesne County": {
+            "countySeat": "Duchesne",
+            "directory": "Duchesne-County"
+        },
+        "Emery County": {
+            "countySeat": "Castle Dale",
+            "directory": "Emery-County"
+        },
+        "Garfield County": {
+            "countySeat": "Panguitch",
+            "directory": "Garfield-County"
+        },
+        "Grand County": {
+            "countySeat": "Moab",
+            "directory": "Grand-County"
+        },
+        "Iron County": {
+            "countySeat": "Cedar City",
+            "directory": "Iron-County"
+        },
+        "Juab County": {
+            "countySeat": "Nephi",
+            "directory": "Juab-County"
+        },
+        "Kane County": {
+            "countySeat": "Kanab",
+            "directory": "Kane-County"
+        },
+        "Millard County": {
+            "countySeat": "Fillmore",
+            "directory": "Millard-County"
+        },
+        "Morgan County": {
+            "countySeat": "Morgan",
+            "directory": "Morgan-County"
+        },
+        "Piute County": {
+            "countySeat": "Junction",
+            "directory": "Piute-County"
+        },
+        "Rich County": {
+            "countySeat": "Randolph",
+            "directory": "Rich-County"
+        },
+        "Salt Lake County": {
+            "countySeat": "Salt Lake City",
+            "directory": "Salt-Lake-County"
+        },
+        "San Juan County": {
+            "countySeat": "Monticello",
+            "directory": "San-Juan-County"
+        },
+        "Sanpete County": {
+            "countySeat": "Manti",
+            "directory": "Sanpete-County"
+        },
+        "Sevier County": {
+            "countySeat": "Richfield",
+            "directory": "Sevier-County"
+        },
+        "Summit County": {
+            "countySeat": "Coalville",
+            "directory": "Summit-County"
+        },
+        "Tooele County": {
+            "countySeat": "Tooele",
+            "directory": "Tooele-County"
+        },
+        "Uintah County": {
+            "countySeat": "Vernal",
+            "directory": "Uintah-County"
+        },
+        "Utah County": {
+            "countySeat": "Provo",
+            "directory": "Utah-County"
+        },
+        "Wasatch County": {
+            "countySeat": "Heber City",
+            "directory": "Wasatch-County"
+        },
+        "Washington County": {
+            "countySeat": "St. George",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Loa",
+            "directory": "Wayne-County"
+        },
+        "Weber County": {
+            "countySeat": "Ogden",
+            "directory": "Weber-County"
+        }
+    }
+}

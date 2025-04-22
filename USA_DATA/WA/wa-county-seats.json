@@ -1,0 +1,167 @@
+
+{
+    "metadata": {
+        "state": "Washington",
+        "stateAbbr": "WA",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 39
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Ritzville",
+            "directory": "Adams-County"
+        },
+        "Asotin County": {
+            "countySeat": "Asotin",
+            "directory": "Asotin-County"
+        },
+        "Benton County": {
+            "countySeat": "Prosser",
+            "directory": "Benton-County"
+        },
+        "Chelan County": {
+            "countySeat": "Wenatchee",
+            "directory": "Chelan-County"
+        },
+        "Clallam County": {
+            "countySeat": "Port Angeles",
+            "directory": "Clallam-County"
+        },
+        "Clark County": {
+            "countySeat": "Vancouver",
+            "directory": "Clark-County"
+        },
+        "Columbia County": {
+            "countySeat": "Dayton",
+            "directory": "Columbia-County"
+        },
+        "Cowlitz County": {
+            "countySeat": "Kelso",
+            "directory": "Cowlitz-County"
+        },
+        "Douglas County": {
+            "countySeat": "Waterville",
+            "directory": "Douglas-County"
+        },
+        "Ferry County": {
+            "countySeat": "Republic",
+            "directory": "Ferry-County"
+        },
+        "Franklin County": {
+            "countySeat": "Pasco",
+            "directory": "Franklin-County"
+        },
+        "Garfield County": {
+            "countySeat": "Pomeroy",
+            "directory": "Garfield-County"
+        },
+        "Grant County": {
+            "countySeat": "Ephrata",
+            "directory": "Grant-County"
+        },
+        "Grays Harbor County": {
+            "countySeat": "Montesano",
+            "directory": "Grays-Harbor-County"
+        },
+        "Island County": {
+            "countySeat": "Coupeville",
+            "directory": "Island-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Port Townsend",
+            "directory": "Jefferson-County"
+        },
+        "King County": {
+            "countySeat": "Seattle",
+            "directory": "King-County"
+        },
+        "Kitsap County": {
+            "countySeat": "Port Orchard",
+            "directory": "Kitsap-County"
+        },
+        "Kittitas County": {
+            "countySeat": "Ellensburg",
+            "directory": "Kittitas-County"
+        },
+        "Klickitat County": {
+            "countySeat": "Goldendale",
+            "directory": "Klickitat-County"
+        },
+        "Lewis County": {
+            "countySeat": "Chehalis",
+            "directory": "Lewis-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Davenport",
+            "directory": "Lincoln-County"
+        },
+        "Mason County": {
+            "countySeat": "Shelton",
+            "directory": "Mason-County"
+        },
+        "Okanogan County": {
+            "countySeat": "Okanogan",
+            "directory": "Okanogan-County"
+        },
+        "Pacific County": {
+            "countySeat": "South Bend",
+            "directory": "Pacific-County"
+        },
+        "Pend Oreille County": {
+            "countySeat": "Newport",
+            "directory": "Pend-Oreille-County"
+        },
+        "Pierce County": {
+            "countySeat": "Tacoma",
+            "directory": "Pierce-County"
+        },
+        "San Juan County": {
+            "countySeat": "Friday Harbor",
+            "directory": "San-Juan-County"
+        },
+        "Skagit County": {
+            "countySeat": "Mount Vernon",
+            "directory": "Skagit-County"
+        },
+        "Skamania County": {
+            "countySeat": "Stevenson",
+            "directory": "Skamania-County"
+        },
+        "Snohomish County": {
+            "countySeat": "Everett",
+            "directory": "Snohomish-County"
+        },
+        "Spokane County": {
+            "countySeat": "Spokane",
+            "directory": "Spokane-County"
+        },
+        "Stevens County": {
+            "countySeat": "Colville",
+            "directory": "Stevens-County"
+        },
+        "Thurston County": {
+            "countySeat": "Olympia",
+            "directory": "Thurston-County"
+        },
+        "Wahkiakum County": {
+            "countySeat": "Cathlamet",
+            "directory": "Wahkiakum-County"
+        },
+        "Walla Walla County": {
+            "countySeat": "Walla Walla",
+            "directory": "Walla-Walla-County"
+        },
+        "Whatcom County": {
+            "countySeat": "Bellingham",
+            "directory": "Whatcom-County"
+        },
+        "Whitman County": {
+            "countySeat": "Colfax",
+            "directory": "Whitman-County"
+        },
+        "Yakima County": {
+            "countySeat": "Yakima",
+            "directory": "Yakima-County"
+        }
+    }
+}

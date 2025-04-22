@@ -1,0 +1,34 @@
+{
+  "name": "Florida",
+  "abbreviation": "FL",
+  "nickname": "The Sunshine State",
+  "capital": "Tallahassee",
+  "population": 22244823,
+  "num_counties": 67,
+  "largest_counties": [
+    {
+      "name": "Miami-Dade County",
+      "description": "Most populous county in Florida, home to Miami and major international business hub"
+    },
+    {
+      "name": "Broward County",
+      "description": "Second most populous county, featuring Fort Lauderdale and extensive waterways"
+    },
+    {
+      "name": "Palm Beach County",
+      "description": "Third largest county, known for tourism and agriculture, includes West Palm Beach"
+    }
+  ],
+  "major_cities": [
+    "Jacksonville",
+    "Miami",
+    "Tampa",
+    "Orlando",
+    "St. Petersburg"
+  ],
+  "economy": "Florida's economy is highly diverse, driven by tourism, agriculture, aerospace, and international trade. The state's extensive coastline and year-round warm climate attract millions of visitors annually. Major economic sectors include hospitality, real estate, healthcare, and technology. The presence of major theme parks, cruise ports, and international airports contributes significantly to the state's economy.",
+  "bail_system": "Florida maintains a regulated bail bond system where licensed bondsmen can operate throughout the state. Bail amounts are set during first appearances and vary by jurisdiction and offense severity. The state requires bondsmen to be licensed through the Department of Financial Services and follow strict guidelines regarding fees and procedures.",
+  "criminal_justice": "Florida's criminal justice system operates through circuit courts and county courts across its 67 counties. Each county maintains its own jail facilities, while the state operates multiple correctional institutions. The system emphasizes public safety while providing various pretrial release options. Recent reforms focus on modernizing procedures and ensuring efficient processing.",
+  "geography": "Florida spans over 65,750 square miles, with the longest coastline of any state in the contiguous United States. Major highways include I-95, I-75, and I-4, connecting all major population centers. The state's unique geography, from the Panhandle to the Keys, requires a widespread network of bail bond services to ensure coverage across diverse regions.",
+  "weather": "Florida experiences a subtropical climate with hot summers and mild winters. While hurricanes can impact operations during storm season (June-November), most bail bond services maintain 24/7 availability through emergency protocols. The consistent warm weather means year-round accessibility to courts and detention facilities."
+}

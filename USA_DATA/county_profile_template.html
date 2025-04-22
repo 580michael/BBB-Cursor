@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{county_name}} - Comprehensive County Profile</title>
+    <meta name="description" content="Detailed profile of {{county_name}}, {{state_name}}. Explore demographics, economics, education, and quality of life metrics for this {{land_area}} sq mi county with {{population}} residents.">
+    
+    <!-- Schema.org markup for Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "name": "{{county_name}}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "{{state_name}}",
+        "addressCountry": "USA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "{{latitude}}",
+        "longitude": "{{longitude}}"
+      },
+      "description": "{{county_name}} is a county in {{state_name}} with a population of {{current_population}}. The county seat is {{county_seat}}.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Land Area",
+          "value": "{{land_area}} square miles"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Average Income",
+          "value": "${{avg_income}}"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Poverty Rate",
+          "value": "{{poverty_rate}}%"
+        }
+      ]
+    }
+    </script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #34495e;
+            --accent-color: #3498db;
+            --text-color: #2c3e50;
+            --background-color: #ecf0f1;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 2rem 0;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1, h2, h3 {
+            color: var(--primary-color);
+        }
+
+        .key-metric {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            color: var(--secondary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1>{{county_name}}</h1>
+            <p>{{state_name}} | County Seat: {{county_seat}}</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h2>Geographic Overview</h2>
+                <p><span class="metric-label">Land Area:</span> <span class="key-metric">{{land_area}} sq mi</span></p>
+                <p><span class="metric-label">Location:</span> {{latitude}}°N, {{longitude}}°W</p>
+                <p><span class="metric-label">ZIP Codes:</span> {{zip_codes}}</p>
+            </div>
+
+            <div class="stat-card">
+                <h2>Population Statistics</h2>
+                <p><span class="metric-label">Current Population:</span> <span class="key-metric">{{current_population}}</span></p>
+                <p><span class="metric-label">Gender Ratio:</span> {{male_ratio}}% male, {{female_ratio}}% female</p>
+                <div id="population-trend-chart" class="chart-container">
+                    <!-- Population trend chart will be inserted here -->
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <h2>Economic Indicators</h2>
+                <p><span class="metric-label">Average Income:</span> <span class="key-metric">${{avg_income}}</span></p>
+                <p><span class="metric-label">Living Wage:</span> ${{living_wage}}/hr</p>
+                <p><span class="metric-label">Poverty Rate:</span> {{poverty_rate}}%</p>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Demographics</h2>
+            <div id="demographics-chart">
+                <!-- Demographics chart will be inserted here -->
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Education</h2>
+            <div id="education-chart">
+                <!-- Education chart will be inserted here -->
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h2>Weather</h2>
+                <p><span class="metric-label">Average Temperature:</span> {{avg_temp}}°F</p>
+                <p><span class="metric-label">Annual Precipitation:</span> {{precipitation}} inches</p>
+                <p><span class="metric-label">Annual Snowfall:</span> {{snowfall}} inches</p>
+            </div>
+
+            <div class="stat-card">
+                <h2>Cost of Living</h2>
+                <p><span class="metric-label">Housing Costs:</span> ${{housing_costs}}/year</p>
+                <p><span class="metric-label">Food Costs:</span> ${{food_costs}}/year</p>
+                <p><span class="metric-label">Medical Costs:</span> ${{medical_costs}}/year</p>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Employment by Industry</h2>
+            <div id="industry-chart">
+                <!-- Industry chart will be inserted here -->
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2>Election Results History</h2>
+            <div id="election-chart">
+                <!-- Election results chart will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // Population Trend Chart
+    new Chart(document.getElementById('population-trend-chart'), {
+        type: 'line',
+        data: {
+            labels: {{population_years}},
+            datasets: [{
+                label: 'Population',
+                data: {{population_data}},
+                borderColor: '#3498db',
+                tension: 0.1
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Population Trend'
+                }
+            }
+        }
+    });
+
+    // Demographics Chart
+    new Chart(document.getElementById('demographics-chart'), {
+        type: 'pie',
+        data: {
+            labels: ['White', 'Black', 'Asian', 'Hispanic', 'Other'],
+            datasets: [{
+                data: {{demographics_data}},
+                backgroundColor: ['#3498db', '#e74c3c', '#2ecc71', '#f1c40f', '#95a5a6']
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Racial Demographics'
+                }
+            }
+        }
+    });
+
+    // Education Chart
+    new Chart(document.getElementById('education-chart'), {
+        type: 'bar',
+        data: {
+            labels: ['Less than High School', 'High School', 'Some College', "Bachelor's or Higher"],
+            datasets: [{
+                label: 'Education Level',
+                data: {{education_data}},
+                backgroundColor: '#3498db'
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Educational Attainment'
+                }
+            }
+        }
+    });
+
+    // Industry Chart
+    new Chart(document.getElementById('industry-chart'), {
+        type: 'bar',
+        data: {
+            labels: {{industry_labels}},
+            datasets: [{
+                label: 'Employees',
+                data: {{industry_data}},
+                backgroundColor: '#3498db'
+            }]
+        },
+        options: {
+            responsive: true,
+            indexAxis: 'y',
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Employment by Industry'
+                }
+            }
+        }
+    });
+
+    // Election Results Chart
+    new Chart(document.getElementById('election-chart'), {
+        type: 'bar',
+        data: {
+            labels: {{election_years}},
+            datasets: [
+                {
+                    label: 'Democratic',
+                    data: {{dem_votes}},
+                    backgroundColor: '#3498db'
+                },
+                {
+                    label: 'Republican',
+                    data: {{gop_votes}},
+                    backgroundColor: '#e74c3c'
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Election Results History'
+                }
+            }
+        }
+    });
+    </script>
+</body>
+</html> 

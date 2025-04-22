@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 15
+  },
+  "counties": {
+    "Apache County": {
+      "countySeat": "St. Johns",
+      "directory": "Apache-County"
+    },
+    "Cochise County": {
+      "countySeat": "Bisbee",
+      "directory": "Cochise-County"
+    },
+    "Coconino County": {
+      "countySeat": "Flagstaff",
+      "directory": "Coconino-County"
+    },
+    "Gila County": {
+      "countySeat": "Globe",
+      "directory": "Gila-County"
+    },
+    "Graham County": {
+      "countySeat": "Safford",
+      "directory": "Graham-County"
+    },
+    "Greenlee County": {
+      "countySeat": "Clifton",
+      "directory": "Greenlee-County"
+    },
+    "La Paz County": {
+      "countySeat": "Parker",
+      "directory": "La-Paz-County"
+    },
+    "Maricopa County": {
+      "countySeat": "Phoenix",
+      "directory": "Maricopa-County"
+    },
+    "Mohave County": {
+      "countySeat": "Kingman",
+      "directory": "Mohave-County"
+    },
+    "Navajo County": {
+      "countySeat": "Holbrook",
+      "directory": "Navajo-County"
+    },
+    "Pima County": {
+      "countySeat": "Tucson",
+      "directory": "Pima-County"
+    },
+    "Pinal County": {
+      "countySeat": "Florence",
+      "directory": "Pinal-County"
+    },
+    "Santa Cruz County": {
+      "countySeat": "Nogales",
+      "directory": "Santa-Cruz-County"
+    },
+    "Yavapai County": {
+      "countySeat": "Prescott",
+      "directory": "Yavapai-County"
+    },
+    "Yuma County": {
+      "countySeat": "Yuma",
+      "directory": "Yuma-County"
+    }
+  }
+}

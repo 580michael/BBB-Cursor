@@ -1,0 +1,406 @@
+{
+    "metadata": {
+      "state": "Iowa",
+      "stateAbbr": "IA",
+      "lastUpdated": "2025-03-26",
+      "totalCounties": 99
+    },
+    "counties": {
+      "Adair County": {
+        "countySeat": "Greenfield",
+        "directory": "Adair-County"
+      },
+      "Adams County": {
+        "countySeat": "Corning",
+        "directory": "Adams-County"
+      },
+      "Allamakee County": {
+        "countySeat": "Waukon",
+        "directory": "Allamakee-County"
+      },
+      "Appanoose County": {
+        "countySeat": "Centerville",
+        "directory": "Appanoose-County"
+      },
+      "Audubon County": {
+        "countySeat": "Audubon",
+        "directory": "Audubon-County"
+      },
+      "Benton County": {
+        "countySeat": "Vinton",
+        "directory": "Benton-County"
+      },
+      "Black Hawk County": {
+        "countySeat": "Waterloo",
+        "directory": "Black-Hawk-County"
+      },
+      "Boone County": {
+        "countySeat": "Boone",
+        "directory": "Boone-County"
+      },
+      "Bremer County": {
+        "countySeat": "Waverly",
+        "directory": "Bremer-County"
+      },
+      "Buchanan County": {
+        "countySeat": "Independence",
+        "directory": "Buchanan-County"
+      },
+      "Buena Vista County": {
+        "countySeat": "Storm Lake",
+        "directory": "Buena-Vista-County"
+      },
+      "Butler County": {
+        "countySeat": "Allison",
+        "directory": "Butler-County"
+      },
+      "Calhoun County": {
+        "countySeat": "Rockwell City",
+        "directory": "Calhoun-County"
+      },
+      "Carroll County": {
+        "countySeat": "Carroll",
+        "directory": "Carroll-County"
+      },
+      "Cass County": {
+        "countySeat": "Atlantic",
+        "directory": "Cass-County"
+      },
+      "Cedar County": {
+        "countySeat": "Tipton",
+        "directory": "Cedar-County"
+      },
+      "Cerro Gordo County": {
+        "countySeat": "Mason City",
+        "directory": "Cerro-Gordo-County"
+      },
+      "Cherokee County": {
+        "countySeat": "Cherokee",
+        "directory": "Cherokee-County"
+      },
+      "Chickasaw County": {
+        "countySeat": "New Hampton",
+        "directory": "Chickasaw-County"
+      },
+      "Clarke County": {
+        "countySeat": "Osceola",
+        "directory": "Clarke-County"
+      },
+      "Clay County": {
+        "countySeat": "Spencer",
+        "directory": "Clay-County"
+      },
+      "Clayton County": {
+        "countySeat": "Elkader",
+        "directory": "Clayton-County"
+      },
+      "Clinton County": {
+        "countySeat": "Clinton",
+        "directory": "Clinton-County"
+      },
+      "Crawford County": {
+        "countySeat": "Denison",
+        "directory": "Crawford-County"
+      },
+      "Dallas County": {
+        "countySeat": "Adel",
+        "directory": "Dallas-County"
+      },
+      "Davis County": {
+        "countySeat": "Bloomfield",
+        "directory": "Davis-County"
+      },
+      "Decatur County": {
+        "countySeat": "Leon",
+        "directory": "Decatur-County"
+      },
+      "Delaware County": {
+        "countySeat": "Manchester",
+        "directory": "Delaware-County"
+      },
+      "Des Moines County": {
+        "countySeat": "Burlington",
+        "directory": "Des-Moines-County"
+      },
+      "Dickinson County": {
+        "countySeat": "Spirit Lake",
+        "directory": "Dickinson-County"
+      },
+      "Dubuque County": {
+        "countySeat": "Dubuque",
+        "directory": "Dubuque-County"
+      },
+      "Emmet County": {
+        "countySeat": "Estherville",
+        "directory": "Emmet-County"
+      },
+      "Fayette County": {
+        "countySeat": "West Union",
+        "directory": "Fayette-County"
+      },
+      "Floyd County": {
+        "countySeat": "Charles City",
+        "directory": "Floyd-County"
+      },
+      "Franklin County": {
+        "countySeat": "Hampton",
+        "directory": "Franklin-County"
+      },
+      "Fremont County": {
+        "countySeat": "Sidney",
+        "directory": "Fremont-County"
+      },
+      "Greene County": {
+        "countySeat": "Jefferson",
+        "directory": "Greene-County"
+      },
+      "Grundy County": {
+        "countySeat": "Grundy Center",
+        "directory": "Grundy-County"
+      },
+      "Guthrie County": {
+        "countySeat": "Guthrie Center",
+        "directory": "Guthrie-County"
+      },
+      "Hamilton County": {
+        "countySeat": "Webster City",
+        "directory": "Hamilton-County"
+      },
+      "Hancock County": {
+        "countySeat": "Garner",
+        "directory": "Hancock-County"
+      },
+      "Hardin County": {
+        "countySeat": "Eldora",
+        "directory": "Hardin-County"
+      },
+      "Harrison County": {
+        "countySeat": "Logan",
+        "directory": "Harrison-County"
+      },
+      "Henry County": {
+        "countySeat": "Mount Pleasant",
+        "directory": "Henry-County"
+      },
+      "Howard County": {
+        "countySeat": "Cresco",
+        "directory": "Howard-County"
+      },
+      "Humboldt County": {
+        "countySeat": "Dakota City",
+        "directory": "Humboldt-County"
+      },
+      "Ida County": {
+        "countySeat": "Ida Grove",
+        "directory": "Ida-County"
+      },
+      "Iowa County": {
+        "countySeat": "Marengo",
+        "directory": "Iowa-County"
+      },
+      "Jackson County": {
+        "countySeat": "Maquoketa",
+        "directory": "Jackson-County"
+      },
+      "Jasper County": {
+        "countySeat": "Newton",
+        "directory": "Jasper-County"
+      },
+      "Jefferson County": {
+        "countySeat": "Fairfield",
+        "directory": "Jefferson-County"
+      },
+      "Johnson County": {
+        "countySeat": "Iowa City",
+        "directory": "Johnson-County"
+      },
+      "Jones County": {
+        "countySeat": "Anamosa",
+        "directory": "Jones-County"
+      },
+      "Keokuk County": {
+        "countySeat": "Sigourney",
+        "directory": "Keokuk-County"
+      },
+      "Kossuth County": {
+        "countySeat": "Algona",
+        "directory": "Kossuth-County"
+      },
+      "Lee County": {
+        "countySeat": "Fort Madison",
+        "directory": "Lee-County"
+      },
+      "Linn County": {
+        "countySeat": "Cedar Rapids",
+        "directory": "Linn-County"
+      },
+      "Louisa County": {
+        "countySeat": "Wapello",
+        "directory": "Louisa-County"
+      },
+      "Lucas County": {
+        "countySeat": "Chariton",
+        "directory": "Lucas-County"
+      },
+      "Lyon County": {
+        "countySeat": "Rock Rapids",
+        "directory": "Lyon-County"
+      },
+      "Madison County": {
+        "countySeat": "Winterset",
+        "directory": "Madison-County"
+      },
+      "Mahaska County": {
+        "countySeat": "Oskaloosa",
+        "directory": "Mahaska-County"
+      },
+      "Marion County": {
+        "countySeat": "Knoxville",
+        "directory": "Marion-County"
+      },
+      "Marshall County": {
+        "countySeat": "Marshalltown",
+        "directory": "Marshall-County"
+      },
+      "Mills County": {
+        "countySeat": "Glenwood",
+        "directory": "Mills-County"
+      },
+      "Mitchell County": {
+        "countySeat": "Osage",
+        "directory": "Mitchell-County"
+      },
+      "Monona County": {
+        "countySeat": "Onawa",
+        "directory": "Monona-County"
+      },
+      "Monroe County": {
+        "countySeat": "Albia",
+        "directory": "Monroe-County"
+      },
+      "Montgomery County": {
+        "countySeat": "Red Oak",
+        "directory": "Montgomery-County"
+      },
+      "Muscatine County": {
+        "countySeat": "Muscatine",
+        "directory": "Muscatine-County"
+      },
+      "O'Brien County": {
+        "countySeat": "Primghar",
+        "directory": "OBrien-County"
+      },
+      "Osceola County": {
+        "countySeat": "Sibley",
+        "directory": "Osceola-County"
+      },
+      "Page County": {
+        "countySeat": "Clarinda",
+        "directory": "Page-County"
+      },
+      "Palo Alto County": {
+        "countySeat": "Emmetsburg",
+        "directory": "Palo-Alto-County"
+      },
+      "Plymouth County": {
+        "countySeat": "Le Mars",
+        "directory": "Plymouth-County"
+      },
+      "Pocahontas County": {
+        "countySeat": "Pocahontas",
+        "directory": "Pocahontas-County"
+      },
+      "Polk County": {
+        "countySeat": "Des Moines",
+        "directory": "Polk-County"
+      },
+      "Pottawattamie County": {
+        "countySeat": "Council Bluffs",
+        "directory": "Pottawattamie-County"
+      },
+      "Poweshiek County": {
+        "countySeat": "Montezuma",
+        "directory": "Poweshiek-County"
+      },
+      "Ringgold County": {
+        "countySeat": "Mount Ayr",
+        "directory": "Ringgold-County"
+      },
+      "Sac County": {
+        "countySeat": "Sac City",
+        "directory": "Sac-County"
+      },
+      "Scott County": {
+        "countySeat": "Davenport",
+        "directory": "Scott-County"
+      },
+      "Shelby County": {
+        "countySeat": "Harlan",
+        "directory": "Shelby-County"
+      },
+      "Sioux County": {
+        "countySeat": "Orange City",
+        "directory": "Sioux-County"
+      },
+      "Story County": {
+        "countySeat": "Nevada",
+        "directory": "Story-County"
+      },
+      "Tama County": {
+        "countySeat": "Toledo",
+        "directory": "Tama-County"
+      },
+      "Taylor County": {
+        "countySeat": "Bedford",
+        "directory": "Taylor-County"
+      },
+      "Union County": {
+        "countySeat": "Creston",
+        "directory": "Union-County"
+      },
+      "Van Buren County": {
+        "countySeat": "Keosauqua",
+        "directory": "Van-Buren-County"
+      },
+      "Wapello County": {
+        "countySeat": "Ottumwa",
+        "directory": "Wapello-County"
+      },
+      "Warren County": {
+        "countySeat": "Indianola",
+        "directory": "Warren-County"
+      },
+      "Washington County": {
+        "countySeat": "Washington",
+        "directory": "Washington-County"
+      },
+      "Wayne County": {
+        "countySeat": "Corydon",
+        "directory": "Wayne-County"
+      },
+      "Webster County": {
+        "countySeat": "Fort Dodge",
+        "directory": "Webster-County"
+      },
+      "Winnebago County": {
+        "countySeat": "Forest City",
+        "directory": "Winnebago-County"
+      },
+      "Winneshiek County": {
+        "countySeat": "Decorah",
+        "directory": "Winneshiek-County"
+      },
+      "Woodbury County": {
+        "countySeat": "Sioux City",
+        "directory": "Woodbury-County"
+      },
+      "Worth County": {
+        "countySeat": "Northwood",
+        "directory": "Worth-County"
+      },
+      "Wright County": {
+        "countySeat": "Clarion",
+        "directory": "Wright-County"
+      }
+    }
+  }

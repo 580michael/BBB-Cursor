@@ -1,0 +1,390 @@
+{
+    "metadata": {
+        "state": "Tennessee",
+        "stateAbbr": "TN", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 95
+    },
+    "counties": {
+        "Anderson County": {
+            "countySeat": "Clinton",
+            "directory": "Anderson-County"
+        },
+        "Bedford County": {
+            "countySeat": "Shelbyville",
+            "directory": "Bedford-County"
+        },
+        "Benton County": {
+            "countySeat": "Camden",
+            "directory": "Benton-County"
+        },
+        "Bledsoe County": {
+            "countySeat": "Pikeville",
+            "directory": "Bledsoe-County"
+        },
+        "Blount County": {
+            "countySeat": "Maryville",
+            "directory": "Blount-County"
+        },
+        "Bradley County": {
+            "countySeat": "Cleveland",
+            "directory": "Bradley-County"
+        },
+        "Campbell County": {
+            "countySeat": "Jacksboro",
+            "directory": "Campbell-County"
+        },
+        "Cannon County": {
+            "countySeat": "Woodbury",
+            "directory": "Cannon-County"
+        },
+        "Carroll County": {
+            "countySeat": "Huntingdon",
+            "directory": "Carroll-County"
+        },
+        "Carter County": {
+            "countySeat": "Elizabethton",
+            "directory": "Carter-County"
+        },
+        "Cheatham County": {
+            "countySeat": "Ashland City",
+            "directory": "Cheatham-County"
+        },
+        "Chester County": {
+            "countySeat": "Henderson",
+            "directory": "Chester-County"
+        },
+        "Claiborne County": {
+            "countySeat": "Tazewell",
+            "directory": "Claiborne-County"
+        },
+        "Clay County": {
+            "countySeat": "Celina",
+            "directory": "Clay-County"
+        },
+        "Cocke County": {
+            "countySeat": "Newport",
+            "directory": "Cocke-County"
+        },
+        "Coffee County": {
+            "countySeat": "Manchester",
+            "directory": "Coffee-County"
+        },
+        "Crockett County": {
+            "countySeat": "Alamo",
+            "directory": "Crockett-County"
+        },
+        "Cumberland County": {
+            "countySeat": "Crossville",
+            "directory": "Cumberland-County"
+        },
+        "Davidson County": {
+            "countySeat": "Nashville",
+            "directory": "Davidson-County"
+        },
+        "Decatur County": {
+            "countySeat": "Decaturville",
+            "directory": "Decatur-County"
+        },
+        "DeKalb County": {
+            "countySeat": "Smithville",
+            "directory": "DeKalb-County"
+        },
+        "Dickson County": {
+            "countySeat": "Charlotte",
+            "directory": "Dickson-County"
+        },
+        "Dyer County": {
+            "countySeat": "Dyersburg",
+            "directory": "Dyer-County"
+        },
+        "Fayette County": {
+            "countySeat": "Somerville",
+            "directory": "Fayette-County"
+        },
+        "Fentress County": {
+            "countySeat": "Jamestown",
+            "directory": "Fentress-County"
+        },
+        "Franklin County": {
+            "countySeat": "Winchester",
+            "directory": "Franklin-County"
+        },
+        "Gibson County": {
+            "countySeat": "Trenton",
+            "directory": "Gibson-County"
+        },
+        "Giles County": {
+            "countySeat": "Pulaski",
+            "directory": "Giles-County"
+        },
+        "Grainger County": {
+            "countySeat": "Rutledge",
+            "directory": "Grainger-County"
+        },
+        "Greene County": {
+            "countySeat": "Greeneville",
+            "directory": "Greene-County"
+        },
+        "Grundy County": {
+            "countySeat": "Altamont",
+            "directory": "Grundy-County"
+        },
+        "Hamblen County": {
+            "countySeat": "Morristown",
+            "directory": "Hamblen-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Chattanooga",
+            "directory": "Hamilton-County"
+        },
+        "Hancock County": {
+            "countySeat": "Sneedville",
+            "directory": "Hancock-County"
+        },
+        "Hardeman County": {
+            "countySeat": "Bolivar",
+            "directory": "Hardeman-County"
+        },
+        "Hardin County": {
+            "countySeat": "Savannah",
+            "directory": "Hardin-County"
+        },
+        "Hawkins County": {
+            "countySeat": "Rogersville",
+            "directory": "Hawkins-County"
+        },
+        "Haywood County": {
+            "countySeat": "Brownsville",
+            "directory": "Haywood-County"
+        },
+        "Henderson County": {
+            "countySeat": "Lexington",
+            "directory": "Henderson-County"
+        },
+        "Henry County": {
+            "countySeat": "Paris",
+            "directory": "Henry-County"
+        },
+        "Hickman County": {
+            "countySeat": "Centerville",
+            "directory": "Hickman-County"
+        },
+        "Houston County": {
+            "countySeat": "Erin",
+            "directory": "Houston-County"
+        },
+        "Humphreys County": {
+            "countySeat": "Waverly",
+            "directory": "Humphreys-County"
+        },
+        "Jackson County": {
+            "countySeat": "Gainesboro",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Dandridge",
+            "directory": "Jefferson-County"
+        },
+        "Johnson County": {
+            "countySeat": "Mountain City",
+            "directory": "Johnson-County"
+        },
+        "Knox County": {
+            "countySeat": "Knoxville",
+            "directory": "Knox-County"
+        },
+        "Lake County": {
+            "countySeat": "Tiptonville",
+            "directory": "Lake-County"
+        },
+        "Lauderdale County": {
+            "countySeat": "Ripley",
+            "directory": "Lauderdale-County"
+        },
+        "Lawrence County": {
+            "countySeat": "Lawrenceburg",
+            "directory": "Lawrence-County"
+        },
+        "Lewis County": {
+            "countySeat": "Hohenwald",
+            "directory": "Lewis-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Fayetteville",
+            "directory": "Lincoln-County"
+        },
+        "Loudon County": {
+            "countySeat": "Loudon",
+            "directory": "Loudon-County"
+        },
+        "McMinn County": {
+            "countySeat": "Athens",
+            "directory": "McMinn-County"
+        },
+        "McNairy County": {
+            "countySeat": "Selmer",
+            "directory": "McNairy-County"
+        },
+        "Macon County": {
+            "countySeat": "Lafayette",
+            "directory": "Macon-County"
+        },
+        "Madison County": {
+            "countySeat": "Jackson",
+            "directory": "Madison-County"
+        },
+        "Marion County": {
+            "countySeat": "Jasper",
+            "directory": "Marion-County"
+        },
+        "Marshall County": {
+            "countySeat": "Lewisburg",
+            "directory": "Marshall-County"
+        },
+        "Maury County": {
+            "countySeat": "Columbia",
+            "directory": "Maury-County"
+        },
+        "Meigs County": {
+            "countySeat": "Decatur",
+            "directory": "Meigs-County"
+        },
+        "Monroe County": {
+            "countySeat": "Madisonville",
+            "directory": "Monroe-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Clarksville",
+            "directory": "Montgomery-County"
+        },
+        "Moore County": {
+            "countySeat": "Lynchburg",
+            "directory": "Moore-County"
+        },
+        "Morgan County": {
+            "countySeat": "Wartburg",
+            "directory": "Morgan-County"
+        },
+        "Obion County": {
+            "countySeat": "Union City",
+            "directory": "Obion-County"
+        },
+        "Overton County": {
+            "countySeat": "Livingston",
+            "directory": "Overton-County"
+        },
+        "Perry County": {
+            "countySeat": "Linden",
+            "directory": "Perry-County"
+        },
+        "Pickett County": {
+            "countySeat": "Byrdstown",
+            "directory": "Pickett-County"
+        },
+        "Polk County": {
+            "countySeat": "Benton",
+            "directory": "Polk-County"
+        },
+        "Putnam County": {
+            "countySeat": "Cookeville",
+            "directory": "Putnam-County"
+        },
+        "Rhea County": {
+            "countySeat": "Dayton",
+            "directory": "Rhea-County"
+        },
+        "Roane County": {
+            "countySeat": "Kingston",
+            "directory": "Roane-County"
+        },
+        "Robertson County": {
+            "countySeat": "Springfield",
+            "directory": "Robertson-County"
+        },
+        "Rutherford County": {
+            "countySeat": "Murfreesboro",
+            "directory": "Rutherford-County"
+        },
+        "Scott County": {
+            "countySeat": "Huntsville",
+            "directory": "Scott-County"
+        },
+        "Sequatchie County": {
+            "countySeat": "Dunlap",
+            "directory": "Sequatchie-County"
+        },
+        "Sevier County": {
+            "countySeat": "Sevierville",
+            "directory": "Sevier-County"
+        },
+        "Shelby County": {
+            "countySeat": "Memphis",
+            "directory": "Shelby-County"
+        },
+        "Smith County": {
+            "countySeat": "Carthage",
+            "directory": "Smith-County"
+        },
+        "Stewart County": {
+            "countySeat": "Dover",
+            "directory": "Stewart-County"
+        },
+        "Sullivan County": {
+            "countySeat": "Blountville",
+            "directory": "Sullivan-County"
+        },
+        "Sumner County": {
+            "countySeat": "Gallatin",
+            "directory": "Sumner-County"
+        },
+        "Tipton County": {
+            "countySeat": "Covington",
+            "directory": "Tipton-County"
+        },
+        "Trousdale County": {
+            "countySeat": "Hartsville",
+            "directory": "Trousdale-County"
+        },
+        "Unicoi County": {
+            "countySeat": "Erwin",
+            "directory": "Unicoi-County"
+        },
+        "Union County": {
+            "countySeat": "Maynardville",
+            "directory": "Union-County"
+        },
+        "Van Buren County": {
+            "countySeat": "Spencer",
+            "directory": "Van-Buren-County"
+        },
+        "Warren County": {
+            "countySeat": "McMinnville",
+            "directory": "Warren-County"
+        },
+        "Washington County": {
+            "countySeat": "Jonesborough",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Waynesboro",
+            "directory": "Wayne-County"
+        },
+        "Weakley County": {
+            "countySeat": "Dresden",
+            "directory": "Weakley-County"
+        },
+        "White County": {
+            "countySeat": "Sparta",
+            "directory": "White-County"
+        },
+        "Williamson County": {
+            "countySeat": "Franklin",
+            "directory": "Williamson-County"
+        },
+        "Wilson County": {
+            "countySeat": "Lebanon",
+            "directory": "Wilson-County"
+        }
+    }
+}

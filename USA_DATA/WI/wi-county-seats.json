@@ -1,0 +1,295 @@
+
+{
+    "metadata": {
+        "state": "Wisconsin",
+        "stateAbbr": "WI",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 72
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Adams",
+            "directory": "Adams-County"
+        },
+        "Ashland County": {
+            "countySeat": "Ashland",
+            "directory": "Ashland-County"
+        },
+        "Barron County": {
+            "countySeat": "Barron",
+            "directory": "Barron-County"
+        },
+        "Bayfield County": {
+            "countySeat": "Washburn",
+            "directory": "Bayfield-County"
+        },
+        "Brown County": {
+            "countySeat": "Green Bay",
+            "directory": "Brown-County"
+        },
+        "Buffalo County": {
+            "countySeat": "Alma",
+            "directory": "Buffalo-County"
+        },
+        "Burnett County": {
+            "countySeat": "Grantsburg",
+            "directory": "Burnett-County"
+        },
+        "Calumet County": {
+            "countySeat": "Chilton",
+            "directory": "Calumet-County"
+        },
+        "Chippewa County": {
+            "countySeat": "Chippewa Falls",
+            "directory": "Chippewa-County"
+        },
+        "Clark County": {
+            "countySeat": "Neillsville",
+            "directory": "Clark-County"
+        },
+        "Columbia County": {
+            "countySeat": "Portage",
+            "directory": "Columbia-County"
+        },
+        "Crawford County": {
+            "countySeat": "Gays Mills",
+            "directory": "Crawford-County"
+        },
+        "Dane County": {
+            "countySeat": "Madison",
+            "directory": "Dane-County"
+        },
+        "Dodge County": {
+            "countySeat": "Juneau",
+            "directory": "Dodge-County"
+        },
+        "Door County": {
+            "countySeat": "Sturgeon Bay",
+            "directory": "Door-County"
+        },
+        "Douglas County": {
+            "countySeat": "Superior",
+            "directory": "Douglas-County"
+        },
+        "Dunn County": {
+            "countySeat": "Menomonie",
+            "directory": "Dunn-County"
+        },
+        "Eau Claire County": {
+            "countySeat": "Eau Claire",
+            "directory": "Eau-Claire-County"
+        },
+        "Florence County": {
+            "countySeat": "Florence",
+            "directory": "Florence-County"
+        },
+        "Fond du Lac County": {
+            "countySeat": "Fond du Lac",
+            "directory": "Fond-du-Lac-County"
+        },
+        "Forest County": {
+            "countySeat": "Crandon",
+            "directory": "Forest-County"
+        },
+        "Grant County": {
+            "countySeat": "Lancaster",
+            "directory": "Grant-County"
+        },
+        "Green County": {
+            "countySeat": "Monroe",
+            "directory": "Green-County"
+        },
+        "Green Lake County": {
+            "countySeat": "Green Lake",
+            "directory": "Green-Lake-County"
+        },
+        "Iowa County": {
+            "countySeat": "Dodgeville",
+            "directory": "Iowa-County"
+        },
+        "Iron County": {
+            "countySeat": "Hurley",
+            "directory": "Iron-County"
+        },
+        "Jackson County": {
+            "countySeat": "Black River Falls",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Jefferson",
+            "directory": "Jefferson-County"
+        },
+        "Juneau County": {
+            "countySeat": "Mauston",
+            "directory": "Juneau-County"
+        },
+        "Kenosha County": {
+            "countySeat": "Kenosha",
+            "directory": "Kenosha-County"
+        },
+        "Kewaunee County": {
+            "countySeat": "Kewaunee",
+            "directory": "Kewaunee-County"
+        },
+        "La Crosse County": {
+            "countySeat": "La Crosse",
+            "directory": "La-Crosse-County"
+        },
+        "Lafayette County": {
+            "countySeat": "Darlington",
+            "directory": "Lafayette-County"
+        },
+        "Langlade County": {
+            "countySeat": "Antigo",
+            "directory": "Langlade-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Merrill",
+            "directory": "Lincoln-County"
+        },
+        "Manitowoc County": {
+            "countySeat": "Manitowoc",
+            "directory": "Manitowoc-County"
+        },
+        "Marathon County": {
+            "countySeat": "Wausau",
+            "directory": "Marathon-County"
+        },
+        "Marinette County": {
+            "countySeat": "Marinette",
+            "directory": "Marinette-County"
+        },
+        "Marquette County": {
+            "countySeat": "Montello",
+            "directory": "Marquette-County"
+        },
+        "Milwaukee County": {
+            "countySeat": "Milwaukee",
+            "directory": "Milwaukee-County"
+        },
+        "Monroe County": {
+            "countySeat": "Sparta",
+            "directory": "Monroe-County"
+        },
+        "Oconto County": {
+            "countySeat": "Oconto",
+            "directory": "Oconto-County"
+        },
+        "Oneida County": {
+            "countySeat": "Rhinelander",
+            "directory": "Oneida-County"
+        },
+        "Outagamie County": {
+            "countySeat": "Appleton",
+            "directory": "Outagamie-County"
+        },
+        "Ozaukee County": {
+            "countySeat": "Port Washington",
+            "directory": "Ozaukee-County"
+        },
+        "Pepin County": {
+            "countySeat": "Durand",
+            "directory": "Pepin-County"
+        },
+        "Pierce County": {
+            "countySeat": "Ellsworth",
+            "directory": "Pierce-County"
+        },
+        "Polk County": {
+            "countySeat": "Balsam Lake",
+            "directory": "Polk-County"
+        },
+        "Portage County": {
+            "countySeat": "Stevens Point",
+            "directory": "Portage-County"
+        },
+        "Price County": {
+            "countySeat": "Phillips",
+            "directory": "Price-County"
+        },
+        "Racine County": {
+            "countySeat": "Racine",
+            "directory": "Racine-County"
+        },
+        "Richland County": {
+            "countySeat": "Richland Center",
+            "directory": "Richland-County"
+        },
+        "Rock County": {
+            "countySeat": "Janesville",
+            "directory": "Rock-County"
+        },
+        "Rusk County": {
+            "countySeat": "Ladysmith",
+            "directory": "Rusk-County"
+        },
+        "St. Croix County": {
+            "countySeat": "Hudson",
+            "directory": "St-Croix-County"
+        },
+        "Sauk County": {
+            "countySeat": "Baraboo",
+            "directory": "Sauk-County"
+        },
+        "Sawyer County": {
+            "countySeat": "Hayward",
+            "directory": "Sawyer-County"
+        },
+        "Shawano County": {
+            "countySeat": "Shawano",
+            "directory": "Shawano-County"
+        },
+        "Sheboygan County": {
+            "countySeat": "Sheboygan",
+            "directory": "Sheboygan-County"
+        },
+        "Taylor County": {
+            "countySeat": "Medford",
+            "directory": "Taylor-County"
+        },
+        "Trempealeau County": {
+            "countySeat": "Whitehall",
+            "directory": "Trempealeau-County"
+        },
+        "Vernon County": {
+            "countySeat": "Viroqua",
+            "directory": "Vernon-County"
+        },
+        "Vilas County": {
+            "countySeat": "Eagle River",
+            "directory": "Vilas-County"
+        },
+        "Walworth County": {
+            "countySeat": "Elkhorn",
+            "directory": "Walworth-County"
+        },
+        "Washburn County": {
+            "countySeat": "Shell Lake",
+            "directory": "Washburn-County"
+        },
+        "Washington County": {
+            "countySeat": "West Bend",
+            "directory": "Washington-County"
+        },
+        "Waukesha County": {
+            "countySeat": "Waukesha",
+            "directory": "Waukesha-County"
+        },
+        "Waupaca County": {
+            "countySeat": "Waupaca",
+            "directory": "Waupaca-County"
+        },
+        "Waushara County": {
+            "countySeat": "Wautoma",
+            "directory": "Waushara-County"
+        },
+        "Winnebago County": {
+            "countySeat": "Oshkosh",
+            "directory": "Winnebago-County"
+        },
+        "Wood County": {
+            "countySeat": "Wisconsin Rapids",
+            "directory": "Wood-County"
+        }
+    }
+}

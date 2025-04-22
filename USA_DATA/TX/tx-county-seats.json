@@ -1,0 +1,1003 @@
+{
+    "metadata": {
+        "state": "Texas",
+        "stateAbbr": "TX",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 254,
+        "fileSection": "First Half (Counties A-L)"
+    },
+    "counties": {
+        "Anderson County": {
+            "countySeat": "Palestine",
+            "directory": "Anderson-County"
+        },
+        "Andrews County": {
+            "countySeat": "Andrews",
+            "directory": "Andrews-County"
+        },
+        "Angelina County": {
+            "countySeat": "Lufkin",
+            "directory": "Angelina-County"
+        },
+        "Aransas County": {
+            "countySeat": "Rockport",
+            "directory": "Aransas-County"
+        },
+        "Archer County": {
+            "countySeat": "Archer City",
+            "directory": "Archer-County"
+        },
+        "Armstrong County": {
+            "countySeat": "Claude",
+            "directory": "Armstrong-County"
+        },
+        "Atascosa County": {
+            "countySeat": "Jourdanton",
+            "directory": "Atascosa-County"
+        },
+        "Austin County": {
+            "countySeat": "Bellville",
+            "directory": "Austin-County"
+        },
+        "Bailey County": {
+            "countySeat": "Muleshoe",
+            "directory": "Bailey-County"
+        },
+        "Bandera County": {
+            "countySeat": "Bandera",
+            "directory": "Bandera-County"
+        },
+        "Bastrop County": {
+            "countySeat": "Bastrop",
+            "directory": "Bastrop-County"
+        },
+        "Baylor County": {
+            "countySeat": "Seymour",
+            "directory": "Baylor-County"
+        },
+        "Bee County": {
+            "countySeat": "Beeville",
+            "directory": "Bee-County"
+        },
+        "Bell County": {
+            "countySeat": "Belton",
+            "directory": "Bell-County"
+        },
+        "Bexar County": {
+            "countySeat": "San Antonio",
+            "directory": "Bexar-County"
+        },
+        "Blanco County": {
+            "countySeat": "Johnson City",
+            "directory": "Blanco-County"
+        },
+        "Borden County": {
+            "countySeat": "Gail",
+            "directory": "Borden-County"
+        },
+        "Bosque County": {
+            "countySeat": "Meridian",
+            "directory": "Bosque-County"
+        },
+        "Bowie County": {
+            "countySeat": "Boston",
+            "directory": "Bowie-County"
+        },
+        "Brazoria County": {
+            "countySeat": "Angleton",
+            "directory": "Brazoria-County"
+        },
+        "Brazos County": {
+            "countySeat": "Bryan",
+            "directory": "Brazos-County"
+        },
+        "Brewster County": {
+            "countySeat": "Alpine",
+            "directory": "Brewster-County"
+        },
+        "Briscoe County": {
+            "countySeat": "Silverton",
+            "directory": "Briscoe-County"
+        },
+        "Brooks County": {
+            "countySeat": "Falfurrias",
+            "directory": "Brooks-County"
+        },
+        "Brown County": {
+            "countySeat": "Brownwood",
+            "directory": "Brown-County"
+        },
+        "Burleson County": {
+            "countySeat": "Caldwell",
+            "directory": "Burleson-County"
+        },
+        "Burnet County": {
+            "countySeat": "Burnet",
+            "directory": "Burnet-County"
+        },
+        "Caldwell County": {
+            "countySeat": "Lockhart",
+            "directory": "Caldwell-County"
+        },
+        "Calhoun County": {
+            "countySeat": "Port Lavaca",
+            "directory": "Calhoun-County"
+        },
+        "Callahan County": {
+            "countySeat": "Baird",
+            "directory": "Callahan-County"
+        },
+        "Cameron County": {
+            "countySeat": "Brownsville",
+            "directory": "Cameron-County"
+        },
+        "Camp County": {
+            "countySeat": "Pittsburg",
+            "directory": "Camp-County"
+        },
+        "Carson County": {
+            "countySeat": "Panhandle",
+            "directory": "Carson-County"
+        },
+        "Cass County": {
+            "countySeat": "Linden",
+            "directory": "Cass-County"
+        },
+        "Castro County": {
+            "countySeat": "Dimmitt",
+            "directory": "Castro-County"
+        },
+        "Chambers County": {
+            "countySeat": "Anahuac",
+            "directory": "Chambers-County"
+        },
+        "Cherokee County": {
+            "countySeat": "Rusk",
+            "directory": "Cherokee-County"
+        },
+        "Childress County": {
+            "countySeat": "Childress",
+            "directory": "Childress-County"
+        },
+        "Clay County": {
+            "countySeat": "Henrietta",
+            "directory": "Clay-County"
+        },
+        "Cochran County": {
+            "countySeat": "Morton",
+            "directory": "Cochran-County"
+        },
+        "Coke County": {
+            "countySeat": "Robert Lee",
+            "directory": "Coke-County"
+        },
+        "Coleman County": {
+            "countySeat": "Coleman",
+            "directory": "Coleman-County"
+        },
+        "Collin County": {
+            "countySeat": "McKinney",
+            "directory": "Collin-County"
+        },
+        "Collingsworth County": {
+            "countySeat": "Wellington",
+            "directory": "Collingsworth-County"
+        },
+        "Colorado County": {
+            "countySeat": "Columbus",
+            "directory": "Colorado-County"
+        },
+        "Comal County": {
+            "countySeat": "New Braunfels",
+            "directory": "Comal-County"
+        },
+        "Comanche County": {
+            "countySeat": "Comanche",
+            "directory": "Comanche-County"
+        },
+        "Concho County": {
+            "countySeat": "Paint Rock",
+            "directory": "Concho-County"
+        },
+        "Cooke County": {
+            "countySeat": "Gainesville",
+            "directory": "Cooke-County"
+        },
+        "Coryell County": {
+            "countySeat": "Gatesville",
+            "directory": "Coryell-County"
+        },
+        "Cottle County": {
+            "countySeat": "Paducah",
+            "directory": "Cottle-County"
+        },
+        "Crane County": {
+            "countySeat": "Crane",
+            "directory": "Crane-County"
+        },
+        "Crosby County": {
+            "countySeat": "Crosbyton",
+            "directory": "Crosby-County"
+        },
+        "Culberson County": {
+            "countySeat": "Van Horn",
+            "directory": "Culberson-County"
+        },
+        "Dallam County": {
+            "countySeat": "Dalhart",
+            "directory": "Dallam-County"
+        },
+        "Dallas County": {
+            "countySeat": "Dallas",
+            "directory": "Dallas-County"
+        },
+        "Dawson County": {
+            "countySeat": "Lamesa",
+            "directory": "Dawson-County"
+        },
+        "Deaf Smith County": {
+            "countySeat": "Hereford",
+            "directory": "Deaf-Smith-County"
+        },
+        "Delta County": {
+            "countySeat": "Cooper",
+            "directory": "Delta-County"
+        },
+        "Denton County": {
+            "countySeat": "Denton",
+            "directory": "Denton-County"
+        },
+        "DeWitt County": {
+            "countySeat": "Cuero",
+            "directory": "DeWitt-County"
+        },
+        "Dickens County": {
+            "countySeat": "Dickens",
+            "directory": "Dickens-County"
+        },
+        "Dimmit County": {
+            "countySeat": "Carrizo Springs",
+            "directory": "Dimmit-County"
+        },
+        "Donley County": {
+            "countySeat": "Clarendon",
+            "directory": "Donley-County"
+        },
+        "Duval County": {
+            "countySeat": "San Diego",
+            "directory": "Duval-County"
+        },
+        "Eastland County": {
+            "countySeat": "Eastland",
+            "directory": "Eastland-County"
+        },
+        "Ector County": {
+            "countySeat": "Odessa",
+            "directory": "Ector-County"
+        },
+        "Edwards County": {
+            "countySeat": "Rocksprings",
+            "directory": "Edwards-County"
+        },
+        "El Paso County": {
+            "countySeat": "El Paso",
+            "directory": "El-Paso-County"
+        },
+        "Ellis County": {
+            "countySeat": "Waxahachie",
+            "directory": "Ellis-County"
+        },
+        "Erath County": {
+            "countySeat": "Stephenville",
+            "directory": "Erath-County"
+        },
+        "Falls County": {
+            "countySeat": "Marlin",
+            "directory": "Falls-County"
+        },
+        "Fannin County": {
+            "countySeat": "Bonham",
+            "directory": "Fannin-County"
+        },
+        "Fayette County": {
+            "countySeat": "La Grange",
+            "directory": "Fayette-County"
+        },
+        "Fisher County": {
+            "countySeat": "Rotan",
+            "directory": "Fisher-County"
+        },
+        "Floyd County": {
+            "countySeat": "Floydada",
+            "directory": "Floyd-County"
+        },
+        "Foard County": {
+            "countySeat": "Crowell",
+            "directory": "Foard-County"
+        },
+        "Fort Bend County": {
+            "countySeat": "Richmond",
+            "directory": "Fort-Bend-County"
+        },
+        "Franklin County": {
+            "countySeat": "Mount Vernon",
+            "directory": "Franklin-County"
+        },
+        "Freestone County": {
+            "countySeat": "Fairfield",
+            "directory": "Freestone-County"
+        },
+        "Frio County": {
+            "countySeat": "Pearsall",
+            "directory": "Frio-County"
+        },
+        "Gaines County": {
+            "countySeat": "Seminole",
+            "directory": "Gaines-County"
+        },
+        "Galveston County": {
+            "countySeat": "Galveston",
+            "directory": "Galveston-County"
+        },
+        "Garza County": {
+            "countySeat": "Post",
+            "directory": "Garza-County"
+        },
+        "Gillespie County": {
+            "countySeat": "Fredericksburg",
+            "directory": "Gillespie-County"
+        },
+        "Glasscock County": {
+            "countySeat": "Garden City",
+            "directory": "Glasscock-County"
+        },
+        "Goliad County": {
+            "countySeat": "Goliad",
+            "directory": "Goliad-County"
+        },
+        "Gonzales County": {
+            "countySeat": "Gonzales",
+            "directory": "Gonzales-County"
+        },
+        "Gray County": {
+            "countySeat": "Pampa",
+            "directory": "Gray-County"
+        },
+        "Grayson County": {
+            "countySeat": "Sherman",
+            "directory": "Grayson-County"
+        },
+        "Gregg County": {
+            "countySeat": "Longview",
+            "directory": "Gregg-County"
+        },
+        "Grimes County": {
+            "countySeat": "Anderson",
+            "directory": "Grimes-County"
+        },
+        "Guadalupe County": {
+            "countySeat": "Seguin",
+            "directory": "Guadalupe-County"
+        },
+        "Hale County": {
+            "countySeat": "Plainview",
+            "directory": "Hale-County"
+        },
+        "Hall County": {
+            "countySeat": "Memphis",
+            "directory": "Hall-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Hamilton",
+            "directory": "Hamilton-County"
+        },
+        "Hansford County": {
+            "countySeat": "Spearman",
+            "directory": "Hansford-County"
+        },
+        "Hardeman County": {
+            "countySeat": "Quanah",
+            "directory": "Hardeman-County"
+        },
+        "Hardin County": {
+            "countySeat": "Kountze",
+            "directory": "Hardin-County"
+        },
+        "Harris County": {
+            "countySeat": "Houston",
+            "directory": "Harris-County"
+        },
+        "Harrison County": {
+            "countySeat": "Marshall",
+            "directory": "Harrison-County"
+        },
+        "Hartley County": {
+            "countySeat": "Channing",
+            "directory": "Hartley-County"
+        },
+        "Haskell County": {
+            "countySeat": "Haskell",
+            "directory": "Haskell-County"
+        },
+        "Hays County": {
+            "countySeat": "San Marcos",
+            "directory": "Hays-County"
+        },
+        "Hemphill County": {
+            "countySeat": "Canadian",
+            "directory": "Hemphill-County"
+        },
+        "Henderson County": {
+            "countySeat": "Athens",
+            "directory": "Henderson-County"
+        },
+        "Hidalgo County": {
+            "countySeat": "Edinburg",
+            "directory": "Hidalgo-County"
+        },
+        "Hill County": {
+            "countySeat": "Hillsboro",
+            "directory": "Hill-County"
+        },
+        "Hockley County": {
+            "countySeat": "Levelland",
+            "directory": "Hockley-County"
+        },
+        "Hood County": {
+            "countySeat": "Granbury",
+            "directory": "Hood-County"
+        },
+        "Hopkins County": {
+            "countySeat": "Sulphur Springs",
+            "directory": "Hopkins-County"
+        },
+        "Houston County": {
+            "countySeat": "Crockett",
+            "directory": "Houston-County"
+        },
+        "Howard County": {
+            "countySeat": "Big Spring",
+            "directory": "Howard-County"
+        },
+        "Hudspeth County": {
+            "countySeat": "Sierra Blanca",
+            "directory": "Hudspeth-County"
+        },
+        "Hunt County": {
+            "countySeat": "Greenville",
+            "directory": "Hunt-County"
+        },
+        "Hutchinson County": {
+            "countySeat": "Stinnett",
+            "directory": "Hutchinson-County"
+        },
+        "Irion County": {
+            "countySeat": "Mertzon",
+            "directory": "Irion-County"
+        },
+        "Jack County": {
+            "countySeat": "Jacksboro",
+            "directory": "Jack-County"
+        },
+        "Jackson County": {
+            "countySeat": "Edna",
+            "directory": "Jackson-County"
+        },
+        "Jasper County": {
+            "countySeat": "Jasper",
+            "directory": "Jasper-County"
+        },
+        "Jeff Davis County": {
+            "countySeat": "Fort Davis",
+            "directory": "Jeff-Davis-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Beaumont",
+            "directory": "Jefferson-County"
+        },
+        "Jim Hogg County": {
+            "countySeat": "Hebbronville",
+            "directory": "Jim-Hogg-County"
+        },
+        "Jim Wells County": {
+            "countySeat": "Alice",
+            "directory": "Jim-Wells-County"
+        },
+        "Johnson County": {
+            "countySeat": "Cleburne",
+            "directory": "Johnson-County"
+        },
+        "Jones County": {
+            "countySeat": "Anson",
+            "directory": "Jones-County"
+        },
+        "Karnes County": {
+            "countySeat": "Karnes City",
+            "directory": "Karnes-County"
+        },
+        "Kaufman County": {
+            "countySeat": "Kaufman",
+            "directory": "Kaufman-County"
+        },
+        "Kendall County": {
+            "countySeat": "Boerne",
+            "directory": "Kendall-County"
+        },
+        "Kenedy County": {
+            "countySeat": "Sarita",
+            "directory": "Kenedy-County"
+        },
+        "Kent County": {
+            "countySeat": "Jayton",
+            "directory": "Kent-County"
+        },
+        "Kerr County": {
+            "countySeat": "Kerrville",
+            "directory": "Kerr-County"
+        },
+        "Kimble County": {
+            "countySeat": "Junction",
+            "directory": "Kimble-County"
+        },
+        "King County": {
+            "countySeat": "Guthrie",
+            "directory": "King-County"
+        },
+        "Kinney County": {
+            "countySeat": "Brackettville",
+            "directory": "Kinney-County"
+        },
+        "Kleberg County": {
+            "countySeat": "Kingsville",
+            "directory": "Kleberg-County"
+        },
+        "Knox County": {
+            "countySeat": "Benjamin",
+            "directory": "Knox-County"
+        },
+        "La Salle County": {
+            "countySeat": "Cotulla",
+            "directory": "La-Salle-County"
+        },
+        "Lamar County": {
+            "countySeat": "Paris",
+            "directory": "Lamar-County"
+        },
+        "Lamb County": {
+            "countySeat": "Littlefield",
+            "directory": "Lamb-County"
+        },
+        "Lampasas County": {
+            "countySeat": "Lampasas",
+            "directory": "Lampasas-County"
+        },
+        "Lee County": {
+            "countySeat": "Giddings",
+            "directory": "Lee-County"
+        },
+        "Leon County": {
+            "countySeat": "Centerville",
+            "directory": "Leon-County"
+        },
+        "Liberty County": {
+            "countySeat": "Liberty",
+            "directory": "Liberty-County"
+        },
+        "Limestone County": {
+            "countySeat": "Groesbeck",
+            "directory": "Limestone-County"
+        },
+        "Lipscomb County": {
+            "countySeat": "Lipscomb",
+            "directory": "Lipscomb-County"
+        },
+        "Live Oak County": {
+            "countySeat": "George West",
+            "directory": "Live-Oak-County"
+        },
+        "Llano County": {
+            "countySeat": "Llano",
+            "directory": "Llano-County"
+        },
+        "Loving County": {
+            "countySeat": "Mentone",
+            "directory": "Loving-County"
+        },
+        "Lubbock County": {
+            "countySeat": "Lubbock",
+            "directory": "Lubbock-County"
+        },
+        "Lynn County": {
+            "countySeat": "Tahoka",
+            "directory": "Lynn-County"
+        },
+        "Martin County": {
+            "countySeat": "Stanton",
+            "directory": "Martin-County"
+        },
+        "Mason County": {
+            "countySeat": "Mason",
+            "directory": "Mason-County"
+        },
+        "Matagorda County": {
+            "countySeat": "Bay City",
+            "directory": "Matagorda-County"
+        },
+        "Maverick County": {
+            "countySeat": "Eagle Pass",
+            "directory": "Maverick-County"
+        },
+        "McCulloch County": {
+            "countySeat": "Brady",
+            "directory": "McCulloch-County"
+        },
+        "McLennan County": {
+            "countySeat": "Waco",
+            "directory": "McLennan-County"
+        },
+        "McMullen County": {
+            "countySeat": "Tilden",
+            "directory": "McMullen-County"
+        },
+        "Menard County": {
+            "countySeat": "Menard",
+            "directory": "Menard-County"
+        },
+        "Midland County": {
+            "countySeat": "Midland",
+            "directory": "Midland-County"
+        },
+        "Milam County": {
+            "countySeat": "Cameron",
+            "directory": "Milam-County"
+        },
+        "Mills County": {
+            "countySeat": "Goldthwaite",
+            "directory": "Mills-County"
+        },
+        "Mitchell County": {
+            "countySeat": "Colorado City",
+            "directory": "Mitchell-County"
+        },
+        "Montague County": {
+            "countySeat": "Montague",
+            "directory": "Montague-County"
+        },
+        "Montgomery County": {
+            "countySeat": "Conroe",
+            "directory": "Montgomery-County"
+        },
+        "Moore County": {
+            "countySeat": "Dumas",
+            "directory": "Moore-County"
+        },
+        "Morris County": {
+            "countySeat": "Daingerfield",
+            "directory": "Morris-County"
+        },
+        "Motley County": {
+            "countySeat": "Matador",
+            "directory": "Motley-County"
+        },
+        "Nacogdoches County": {
+            "countySeat": "Nacogdoches",
+            "directory": "Nacogdoches-County"
+        },
+        "Navarro County": {
+            "countySeat": "Corsicana",
+            "directory": "Navarro-County"
+        },
+        "Newton County": {
+            "countySeat": "Newton",
+            "directory": "Newton-County"
+        },
+        "Nolan County": {
+            "countySeat": "Sweetwater",
+            "directory": "Nolan-County"
+        },
+        "Nueces County": {
+            "countySeat": "Corpus Christi",
+            "directory": "Nueces-County"
+        },
+        "Ochiltree County": {
+            "countySeat": "Perryton",
+            "directory": "Ochiltree-County"
+        },
+        "Oldham County": {
+            "countySeat": "Vega",
+            "directory": "Oldham-County"
+        },
+        "Orange County": {
+            "countySeat": "Orange",
+            "directory": "Orange-County"
+        },
+        "Palo Pinto County": {
+            "countySeat": "Palo Pinto",
+            "directory": "Palo-Pinto-County"
+        },
+        "Panola County": {
+            "countySeat": "Carthage",
+            "directory": "Panola-County"
+        },
+        "Parker County": {
+            "countySeat": "Weatherford",
+            "directory": "Parker-County"
+        },
+        "Parmer County": {
+            "countySeat": "Farwell",
+            "directory": "Parmer-County"
+        },
+        "Pecos County": {
+            "countySeat": "Fort Stockton",
+            "directory": "Pecos-County"
+        },
+        "Polk County": {
+            "countySeat": "Livingston",
+            "directory": "Polk-County"
+        },
+        "Potter County": {
+            "countySeat": "Amarillo",
+            "directory": "Potter-County"
+        },
+        "Presidio County": {
+            "countySeat": "Marfa",
+            "directory": "Presidio-County"
+        },
+        "Rains County": {
+            "countySeat": "Emory",
+            "directory": "Rains-County"
+        },
+        "Randall County": {
+            "countySeat": "Canyon",
+            "directory": "Randall-County"
+        },
+        "Reagan County": {
+            "countySeat": "Big Lake",
+            "directory": "Reagan-County"
+        },
+        "Real County": {
+            "countySeat": "Leakey",
+            "directory": "Real-County"
+        },
+        "Red River County": {
+            "countySeat": "Clarksville",
+            "directory": "Red-River-County"
+        },
+        "Reeves County": {
+            "countySeat": "Pecos",
+            "directory": "Reeves-County"
+        },
+        "Refugio County": {
+            "countySeat": "Refugio",
+            "directory": "Refugio-County"
+        },
+        "Roberts County": {
+            "countySeat": "Miami",
+            "directory": "Roberts-County"
+        },
+        "Robertson County": {
+            "countySeat": "Franklin",
+            "directory": "Robertson-County"
+        },
+        "Rockwall County": {
+            "countySeat": "Rockwall",
+            "directory": "Rockwall-County"
+        },
+        "Runnels County": {
+            "countySeat": "Ballinger",
+            "directory": "Runnels-County"
+        },
+        "Rusk County": {
+            "countySeat": "Henderson",
+            "directory": "Rusk-County"
+        },
+        "Sabine County": {
+            "countySeat": "Hemphill",
+            "directory": "Sabine-County"
+        },
+        "San Augustine County": {
+            "countySeat": "San Augustine",
+            "directory": "San-Augustine-County"
+        },
+        "San Jacinto County": {
+            "countySeat": "Coldspring",
+            "directory": "San-Jacinto-County"
+        },
+        "San Patricio County": {
+            "countySeat": "Sinton",
+            "directory": "San-Patricio-County"
+        },
+        "San Saba County": {
+            "countySeat": "San Saba",
+            "directory": "San-Saba-County"
+        },
+        "Schleicher County": {
+            "countySeat": "Eldorado",
+            "directory": "Schleicher-County"
+        },
+        "Scurry County": {
+            "countySeat": "Snyder",
+            "directory": "Scurry-County"
+        },
+        "Shackelford County": {
+            "countySeat": "Albany",
+            "directory": "Shackelford-County"
+        },
+        "Shelby County": {
+            "countySeat": "Center",
+            "directory": "Shelby-County"
+        },
+        "Sherman County": {
+            "countySeat": "Stratford",
+            "directory": "Sherman-County"
+        },
+        "Smith County": {
+            "countySeat": "Tyler",
+            "directory": "Smith-County"
+        },
+        "Somervell County": {
+            "countySeat": "Glen Rose",
+            "directory": "Somervell-County"
+        },
+        "Starr County": {
+            "countySeat": "Rio Grande City",
+            "directory": "Starr-County"
+        },
+        "Stephens County": {
+            "countySeat": "Breckenridge",
+            "directory": "Stephens-County"
+        },
+        "Sterling County": {
+            "countySeat": "Sterling City",
+            "directory": "Sterling-County"
+        },
+        "Stonewall County": {
+            "countySeat": "Aspermont",
+            "directory": "Stonewall-County"
+        },
+        "Sutton County": {
+            "countySeat": "Sonora",
+            "directory": "Sutton-County"
+        },
+        "Swisher County": {
+            "countySeat": "Tulia",
+            "directory": "Swisher-County"
+        },
+        "Tarrant County": {
+            "countySeat": "Fort Worth",
+            "directory": "Tarrant-County"
+        },
+        "Taylor County": {
+            "countySeat": "Abilene",
+            "directory": "Taylor-County"
+        },
+        "Terrell County": {
+            "countySeat": "Sanderson",
+            "directory": "Terrell-County"
+        },
+        "Terry County": {
+            "countySeat": "Brownfield",
+            "directory": "Terry-County"
+        },
+        "Throckmorton County": {
+            "countySeat": "Throckmorton",
+            "directory": "Throckmorton-County"
+        },
+        "Titus County": {
+            "countySeat": "Mount Pleasant",
+            "directory": "Titus-County"
+        },
+        "Tom Green County": {
+            "countySeat": "San Angelo",
+            "directory": "Tom-Green-County"
+        },
+        "Travis County": {
+            "countySeat": "Austin",
+            "directory": "Travis-County"
+        },
+        "Trinity County": {
+            "countySeat": "Groveton",
+            "directory": "Trinity-County"
+        },
+        "Tyler County": {
+            "countySeat": "Woodville",
+            "directory": "Tyler-County"
+        },
+        "Upshur County": {
+            "countySeat": "Gilmer",
+            "directory": "Upshur-County"
+        },
+        "Upton County": {
+            "countySeat": "Rankin",
+            "directory": "Upton-County"
+        },
+        "Val Verde County": {
+            "countySeat": "Del Rio",
+            "directory": "Val-Verde-County"
+        },
+        "Van Zandt County": {
+            "countySeat": "Canton",
+            "directory": "Van-Zandt-County"
+        },
+        "Victoria County": {
+            "countySeat": "Victoria",
+            "directory": "Victoria-County"
+        },
+        "Walker County": {
+            "countySeat": "Huntsville",
+            "directory": "Walker-County"
+        },
+        "Waller County": {
+            "countySeat": "Hempstead",
+            "directory": "Waller-County"
+        },
+        "Ward County": {
+            "countySeat": "Monahans",
+            "directory": "Ward-County"
+        },
+        "Washington County": {
+            "countySeat": "Brenham",
+            "directory": "Washington-County"
+        },
+        "Webb County": {
+            "countySeat": "Laredo",
+            "directory": "Webb-County"
+        },
+        "Wharton County": {
+            "countySeat": "Wharton",
+            "directory": "Wharton-County"
+        },
+        "Wheeler County": {
+            "countySeat": "Wheeler",
+            "directory": "Wheeler-County"
+        },
+        "Wichita County": {
+            "countySeat": "Wichita Falls",
+            "directory": "Wichita-County"
+        },
+        "Wilbarger County": {
+            "countySeat": "Vernon",
+            "directory": "Wilbarger-County"
+        },
+        "Willacy County": {
+            "countySeat": "Raymond",
+            "directory": "Willacy-County"
+        },
+        "Williamson County": {
+            "countySeat": "Georgetown",
+            "directory": "Williamson-County"
+        },
+        "Wilson County": {
+            "countySeat": "Floresville",
+            "directory": "Wilson-County"
+        },
+        "Winkler County": {
+            "countySeat": "Kermit",
+            "directory": "Winkler-County"
+        },
+        "Wise County": {
+            "countySeat": "Decatur",
+            "directory": "Wise-County"
+        },
+        "Wood County": {
+            "countySeat": "Quitman",
+            "directory": "Wood-County"
+        },
+        "Yoakum County": {
+            "countySeat": "Plains",
+            "directory": "Yoakum-County"
+        },
+        "Young County": {
+            "countySeat": "Graham",
+            "directory": "Young-County"
+        },
+        "Zapata County": {
+            "countySeat": "Zapata",
+            "directory": "Zapata-County"
+        },
+        "Zavala County": {
+            "countySeat": "Crystal City",
+            "directory": "Zavala-County"
+        }
+    }
+}

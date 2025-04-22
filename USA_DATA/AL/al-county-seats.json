@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 67
+  },
+  "counties": {
+    "Autauga County": {
+      "countySeat": "Prattville",
+      "directory": "Autauga-County"
+    },
+    "Baldwin County": {
+      "countySeat": "Bay Minette",
+      "directory": "Baldwin-County"
+    },
+    "Barbour County": {
+      "countySeat": "Clayton",
+      "directory": "Barbour-County"
+    },
+    "Bibb County": {
+      "countySeat": "Centreville",
+      "directory": "Bibb-County"
+    },
+    "Blount County": {
+      "countySeat": "Oneonta",
+      "directory": "Blount-County"
+    },
+    "Bullock County": {
+      "countySeat": "Union Springs",
+      "directory": "Bullock-County"
+    },
+    "Butler County": {
+      "countySeat": "Greenville",
+      "directory": "Butler-County"
+    },
+    "Calhoun County": {
+      "countySeat": "Anniston",
+      "directory": "Calhoun-County"
+    },
+    "Chambers County": {
+      "countySeat": "LaFayette",
+      "directory": "Chambers-County"
+    },
+    "Cherokee County": {
+      "countySeat": "Centre",
+      "directory": "Cherokee-County"
+    },
+    "Chilton County": {
+      "countySeat": "Clanton",
+      "directory": "Chilton-County"
+    },
+    "Choctaw County": {
+      "countySeat": "Butler",
+      "directory": "Choctaw-County"
+    },
+    "Clarke County": {
+      "countySeat": "Grove Hill",
+      "directory": "Clarke-County"
+    },
+    "Clay County": {
+      "countySeat": "Ashland",
+      "directory": "Clay-County"
+    },
+    "Cleburne County": {
+      "countySeat": "Heflin",
+      "directory": "Cleburne-County"
+    },
+    "Coffee County": {
+      "countySeat": "Elba",
+      "directory": "Coffee-County"
+    },
+    "Colbert County": {
+      "countySeat": "Tuscumbia",
+      "directory": "Colbert-County"
+    },
+    "Conecuh County": {
+      "countySeat": "Evergreen",
+      "directory": "Conecuh-County"
+    },
+    "Coosa County": {
+      "countySeat": "Rockford",
+      "directory": "Coosa-County"
+    },
+    "Covington County": {
+      "countySeat": "Andalusia",
+      "directory": "Covington-County"
+    },
+    "Crenshaw County": {
+      "countySeat": "Luverne",
+      "directory": "Crenshaw-County"
+    },
+    "Cullman County": {
+      "countySeat": "Cullman",
+      "directory": "Cullman-County"
+    },
+    "Dale County": {
+      "countySeat": "Ozark",
+      "directory": "Dale-County"
+    },
+    "Dallas County": {
+      "countySeat": "Selma",
+      "directory": "Dallas-County"
+    },
+    "DeKalb County": {
+      "countySeat": "Fort Payne",
+      "directory": "DeKalb-County"
+    },
+    "Elmore County": {
+      "countySeat": "Wetumpka",
+      "directory": "Elmore-County"
+    },
+    "Escambia County": {
+      "countySeat": "Brewton",
+      "directory": "Escambia-County"
+    },
+    "Etowah County": {
+      "countySeat": "Gadsden",
+      "directory": "Etowah-County"
+    },
+    "Fayette County": {
+      "countySeat": "Fayette",
+      "directory": "Fayette-County"
+    },
+    "Franklin County": {
+      "countySeat": "Russellville",
+      "directory": "Franklin-County"
+    },
+    "Geneva County": {
+      "countySeat": "Geneva",
+      "directory": "Geneva-County"
+    },
+    "Greene County": {
+      "countySeat": "Eutaw",
+      "directory": "Greene-County"
+    },
+    "Hale County": {
+      "countySeat": "Greensboro",
+      "directory": "Hale-County"
+    },
+    "Henry County": {
+      "countySeat": "Abbeville",
+      "directory": "Henry-County"
+    },
+    "Houston County": {
+      "countySeat": "Dothan",
+      "directory": "Houston-County"
+    },
+    "Jackson County": {
+      "countySeat": "Scottsboro",
+      "directory": "Jackson-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Birmingham",
+      "directory": "Jefferson-County"
+    },
+    "Lamar County": {
+      "countySeat": "Vernon",
+      "directory": "Lamar-County"
+    },
+    "Lauderdale County": {
+      "countySeat": "Florence",
+      "directory": "Lauderdale-County"
+    },
+    "Lawrence County": {
+      "countySeat": "Moulton",
+      "directory": "Lawrence-County"
+    },
+    "Lee County": {
+      "countySeat": "Opelika",
+      "directory": "Lee-County"
+    },
+    "Limestone County": {
+      "countySeat": "Athens",
+      "directory": "Limestone-County"
+    },
+    "Lowndes County": {
+      "countySeat": "Hayneville",
+      "directory": "Lowndes-County"
+    },
+    "Macon County": {
+      "countySeat": "Tuskegee",
+      "directory": "Macon-County"
+    },
+    "Madison County": {
+      "countySeat": "Huntsville",
+      "directory": "Madison-County"
+    },
+    "Marengo County": {
+      "countySeat": "Linden",
+      "directory": "Marengo-County"
+    },
+    "Marion County": {
+      "countySeat": "Hamilton",
+      "directory": "Marion-County"
+    },
+    "Marshall County": {
+      "countySeat": "Guntersville",
+      "directory": "Marshall-County"
+    },
+    "Mobile County": {
+      "countySeat": "Mobile",
+      "directory": "Mobile-County"
+    },
+    "Monroe County": {
+      "countySeat": "Monroeville",
+      "directory": "Monroe-County"
+    },
+    "Montgomery County": {
+      "countySeat": "Montgomery",
+      "directory": "Montgomery-County"
+    },
+    "Morgan County": {
+      "countySeat": "Decatur",
+      "directory": "Morgan-County"
+    },
+    "Perry County": {
+      "countySeat": "Marion",
+      "directory": "Perry-County"
+    },
+    "Pickens County": {
+      "countySeat": "Carrollton",
+      "directory": "Pickens-County"
+    },
+    "Pike County": {
+      "countySeat": "Troy",
+      "directory": "Pike-County"
+    },
+    "Randolph County": {
+      "countySeat": "Wedowee",
+      "directory": "Randolph-County"
+    },
+    "Russell County": {
+      "countySeat": "Phenix City",
+      "directory": "Russell-County"
+    },
+    "St. Clair County": {
+      "countySeat": "Pell City",
+      "directory": "St.-Clair-County"
+    },
+    "Shelby County": {
+      "countySeat": "Columbiana",
+      "directory": "Shelby-County"
+    },
+    "Sumter County": {
+      "countySeat": "Livingston",
+      "directory": "Sumter-County"
+    },
+    "Talladega County": {
+      "countySeat": "Talladega",
+      "directory": "Talladega-County"
+    },
+    "Tallapoosa County": {
+      "countySeat": "Dadeville",
+      "directory": "Tallapoosa-County"
+    },
+    "Tuscaloosa County": {
+      "countySeat": "Tuscaloosa",
+      "directory": "Tuscaloosa-County"
+    },
+    "Walker County": {
+      "countySeat": "Jasper",
+      "directory": "Walker-County"
+    },
+    "Washington County": {
+      "countySeat": "Chatom",
+      "directory": "Washington-County"
+    },
+    "Wilcox County": {
+      "countySeat": "Camden",
+      "directory": "Wilcox-County"
+    },
+    "Winston County": {
+      "countySeat": "Double Springs",
+      "directory": "Winston-County"
+    }
+  }
+}

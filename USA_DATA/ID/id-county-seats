@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "lastUpdated": "2025-03-26",
+    "totalCounties": 44
+  },
+  "counties": {
+    "Ada County": {
+      "countySeat": "Boise",
+      "directory": "Ada-County"
+    },
+    "Adams County": {
+      "countySeat": "Council",
+      "directory": "Adams-County"
+    },
+    "Bannock County": {
+      "countySeat": "Pocatello",
+      "directory": "Bannock-County"
+    },
+    "Bear Lake County": {
+      "countySeat": "Paris",
+      "directory": "Bear-Lake-County"
+    },
+    "Benewah County": {
+      "countySeat": "St. Maries",
+      "directory": "Benewah-County"
+    },
+    "Bingham County": {
+      "countySeat": "Blackfoot",
+      "directory": "Bingham-County"
+    },
+    "Blaine County": {
+      "countySeat": "Hailey",
+      "directory": "Blaine-County"
+    },
+    "Boise County": {
+      "countySeat": "Idaho City",
+      "directory": "Boise-County"
+    },
+    "Bonner County": {
+      "countySeat": "Sandpoint",
+      "directory": "Bonner-County"
+    },
+    "Bonneville County": {
+      "countySeat": "Idaho Falls",
+      "directory": "Bonneville-County"
+    },
+    "Boundary County": {
+      "countySeat": "Bonners Ferry",
+      "directory": "Boundary-County"
+    },
+    "Butte County": {
+      "countySeat": "Arco",
+      "directory": "Butte-County"
+    },
+    "Camas County": {
+      "countySeat": "Fairfield",
+      "directory": "Camas-County"
+    },
+    "Canyon County": {
+      "countySeat": "Caldwell",
+      "directory": "Canyon-County"
+    },
+    "Caribou County": {
+      "countySeat": "Soda Springs",
+      "directory": "Caribou-County"
+    },
+    "Cassia County": {
+      "countySeat": "Burley",
+      "directory": "Cassia-County"
+    },
+    "Clark County": {
+      "countySeat": "Dubois",
+      "directory": "Clark-County"
+    },
+    "Clearwater County": {
+      "countySeat": "Orofino",
+      "directory": "Clearwater-County"
+    },
+    "Custer County": {
+      "countySeat": "Challis",
+      "directory": "Custer-County"
+    },
+    "Elmore County": {
+      "countySeat": "Mountain Home",
+      "directory": "Elmore-County"
+    },
+    "Franklin County": {
+      "countySeat": "Preston",
+      "directory": "Franklin-County"
+    },
+    "Fremont County": {
+      "countySeat": "St. Anthony",
+      "directory": "Fremont-County"
+    },
+    "Gem County": {
+      "countySeat": "Emmett",
+      "directory": "Gem-County"
+    },
+    "Gooding County": {
+      "countySeat": "Gooding",
+      "directory": "Gooding-County"
+    },
+    "Idaho County": {
+      "countySeat": "Grangeville",
+      "directory": "Idaho-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Rigby",
+      "directory": "Jefferson-County"
+    },
+    "Jerome County": {
+      "countySeat": "Jerome",
+      "directory": "Jerome-County"
+    },
+    "Kootenai County": {
+      "countySeat": "Coeur d'Alene",
+      "directory": "Kootenai-County"
+    },
+    "Latah County": {
+      "countySeat": "Moscow",
+      "directory": "Latah-County"
+    },
+    "Lemhi County": {
+      "countySeat": "Salmon",
+      "directory": "Lemhi-County"
+    },
+    "Lewis County": {
+      "countySeat": "Nezperce",
+      "directory": "Lewis-County"
+    },
+    "Lincoln County": {
+      "countySeat": "Shoshone",
+      "directory": "Lincoln-County"
+    },
+    "Madison County": {
+      "countySeat": "Rexburg",
+      "directory": "Madison-County"
+    },
+    "Minidoka County": {
+      "countySeat": "Rupert",
+      "directory": "Minidoka-County"
+    },
+    "Nez Perce County": {
+      "countySeat": "Lewiston",
+      "directory": "Nez-Perce-County"
+    },
+    "Oneida County": {
+      "countySeat": "Malad City",
+      "directory": "Oneida-County"
+    },
+    "Owyhee County": {
+      "countySeat": "Murphy",
+      "directory": "Owyhee-County"
+    },
+    "Payette County": {
+      "countySeat": "Payette",
+      "directory": "Payette-County"
+    },
+    "Power County": {
+      "countySeat": "American Falls",
+      "directory": "Power-County"
+    },
+    "Shoshone County": {
+      "countySeat": "Wallace",
+      "directory": "Shoshone-County"
+    },
+    "Teton County": {
+      "countySeat": "Driggs",
+      "directory": "Teton-County"
+    },
+    "Twin Falls County": {
+      "countySeat": "Twin Falls",
+      "directory": "Twin-Falls-County"
+    },
+    "Valley County": {
+      "countySeat": "Cascade",
+      "directory": "Valley-County"
+    },
+    "Washington County": {
+      "countySeat": "Weiser",
+      "directory": "Washington-County"
+    }
+  }
+}

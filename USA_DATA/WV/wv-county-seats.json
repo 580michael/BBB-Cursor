@@ -1,0 +1,230 @@
+{
+    "metadata": {
+        "state": "West Virginia",
+        "stateAbbr": "WV",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 55
+    },
+    "counties": {
+        "Barbour County": {
+            "countySeat": "Philippi",
+            "directory": "Barbour-County"
+        },
+        "Berkeley County": {
+            "countySeat": "Martinsburg",
+            "directory": "Berkeley-County"
+        },
+        "Boone County": {
+            "countySeat": "Madison",
+            "directory": "Boone-County"
+        },
+        "Braxton County": {
+            "countySeat": "Sutton",
+            "directory": "Braxton-County"
+        },
+        "Brooke County": {
+            "countySeat": "Wellsburg",
+            "directory": "Brooke-County"
+        },
+        "Cabell County": {
+            "countySeat": "Huntington",
+            "directory": "Cabell-County"
+        },
+        "Calhoun County": {
+            "countySeat": "Grantsville",
+            "directory": "Calhoun-County"
+        },
+        "Clay County": {
+            "countySeat": "Clay",
+            "directory": "Clay-County"
+        },
+        "Doddridge County": {
+            "countySeat": "West Union",
+            "directory": "Doddridge-County"
+        },
+        "Fayette County": {
+            "countySeat": "Fayetteville",
+            "directory": "Fayette-County"
+        },
+        "Gilmer County": {
+            "countySeat": "Glenville",
+            "directory": "Gilmer-County"
+        },
+        "Grant County": {
+            "countySeat": "Petersburg",
+            "directory": "Grant-County"
+        },
+        "Greenbrier County": {
+            "countySeat": "Lewisburg",
+            "directory": "Greenbrier-County"
+        },
+        "Hampshire County": {
+            "countySeat": "Romney",
+            "directory": "Hampshire-County"
+        },
+        "Hancock County": {
+            "countySeat": "New Cumberland",
+            "directory": "Hancock-County"
+        },
+        "Hardy County": {
+            "countySeat": "Moorefield",
+            "directory": "Hardy-County"
+        },
+        "Harrison County": {
+            "countySeat": "Clarksburg",
+            "directory": "Harrison-County"
+        },
+        "Jackson County": {
+            "countySeat": "Ripley",
+            "directory": "Jackson-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Charles Town",
+            "directory": "Jefferson-County"
+        },
+        "Kanawha County": {
+            "countySeat": "Charleston",
+            "directory": "Kanawha-County"
+        },
+        "Lewis County": {
+            "countySeat": "Weston",
+            "directory": "Lewis-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Hamlin",
+            "directory": "Lincoln-County"
+        },
+        "Logan County": {
+            "countySeat": "Logan",
+            "directory": "Logan-County"
+        },
+        "Marion County": {
+            "countySeat": "Fairmont",
+            "directory": "Marion-County"
+        },
+        "Marshall County": {
+            "countySeat": "Moundsville",
+            "directory": "Marshall-County"
+        },
+        "Mason County": {
+            "countySeat": "Point Pleasant",
+            "directory": "Mason-County"
+        },
+        "McDowell County": {
+            "countySeat": "Welch",
+            "directory": "McDowell-County"
+        },
+        "Mercer County": {
+            "countySeat": "Princeton",
+            "directory": "Mercer-County"
+        },
+        "Mineral County": {
+            "countySeat": "Keyser",
+            "directory": "Mineral-County"
+        },
+        "Mingo County": {
+            "countySeat": "Williamson",
+            "directory": "Mingo-County"
+        },
+        "Monongalia County": {
+            "countySeat": "Morgantown",
+            "directory": "Monongalia-County"
+        },
+        "Monroe County": {
+            "countySeat": "Union",
+            "directory": "Monroe-County"
+        },
+        "Morgan County": {
+            "countySeat": "Berkeley Springs",
+            "directory": "Morgan-County"
+        },
+        "Nicholas County": {
+            "countySeat": "Summersville",
+            "directory": "Nicholas-County"
+        },
+        "Ohio County": {
+            "countySeat": "Wheeling",
+            "directory": "Ohio-County"
+        },
+        "Pendleton County": {
+            "countySeat": "Franklin",
+            "directory": "Pendleton-County"
+        },
+        "Pleasants County": {
+            "countySeat": "St. Marys",
+            "directory": "Pleasants-County"
+        },
+        "Pocahontas County": {
+            "countySeat": "Marlinton",
+            "directory": "Pocahontas-County"
+        },
+        "Preston County": {
+            "countySeat": "Kingwood",
+            "directory": "Preston-County"
+        },
+        "Putnam County": {
+            "countySeat": "Winfield",
+            "directory": "Putnam-County"
+        },
+        "Raleigh County": {
+            "countySeat": "Beckley",
+            "directory": "Raleigh-County"
+        },
+        "Randolph County": {
+            "countySeat": "Elkins",
+            "directory": "Randolph-County"
+        },
+        "Ritchie County": {
+            "countySeat": "Harrisville",
+            "directory": "Ritchie-County"
+        },
+        "Roane County": {
+            "countySeat": "Spencer",
+            "directory": "Roane-County"
+        },
+        "Summers County": {
+            "countySeat": "Hinton",
+            "directory": "Summers-County"
+        },
+        "Taylor County": {
+            "countySeat": "Grafton",
+            "directory": "Taylor-County"
+        },
+        "Tucker County": {
+            "countySeat": "Parsons",
+            "directory": "Tucker-County"
+        },
+        "Tyler County": {
+            "countySeat": "Middlebourne",
+            "directory": "Tyler-County"
+        },
+        "Upshur County": {
+            "countySeat": "Buckhannon",
+            "directory": "Upshur-County"
+        },
+        "Wayne County": {
+            "countySeat": "Wayne",
+            "directory": "Wayne-County"
+        },
+        "Webster County": {
+            "countySeat": "Webster Springs",
+            "directory": "Webster-County"
+        },
+        "Wetzel County": {
+            "countySeat": "New Martinsville",
+            "directory": "Wetzel-County"
+        },
+        "Wirt County": {
+            "countySeat": "Elizabeth",
+            "directory": "Wirt-County"
+        },
+        "Wood County": {
+            "countySeat": "Parkersburg",
+            "directory": "Wood-County"
+        },
+        "Wyoming County": {
+            "countySeat": "Wyoming",
+            "directory": "Wyoming-County"
+        }
+    }
+}

@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "lastUpdated": "2025-03-26",
+    "totalCounties": 102
+  },
+  "counties": {
+    "Adams County": {
+      "countySeat": "Quincy",
+      "directory": "Adams-County"
+    },
+    "Alexander County": {
+      "countySeat": "Cairo",
+      "directory": "Alexander-County"
+    },
+    "Bond County": {
+      "countySeat": "Greenville",
+      "directory": "Bond-County"
+    },
+    "Boone County": {
+      "countySeat": "Belvidere",
+      "directory": "Boone-County"
+    },
+    "Brown County": {
+      "countySeat": "Mount Sterling",
+      "directory": "Brown-County"
+    },
+    "Bureau County": {
+      "countySeat": "Princeton",
+      "directory": "Bureau-County"
+    },
+    "Calhoun County": {
+      "countySeat": "Hardin",
+      "directory": "Calhoun-County"
+    },
+    "Carroll County": {
+      "countySeat": "Mount Carroll",
+      "directory": "Carroll-County"
+    },
+    "Cass County": {
+      "countySeat": "Virginia",
+      "directory": "Cass-County"
+    },
+    "Champaign County": {
+      "countySeat": "Urbana",
+      "directory": "Champaign-County"
+    },
+    "Christian County": {
+      "countySeat": "Taylorville",
+      "directory": "Christian-County"
+    },
+    "Clark County": {
+      "countySeat": "Marshall",
+      "directory": "Clark-County"
+    },
+    "Clay County": {
+      "countySeat": "Louisville",
+      "directory": "Clay-County"
+    },
+    "Clinton County": {
+      "countySeat": "Carlyle",
+      "directory": "Clinton-County"
+    },
+    "Coles County": {
+      "countySeat": "Charleston",
+      "directory": "Coles-County"
+    },
+    "Cook County": {
+      "countySeat": "Chicago",
+      "directory": "Cook-County"
+    },
+    "Crawford County": {
+      "countySeat": "Robinson",
+      "directory": "Crawford-County"
+    },
+    "Cumberland County": {
+      "countySeat": "Toledo",
+      "directory": "Cumberland-County"
+    },
+    "DeKalb County": {
+      "countySeat": "Sycamore",
+      "directory": "DeKalb-County"
+    },
+    "De Witt County": {
+      "countySeat": "Clinton",
+      "directory": "De-Witt-County"
+    },
+    "Douglas County": {
+      "countySeat": "Tuscola",
+      "directory": "Douglas-County"
+    },
+    "DuPage County": {
+      "countySeat": "Wheaton",
+      "directory": "DuPage-County"
+    },
+    "Edgar County": {
+      "countySeat": "Paris",
+      "directory": "Edgar-County"
+    },
+    "Edwards County": {
+      "countySeat": "Albion",
+      "directory": "Edwards-County"
+    },
+    "Effingham County": {
+      "countySeat": "Effingham",
+      "directory": "Effingham-County"
+    },
+    "Fayette County": {
+      "countySeat": "Vandalia",
+      "directory": "Fayette-County"
+    },
+    "Ford County": {
+      "countySeat": "Paxton",
+      "directory": "Ford-County"
+    },
+    "Franklin County": {
+      "countySeat": "Benton",
+      "directory": "Franklin-County"
+    },
+    "Fulton County": {
+      "countySeat": "Lewistown",
+      "directory": "Fulton-County"
+    },
+    "Gallatin County": {
+      "countySeat": "Shawneetown",
+      "directory": "Gallatin-County"
+    },
+    "Greene County": {
+      "countySeat": "Carrollton",
+      "directory": "Greene-County"
+    },
+    "Grundy County": {
+      "countySeat": "Morris",
+      "directory": "Grundy-County"
+    },
+    "Hamilton County": {
+      "countySeat": "McLeansboro",
+      "directory": "Hamilton-County"
+    },
+    "Hancock County": {
+      "countySeat": "Carthage",
+      "directory": "Hancock-County"
+    },
+    "Hardin County": {
+      "countySeat": "Elizabethtown",
+      "directory": "Hardin-County"
+    },
+    "Henderson County": {
+      "countySeat": "Oquawka",
+      "directory": "Henderson-County"
+    },
+    "Henry County": {
+      "countySeat": "Cambridge",
+      "directory": "Henry-County"
+    },
+    "Iroquois County": {
+      "countySeat": "Watseka",
+      "directory": "Iroquois-County"
+    },
+    "Jackson County": {
+      "countySeat": "Murphysboro",
+      "directory": "Jackson-County"
+    },
+    "Jasper County": {
+      "countySeat": "Newton",
+      "directory": "Jasper-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Mount Vernon",
+      "directory": "Jefferson-County"
+    },
+    "Jersey County": {
+      "countySeat": "Jerseyville",
+      "directory": "Jersey-County"
+    },
+    "Jo Daviess County": {
+      "countySeat": "Galena",
+      "directory": "Jo-Daviess-County"
+    },
+    "Johnson County": {
+      "countySeat": "Vienna",
+      "directory": "Johnson-County"
+    },
+    "Kane County": {
+      "countySeat": "Geneva",
+      "directory": "Kane-County"
+    },
+    "Kankakee County": {
+      "countySeat": "Kankakee",
+      "directory": "Kankakee-County"
+    },
+    "Kendall County": {
+      "countySeat": "Yorkville",
+      "directory": "Kendall-County"
+    },
+    "Knox County": {
+      "countySeat": "Galesburg",
+      "directory": "Knox-County"
+    },
+    "Lake County": {
+      "countySeat": "Waukegan",
+      "directory": "Lake-County"
+    },
+    "La Salle County": {
+      "countySeat": "Ottawa",
+      "directory": "La-Salle-County"
+    },
+    "Lawrence County": {
+      "countySeat": "Lawrenceville",
+      "directory": "Lawrence-County"
+    },
+    "Lee County": {
+      "countySeat": "Dixon",
+      "directory": "Lee-County"
+    },
+    "Livingston County": {
+      "countySeat": "Pontiac",
+      "directory": "Livingston-County"
+    },
+    "Logan County": {
+      "countySeat": "Lincoln",
+      "directory": "Logan-County"
+    },
+    "Macon County": {
+      "countySeat": "Decatur",
+      "directory": "Macon-County"
+    },
+    "Macoupin County": {
+      "countySeat": "Carlinville",
+      "directory": "Macoupin-County"
+    },
+    "Madison County": {
+      "countySeat": "Edwardsville",
+      "directory": "Madison-County"
+    },
+    "Marion County": {
+      "countySeat": "Salem",
+      "directory": "Marion-County"
+    },
+    "Marshall County": {
+      "countySeat": "Lacon",
+      "directory": "Marshall-County"
+    },
+    "Mason County": {
+      "countySeat": "Havana",
+      "directory": "Mason-County"
+    },
+    "Massac County": {
+      "countySeat": "Metropolis",
+      "directory": "Massac-County"
+    },
+    "McDonough County": {
+      "countySeat": "Macomb",
+      "directory": "McDonough-County"
+    },
+    "McHenry County": {
+      "countySeat": "Woodstock",
+      "directory": "McHenry-County"
+    },
+    "McLean County": {
+      "countySeat": "Bloomington",
+      "directory": "McLean-County"
+    },
+    "Menard County": {
+      "countySeat": "Petersburg",
+      "directory": "Menard-County"
+    },
+    "Mercer County": {
+      "countySeat": "Aledo",
+      "directory": "Mercer-County"
+    },
+    "Monroe County": {
+      "countySeat": "Waterloo",
+      "directory": "Monroe-County"
+    },
+    "Montgomery County": {
+      "countySeat": "Hillsboro",
+      "directory": "Montgomery-County"
+    },
+    "Morgan County": {
+      "countySeat": "Jacksonville",
+      "directory": "Morgan-County"
+    },
+    "Moultrie County": {
+      "countySeat": "Sullivan",
+      "directory": "Moultrie-County"
+    },
+    "Ogle County": {
+      "countySeat": "Oregon",
+      "directory": "Ogle-County"
+    },
+    "Peoria County": {
+      "countySeat": "Peoria",
+      "directory": "Peoria-County"
+    },
+    "Perry County": {
+      "countySeat": "Pinckneyville",
+      "directory": "Perry-County"
+    },
+    "Piatt County": {
+      "countySeat": "Monticello",
+      "directory": "Piatt-County"
+    },
+    "Pike County": {
+      "countySeat": "Pittsfield",
+      "directory": "Pike-County"
+    },
+    "Pope County": {
+      "countySeat": "Golconda",
+      "directory": "Pope-County"
+    },
+    "Pulaski County": {
+      "countySeat": "Mound City",
+      "directory": "Pulaski-County"
+    },
+    "Putnam County": {
+      "countySeat": "Hennepin",
+      "directory": "Putnam-County"
+    },
+    "Randolph County": {
+      "countySeat": "Chester",
+      "directory": "Randolph-County"
+    },
+    "Richland County": {
+      "countySeat": "Olney",
+      "directory": "Richland-County"
+    },
+    "Rock Island County": {
+      "countySeat": "Rock Island",
+      "directory": "Rock-Island-County"
+    },
+    "St. Clair County": {
+      "countySeat": "Belleville",
+      "directory": "St-Clair-County"
+    },
+    "Saline County": {
+      "countySeat": "Harrisburg",
+      "directory": "Saline-County"
+    },
+    "Sangamon County": {
+      "countySeat": "Springfield",
+      "directory": "Sangamon-County"
+    },
+    "Schuyler County": {
+      "countySeat": "Rushville",
+      "directory": "Schuyler-County"
+    },
+    "Scott County": {
+      "countySeat": "Winchester",
+      "directory": "Scott-County"
+    },
+    "Shelby County": {
+      "countySeat": "Shelbyville",
+      "directory": "Shelby-County"
+    },
+    "Stark County": {
+      "countySeat": "Toulon",
+      "directory": "Stark-County"
+    },
+    "Stephenson County": {
+      "countySeat": "Freeport",
+      "directory": "Stephenson-County"
+    },
+    "Tazewell County": {
+      "countySeat": "Pekin",
+      "directory": "Tazewell-County"
+    },
+    "Union County": {
+      "countySeat": "Jonesboro",
+      "directory": "Union-County"
+    },
+    "Vermilion County": {
+      "countySeat": "Danville",
+      "directory": "Vermilion-County"
+    },
+    "Wabash County": {
+      "countySeat": "Mount Carmel",
+      "directory": "Wabash-County"
+    },
+    "Warren County": {
+      "countySeat": "Monmouth",
+      "directory": "Warren-County"
+    },
+    "Washington County": {
+      "countySeat": "Nashville",
+      "directory": "Washington-County"
+    },
+    "Wayne County": {
+      "countySeat": "Fairfield",
+      "directory": "Wayne-County"
+    },
+    "White County": {
+      "countySeat": "Carmi",
+      "directory": "White-County"
+    },
+    "Whiteside County": {
+      "countySeat": "Morrison",
+      "directory": "Whiteside-County"
+    },
+    "Will County": {
+      "countySeat": "Joliet",
+      "directory": "Will-County"
+    },
+    "Williamson County": {
+      "countySeat": "Marion",
+      "directory": "Williamson-County"
+    },
+    "Winnebago County": {
+      "countySeat": "Rockford",
+      "directory": "Winnebago-County"
+    },
+    "Woodford County": {
+      "countySeat": "Eureka",
+      "directory": "Woodford-County"
+    }
+  }
+}

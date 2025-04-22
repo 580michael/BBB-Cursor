@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "state": "New Mexico",
+        "stateAbbr": "NM", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 33
+    },
+    "counties": {
+        "Bernalillo County": {
+            "countySeat": "Albuquerque",
+            "directory": "Bernalillo-County"
+        },
+        "Catron County": {
+            "countySeat": "Reserve",
+            "directory": "Catron-County"
+        },
+        "Chaves County": {
+            "countySeat": "Roswell",
+            "directory": "Chaves-County"
+        },
+        "Cibola County": {
+            "countySeat": "Grants",
+            "directory": "Cibola-County"
+        },
+        "Colfax County": {
+            "countySeat": "Raton",
+            "directory": "Colfax-County"
+        },
+        "Curry County": {
+            "countySeat": "Clovis",
+            "directory": "Curry-County"
+        },
+        "De Baca County": {
+            "countySeat": "Fort Sumner",
+            "directory": "De-Baca-County"
+        },
+        "Doña Ana County": {
+            "countySeat": "Las Cruces",
+            "directory": "Dona-Ana-County"
+        },
+        "Eddy County": {
+            "countySeat": "Carlsbad",
+            "directory": "Eddy-County"
+        },
+        "Grant County": {
+            "countySeat": "Silver City",
+            "directory": "Grant-County"
+        },
+        "Guadalupe County": {
+            "countySeat": "Santa Rosa",
+            "directory": "Guadalupe-County"
+        },
+        "Harding County": {
+            "countySeat": "Mosquero",
+            "directory": "Harding-County"
+        },
+        "Hidalgo County": {
+            "countySeat": "Lordsburg",
+            "directory": "Hidalgo-County"
+        },
+        "Lea County": {
+            "countySeat": "Lovington",
+            "directory": "Lea-County"
+        },
+        "Lincoln County": {
+            "countySeat": "Carrizozo",
+            "directory": "Lincoln-County"
+        },
+        "Los Alamos County": {
+            "countySeat": "Los Alamos",
+            "directory": "Los-Alamos-County"
+        },
+        "Luna County": {
+            "countySeat": "Deming",
+            "directory": "Luna-County"
+        },
+        "McKinley County": {
+            "countySeat": "Gallup",
+            "directory": "McKinley-County"
+        },
+        "Mora County": {
+            "countySeat": "Mora",
+            "directory": "Mora-County"
+        },
+        "Otero County": {
+            "countySeat": "Alamogordo",
+            "directory": "Otero-County"
+        },
+        "Quay County": {
+            "countySeat": "Tucumcari",
+            "directory": "Quay-County"
+        },
+        "Rio Arriba County": {
+            "countySeat": "Tierra Amarilla",
+            "directory": "Rio-Arriba-County"
+        },
+        "Roosevelt County": {
+            "countySeat": "Portales",
+            "directory": "Roosevelt-County"
+        },
+        "Sandoval County": {
+            "countySeat": "Bernalillo",
+            "directory": "Sandoval-County"
+        },
+        "San Juan County": {
+            "countySeat": "Aztec",
+            "directory": "San-Juan-County"
+        },
+        "San Miguel County": {
+            "countySeat": "Las Vegas",
+            "directory": "San-Miguel-County"
+        },
+        "Santa Fe County": {
+            "countySeat": "Santa Fe",
+            "directory": "Santa-Fe-County"
+        },
+        "Sierra County": {
+            "countySeat": "Truth or Consequences",
+            "directory": "Sierra-County"
+        },
+        "Socorro County": {
+            "countySeat": "Socorro",
+            "directory": "Socorro-County"
+        },
+        "Taos County": {
+            "countySeat": "Taos",
+            "directory": "Taos-County"
+        },
+        "Torrance County": {
+            "countySeat": "Estancia",
+            "directory": "Torrance-County"
+        },
+        "Union County": {
+            "countySeat": "Clayton",
+            "directory": "Union-County"
+        },
+        "Valencia County": {
+            "countySeat": "Los Lunas",
+            "directory": "Valencia-County"
+        }
+    }
+}

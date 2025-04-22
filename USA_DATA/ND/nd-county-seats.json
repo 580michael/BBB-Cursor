@@ -1,0 +1,217 @@
+{
+    "metadata": {
+        "state": "North Dakota",
+        "stateAbbr": "ND",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 53
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Hettinger",
+            "directory": "Adams-County"
+        },
+        "Barnes County": {
+            "countySeat": "Valley City",
+            "directory": "Barnes-County"
+        },
+        "Benson County": {
+            "countySeat": "Minnewaukan",
+            "directory": "Benson-County"
+        },
+        "Billings County": {
+            "countySeat": "Medora",
+            "directory": "Billings-County"
+        },
+        "Bottineau County": {
+            "countySeat": "Bottineau",
+            "directory": "Bottineau-County"
+        },
+        "Bowman County": {
+            "countySeat": "Bowman",
+            "directory": "Bowman-County"
+        },
+        "Burke County": {
+            "directory": "Burke-County"
+        },
+        "Burleigh County": {
+            "countySeat": "Bismarck",
+            "directory": "Burleigh-County"
+        },
+        "Cass County": {
+            "countySeat": "Fargo",
+            "directory": "Cass-County"
+        },
+        "Cavalier County": {
+            "countySeat": "Langdon",
+            "directory": "Cavalier-County"
+        },
+        "Dickey County": {
+            "countySeat": "Oakes",
+            "directory": "Dickey-County"
+        },
+        "Divide County": {
+            "countySeat": "Crosby",
+            "directory": "Divide-County"
+        },
+        "Dunn County": {
+            "countySeat": "Killdeer",
+            "directory": "Dunn-County"
+        },
+        "Eddy County": {
+            "countySeat": "New Rockford",
+            "directory": "Eddy-County"
+        },
+        "Emmons County": {
+            "countySeat": "Linton",
+            "directory": "Emmons-County"
+        },
+        "Foster County": {
+            "countySeat": "Carrington",
+            "directory": "Foster-County"
+        },
+        "Golden Valley County": {
+            "countySeat": "Beach",
+            "directory": "Golden-Valley-County"
+        },
+        "Grand Forks County": {
+            "countySeat": "Grand Forks",
+            "directory": "Grand-Forks-County"
+        },
+        "Grant County": {
+            "countySeat": "Carson",
+            "directory": "Grant-County"
+        },
+        "Griggs County": {
+            "countySeat": "Cooperstown",
+            "directory": "Griggs-County"
+        },
+        "Hettinger County": {
+            "countySeat": "Hettinger",
+            "directory": "Hettinger-County"
+        },
+        "Kidder County": {
+            "countySeat": "Steele",
+            "directory": "Kidder-County"
+        },
+        "LaMoure County": {
+            "countySeat": "LaMoure",
+            "directory": "LaMoure-County"
+        },
+        "Logan County": {
+            "countySeat": "Napoleon",
+            "directory": "Logan-County"
+        },
+        "McHenry County": {
+            "countySeat": "Towner",
+            "directory": "McHenry-County"
+        },
+        "McIntosh County": {
+            "countySeat": "Ashley",
+            "directory": "McIntosh-County"
+        },
+        "McKenzie County": {
+            "countySeat": "Watford City",
+            "directory": "McKenzie-County"
+        },
+        "McLean County": {
+            "countySeat": "Washburn",
+            "directory": "McLean-County"
+        },
+        "Mercer County": {
+            "countySeat": "Beulah",
+            "directory": "Mercer-County"
+        },
+        "Morton County": {
+            "countySeat": "Mandan",
+            "directory": "Morton-County"
+        },
+        "Mountrail County": {
+            "countySeat": "New Town",
+            "directory": "Mountrail-County"
+        },
+        "Nelson County": {
+            "countySeat": "Lakota",
+            "directory": "Nelson-County"
+        },
+        "Pembina County": {
+            "countySeat": "Cavalier",
+            "directory": "Pembina-County"
+        },
+        "Pierce County": {
+            "countySeat": "Rugby",
+            "directory": "Pierce-County"
+        },
+        "Ramsey County": {
+            "countySeat": "Devils Lake",
+            "directory": "Ramsey-County"
+        },
+        "Ransom County": {
+            "countySeat": "Lisbon",
+            "directory": "Ransom-County"
+        },
+        "Renville County": {
+            "countySeat": "Mohall",
+            "directory": "Renville-County"
+        },
+        "Richland County": {
+            "countySeat": "Wahpeton",
+            "directory": "Richland-County"
+        },
+        "Rolette County": {
+            "countySeat": "Rolla",
+            "directory": "Rolette-County"
+        },
+        "Sargent County": {
+            "countySeat": "Forman",
+            "directory": "Sargent-County"
+        },
+        "Sheridan County": {
+            "countySeat": "McClusky",
+            "directory": "Sheridan-County"
+        },
+        "Sioux County": {
+            "countySeat": "Fort Yates",
+            "directory": "Sioux-County"
+        },
+        "Slope County": {
+            "countySeat": "Amidon",
+            "directory": "Slope-County"
+        },
+        "Stark County": {
+            "countySeat": "Dickinson",
+            "directory": "Stark-County"
+        },
+        "Steele County": {
+            "countySeat": "Finley",
+            "directory": "Steele-County"
+        },
+        "Stutsman County": {
+            "countySeat": "Jamestown",
+            "directory": "Stutsman-County"
+        },
+        "Towner County": {
+            "countySeat": "Cando",
+            "directory": "Towner-County"
+        },
+        "Traill County": {
+            "countySeat": "Hillsboro",
+            "directory": "Traill-County"
+        },
+        "Walsh County": {
+            "countySeat": "Grafton",
+            "directory": "Walsh-County"
+        },
+        "Ward County": {
+            "countySeat": "Minot",
+            "directory": "Ward-County"
+        },
+        "Wells County": {
+            "countySeat": "Fessenden",
+            "directory": "Wells-County"
+        },
+        "Williams County": {
+            "countySeat": "Williston",
+            "directory": "Williams-County"
+        }
+    }
+}

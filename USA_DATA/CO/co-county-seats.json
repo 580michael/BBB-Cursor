@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "lastUpdated": "2024-03-24",
+    "totalCounties": 64
+  },
+  "counties": {
+    "Adams County": {
+      "countySeat": "Brighton",
+      "directory": "Adams-County"
+    },
+    "Alamosa County": {
+      "countySeat": "Alamosa",
+      "directory": "Alamosa-County"
+    },
+    "Arapahoe County": {
+      "countySeat": "Littleton",
+      "directory": "Arapahoe-County"
+    },
+    "Archuleta County": {
+      "countySeat": "Pagosa Springs",
+      "directory": "Archuleta-County"
+    },
+    "Baca County": {
+      "countySeat": "Springfield",
+      "directory": "Baca-County"
+    },
+    "Bent County": {
+      "countySeat": "Las Animas",
+      "directory": "Bent-County"
+    },
+    "Boulder County": {
+      "countySeat": "Boulder",
+      "directory": "Boulder-County"
+    },
+    "Broomfield County": {
+      "countySeat": "Broomfield",
+      "directory": "Broomfield-County"
+    },
+    "Chaffee County": {
+      "countySeat": "Salida",
+      "directory": "Chaffee-County"
+    },
+    "Cheyenne County": {
+      "countySeat": "Cheyenne Wells",
+      "directory": "Cheyenne-County"
+    },
+    "Clear Creek County": {
+      "countySeat": "Georgetown",
+      "directory": "Clear-Creek-County"
+    },
+    "Conejos County": {
+      "countySeat": "Conejos",
+      "directory": "Conejos-County"
+    },
+    "Costilla County": {
+      "countySeat": "San Luis",
+      "directory": "Costilla-County"
+    },
+    "Crowley County": {
+      "countySeat": "Ordway",
+      "directory": "Crowley-County"
+    },
+    "Custer County": {
+      "countySeat": "Westcliffe",
+      "directory": "Custer-County"
+    },
+    "Delta County": {
+      "countySeat": "Delta",
+      "directory": "Delta-County"
+    },
+    "Denver County": {
+      "countySeat": "Denver",
+      "directory": "Denver-County"
+    },
+    "Dolores County": {
+      "countySeat": "Dove Creek",
+      "directory": "Dolores-County"
+    },
+    "Douglas County": {
+      "countySeat": "Castle Rock",
+      "directory": "Douglas-County"
+    },
+    "Eagle County": {
+      "countySeat": "Eagle",
+      "directory": "Eagle-County"
+    },
+    "El Paso County": {
+      "countySeat": "Colorado Springs",
+      "directory": "El-Paso-County"
+    },
+    "Elbert County": {
+      "countySeat": "Kiowa",
+      "directory": "Elbert-County"
+    },
+    "Fremont County": {
+      "countySeat": "Ca\u00f1on City",
+      "directory": "Fremont-County"
+    },
+    "Garfield County": {
+      "countySeat": "Glenwood Springs",
+      "directory": "Garfield-County"
+    },
+    "Gilpin County": {
+      "countySeat": "Central City",
+      "directory": "Gilpin-County"
+    },
+    "Grand County": {
+      "countySeat": "Hot Sulphur Springs",
+      "directory": "Grand-County"
+    },
+    "Gunnison County": {
+      "countySeat": "Gunnison",
+      "directory": "Gunnison-County"
+    },
+    "Hinsdale County": {
+      "countySeat": "Lake City",
+      "directory": "Hinsdale-County"
+    },
+    "Huerfano County": {
+      "countySeat": "Walsenburg",
+      "directory": "Huerfano-County"
+    },
+    "Jackson County": {
+      "countySeat": "Walden",
+      "directory": "Jackson-County"
+    },
+    "Jefferson County": {
+      "countySeat": "Golden",
+      "directory": "Jefferson-County"
+    },
+    "Kiowa County": {
+      "countySeat": "Eads",
+      "directory": "Kiowa-County"
+    },
+    "Kit Carson County": {
+      "countySeat": "Burlington",
+      "directory": "Kit-Carson-County"
+    },
+    "La Plata County": {
+      "countySeat": "Durango",
+      "directory": "La-Plata-County"
+    },
+    "Lake County": {
+      "countySeat": "Leadville",
+      "directory": "Lake-County"
+    },
+    "Larimer County": {
+      "countySeat": "Fort Collins",
+      "directory": "Larimer-County"
+    },
+    "Las Animas County": {
+      "countySeat": "Trinidad",
+      "directory": "Las-Animas-County"
+    },
+    "Lincoln County": {
+      "countySeat": "Hugo",
+      "directory": "Lincoln-County"
+    },
+    "Logan County": {
+      "countySeat": "Sterling",
+      "directory": "Logan-County"
+    },
+    "Mesa County": {
+      "countySeat": "Grand Junction",
+      "directory": "Mesa-County"
+    },
+    "Mineral County": {
+      "countySeat": "Creede",
+      "directory": "Mineral-County"
+    },
+    "Moffat County": {
+      "countySeat": "Craig",
+      "directory": "Moffat-County"
+    },
+    "Montezuma County": {
+      "countySeat": "Cortez",
+      "directory": "Montezuma-County"
+    },
+    "Montrose County": {
+      "countySeat": "Montrose",
+      "directory": "Montrose-County"
+    },
+    "Morgan County": {
+      "countySeat": "Fort Morgan",
+      "directory": "Morgan-County"
+    },
+    "Otero County": {
+      "countySeat": "La Junta",
+      "directory": "Otero-County"
+    },
+    "Ouray County": {
+      "countySeat": "Ouray",
+      "directory": "Ouray-County"
+    },
+    "Park County": {
+      "countySeat": "Fairplay",
+      "directory": "Park-County"
+    },
+    "Phillips County": {
+      "countySeat": "Holyoke",
+      "directory": "Phillips-County"
+    },
+    "Pitkin County": {
+      "countySeat": "Aspen",
+      "directory": "Pitkin-County"
+    },
+    "Prowers County": {
+      "countySeat": "Lamar",
+      "directory": "Prowers-County"
+    },
+    "Pueblo County": {
+      "countySeat": "Pueblo",
+      "directory": "Pueblo-County"
+    },
+    "Rio Blanco County": {
+      "countySeat": "Meeker",
+      "directory": "Rio-Blanco-County"
+    },
+    "Rio Grande County": {
+      "countySeat": "Del Norte",
+      "directory": "Rio-Grande-County"
+    },
+    "Routt County": {
+      "countySeat": "Steamboat Springs",
+      "directory": "Routt-County"
+    },
+    "Saguache County": {
+      "countySeat": "Saguache",
+      "directory": "Saguache-County"
+    },
+    "San Juan County": {
+      "countySeat": "Silverton",
+      "directory": "San-Juan-County"
+    },
+    "San Miguel County": {
+      "countySeat": "Telluride",
+      "directory": "San-Miguel-County"
+    },
+    "Sedgwick County": {
+      "countySeat": "Julesburg",
+      "directory": "Sedgwick-County"
+    },
+    "Summit County": {
+      "countySeat": "Breckenridge",
+      "directory": "Summit-County"
+    },
+    "Teller County": {
+      "countySeat": "Cripple Creek",
+      "directory": "Teller-County"
+    },
+    "Washington County": {
+      "countySeat": "Akron",
+      "directory": "Washington-County"
+    },
+    "Weld County": {
+      "countySeat": "Greeley",
+      "directory": "Weld-County"
+    },
+    "Yuma County": {
+      "countySeat": "Wray",
+      "directory": "Yuma-County"
+    }
+  }
+}

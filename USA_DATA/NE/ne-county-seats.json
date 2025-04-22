@@ -1,0 +1,382 @@
+{
+    "metadata": {
+        "state": "Nebraska",
+        "stateAbbr": "NE",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 93
+    },
+    "counties": {
+        "Adams County": {
+            "countySeat": "Hastings",
+            "directory": "Adams-County"
+        },
+        "Antelope County": {
+            "countySeat": "Neligh",
+            "directory": "Antelope-County"
+        },
+        "Arthur County": {
+            "countySeat": "Arthur",
+            "directory": "Arthur-County"
+        },
+        "Banner County": {
+            "countySeat": "Harrisburg",
+            "directory": "Banner-County"
+        },
+        "Blaine County": {
+            "countySeat": "Ainsworth",
+            "directory": "Blaine-County"
+        },
+        "Boone County": {
+            "countySeat": "Albion",
+            "directory": "Boone-County"
+        },
+        "Box Butte County": {
+            "countySeat": "Alliance",
+            "directory": "Box-Butte-County"
+        },
+        "Boyd County": {
+            "countySeat": "Butte",
+            "directory": "Boyd-County"
+        },
+        "Brown County": {
+            "countySeat": "Ainsworth",
+            "directory": "Brown-County"
+        },
+        "Buffalo County": {
+            "countySeat": "Kearney",
+            "directory": "Buffalo-County"
+        },
+        "Burt County": {
+            "countySeat": "Tekamah",
+            "directory": "Burt-County"
+        },
+        "Butler County": {
+            "countySeat": "David City",
+            "directory": "Butler-County"
+        },
+        "Cass County": {
+            "countySeat": "Plattsmouth",
+            "directory": "Cass-County"
+        },
+        "Cedar County": {
+            "countySeat": "Hartington",
+            "directory": "Cedar-County"
+        },
+        "Chase County": {
+            "countySeat": "Imperial",
+            "directory": "Chase-County"
+        },
+        "Cherry County": {
+            "countySeat": "Valentine",
+            "directory": "Cherry-County"
+        },
+        "Cheyenne County": {
+            "countySeat": "Sidney",
+            "directory": "Cheyenne-County"
+        },
+        "Clay County": {
+            "countySeat": "Clay Center",
+            "directory": "Clay-County"
+        },
+        "Colfax County": {
+            "countySeat": "Schuyler",
+            "directory": "Colfax-County"
+        },
+        "Cuming County": {
+            "countySeat": "West Point",
+            "directory": "Cuming-County"
+        },
+        "Custer County": {
+            "countySeat": "Broken Bow",
+            "directory": "Custer-County"
+        },
+        "Dakota County": {
+            "countySeat": "Dakota City",
+            "directory": "Dakota-County"
+        },
+        "Dawes County": {
+            "countySeat": "Dawes",
+            "directory": "Dawes-County"
+        },
+        "Dawson County": {
+            "countySeat": "Lexington",
+            "directory": "Dawson-County"
+        },
+        "Deuel County": {
+            "countySeat": "Chappell",
+            "directory": "Deuel-County"
+        },
+        "Dixon County": {
+            "countySeat": "Ponca",
+            "directory": "Dixon-County"
+        },
+        "Dodge County": {
+            "countySeat": "Fremont",
+            "directory": "Dodge-County"
+        },
+        "Douglas County": {
+            "countySeat": "Omaha",
+            "directory": "Douglas-County"
+        },
+        "Dundy County": {
+            "countySeat": "Benkelman",
+            "directory": "Dundy-County"
+        },
+        "Fillmore County": {
+            "countySeat": "Geneva",
+            "directory": "Fillmore-County"
+        },
+        "Franklin County": {
+            "countySeat": "Franklin",
+            "directory": "Franklin-County"
+        },
+        "Frontier County": {
+            "countySeat": "Stockville",
+            "directory": "Frontier-County"
+        },
+        "Furnas County": {
+            "countySeat": "Beaver City",
+            "directory": "Furnas-County"
+        },
+        "Gage County": {
+            "countySeat": "Beatrice",
+            "directory": "Gage-County"
+        },
+        "Garden County": {
+            "countySeat": "Oshkosh",
+            "directory": "Garden-County"
+        },
+        "Garfield County": {
+            "countySeat": "Burwell",
+            "directory": "Garfield-County"
+        },
+        "Gosper County": {
+            "countySeat": "Elwood",
+            "directory": "Gosper-County"
+        },
+        "Grant County": {
+            "countySeat": "Hyannis",
+            "directory": "Grant-County"
+        },
+        "Greeley County": {
+            "countySeat": "Greeley",
+            "directory": "Greeley-County"
+        },
+        "Hall County": {
+            "countySeat": "Grand Island",
+            "directory": "Hall-County"
+        },
+        "Hamilton County": {
+            "countySeat": "Aurora",
+            "directory": "Hamilton-County"
+        },
+        "Harlan County": {
+            "countySeat": "Alma",
+            "directory": "Harlan-County"
+        },
+        "Hayes County": {
+            "countySeat": "Hayes Center",
+            "directory": "Hayes-County"
+        },
+        "Hitchcock County": {
+            "countySeat": "Trenton",
+            "directory": "Hitchcock-County"
+        },
+        "Holt County": {
+            "countySeat": "O'Neill",
+            "directory": "Holt-County"
+        },
+        "Hooker County": {
+            "countySeat": "Mullen",
+            "directory": "Hooker-County"
+        },
+        "Howard County": {
+            "countySeat": "St. Paul",
+            "directory": "Howard-County"
+        },
+        "Jefferson County": {
+            "countySeat": "Fairbury",
+            "directory": "Jefferson-County"
+        },
+        "Johnson County": {
+            "countySeat": "Tecumseh",
+            "directory": "Johnson-County"
+        },
+        "Kearney County": {
+            "countySeat": "Minden",
+            "directory": "Kearney-County"
+        },
+        "Keith County": {
+            "countySeat": "Ogallala",
+            "directory": "Keith-County"
+        },
+        "Keya Paha County": {
+            "countySeat": "Springview",
+            "directory": "Keya-Paha-County"
+        },
+        "Kimball County": {
+            "countySeat": "Kimball",
+            "directory": "Kimball-County"
+        },
+        "Knox County": {
+            "countySeat": "Center",
+            "directory": "Knox-County"
+        },
+        "Lancaster County": {
+            "countySeat": "Lincoln",
+            "directory": "Lancaster-County"
+        },
+        "Lincoln County": {
+            "countySeat": "North Platte",
+            "directory": "Lincoln-County"
+        },
+        "Logan County": {
+            "countySeat": "Stapleton",
+            "directory": "Logan-County"
+        },
+        "Loup County": {
+            "countySeat": "Taylor",
+            "directory": "Loup-County"
+        },
+        "Madison County": {
+            "countySeat": "Madison",
+            "directory": "Madison-County"
+        },
+        "McPherson County": {
+            "countySeat": "Tryon",
+            "directory": "McPherson-County"
+        },
+        "Merrick County": {
+            "countySeat": "Central City",
+            "directory": "Merrick-County"
+        },
+        "Morrill County": {
+            "countySeat": "Bridgeport",
+            "directory": "Morrill-County"
+        },
+        "Nance County": {
+            "countySeat": "Fullerton",
+            "directory": "Nance-County"
+        },
+        "Nemaha County": {
+            "countySeat": "Auburn",
+            "directory": "Nemaha-County"
+        },
+        "Nuckolls County": {
+            "countySeat": "Nelson",
+            "directory": "Nuckolls-County"
+        },
+        "Otoe County": {
+            "countySeat": "Nebraska City",
+            "directory": "Otoe-County"
+        },
+        "Pawnee County": {
+            "countySeat": "Pawnee City",
+            "directory": "Pawnee-County"
+        },
+        "Perkins County": {
+            "countySeat": "Grant",
+            "directory": "Perkins-County"
+        },
+        "Phelps County": {
+            "countySeat": "Holdrege",
+            "directory": "Phelps-County"
+        },
+        "Pierce County": {
+            "countySeat": "Pierce",
+            "directory": "Pierce-County"
+        },
+        "Platte County": {
+            "countySeat": "Columbus",
+            "directory": "Platte-County"
+        },
+        "Polk County": {
+            "countySeat": "Osceola",
+            "directory": "Polk-County"
+        },
+        "Red Willow County": {
+            "countySeat": "McCook",
+            "directory": "Red-Willow-County"
+        },
+        "Richardson County": {
+            "countySeat": "Falls City",
+            "directory": "Richardson-County"
+        },
+        "Rock County": {
+            "countySeat": "Bassett",
+            "directory": "Rock-County"
+        },
+        "Saline County": {
+            "countySeat": "Wilber",
+            "directory": "Saline-County"
+        },
+        "Sarpy County": {
+            "countySeat": "Bellevue",
+            "directory": "Sarpy-County"
+        },
+        "Saunders County": {
+            "countySeat": "Wahoo",
+            "directory": "Saunders-County"
+        },
+        "Scotts Bluff County": {
+            "countySeat": "Gering",
+            "directory": "Scotts-Bluff-County"
+        },
+        "Seward County": {
+            "countySeat": "Seward",
+            "directory": "Seward-County"
+        },
+        "Sheridan County": {
+            "countySeat": "Rushville",
+            "directory": "Sheridan-County"
+        },
+        "Sherman County": {
+            "countySeat": "Loup City",
+            "directory": "Sherman-County"
+        },
+        "Sioux County": {
+            "countySeat": "Harrison",
+            "directory": "Sioux-County"
+        },
+        "Stanton County": {
+            "countySeat": "Stanton",
+            "directory": "Stanton-County"
+        },
+        "Thayer County": {
+            "countySeat": "Hebron",
+            "directory": "Thayer-County"
+        },
+        "Thomas County": {
+            "countySeat": "Thedford",
+            "directory": "Thomas-County"
+        },
+        "Thurston County": {
+            "countySeat": "Pender",
+            "directory": "Thurston-County"
+        },
+        "Valley County": {
+            "countySeat": "Ord",
+            "directory": "Valley-County"
+        },
+        "Washington County": {
+            "countySeat": "Blair",
+            "directory": "Washington-County"
+        },
+        "Wayne County": {
+            "countySeat": "Wayne",
+            "directory": "Wayne-County"
+        },
+        "Webster County": {
+            "countySeat": "Red Cloud",
+            "directory": "Webster-County"
+        },
+        "Wheeler County": {
+            "countySeat": "Bartlett",
+            "directory": "Wheeler-County"
+        },
+        "York County": {
+            "countySeat": "York",
+            "directory": "York-County"
+        }
+    }
+}

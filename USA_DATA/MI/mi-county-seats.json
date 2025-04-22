@@ -1,0 +1,322 @@
+{
+    "metadata": {
+        "state": "Michigan",
+        "stateAbbr": "MI",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 83
+    },
+    "counties": {
+        "Alcona County": {
+            "countySeat": "Harrisville",
+            "directory": "Alcona-County"
+        },
+        "Alger County": {
+            "countySeat": "Munising",
+            "directory": "Alger-County"
+        },
+        "Allegan County": {
+            "countySeat": "Allegan",
+            "directory": "Allegan-County"
+        },
+        "Alpena County": {
+            "countySeat": "Alpena",
+            "directory": "Alpena-County"
+        },
+        "Antrim County": {
+            "countySeat": "Bellaire",
+            "directory": "Antrim-County"
+        },
+        "Arenac County": {
+            "countySeat": "Standish",
+            "directory": "Arenac-County"
+        },
+        "Baraga County": {
+            "countySeat": "L'Anse",
+            "directory": "Baraga-County"
+        },
+        "Barry County": {
+            "countySeat": "Hastings",
+            "directory": "Barry-County"
+        },
+        "Bay County": {
+            "countySeat": "Bay City",
+            "directory": "Bay-County"
+        },
+        "Benzie County": {
+            "countySeat": "Beulah",
+            "directory": "Benzie-County"
+        },
+        "Berrien County": {
+            "countySeat": "St. Joseph",
+            "directory": "Berrien-County"
+        },
+        "Branch County": {
+            "countySeat": "Coldwater",
+            "directory": "Branch-County"
+        },
+        "Calhoun County": {
+            "countySeat": "Marshall",
+            "directory": "Calhoun-County"
+        },
+        "Cass County": {
+            "countySeat": "Cassopolis",
+            "directory": "Cass-County"
+        },
+        "Charlevoix County": {
+            "countySeat": "Charlevoix",
+            "directory": "Charlevoix-County"
+        },
+        "Cheboygan County": {
+            "countySeat": "Cheboygan",
+            "directory": "Cheboygan-County"
+        },
+        "Clare County": {
+            "countySeat": "Harrison",
+            "directory": "Clare-County"
+        },
+        "Clinton County": {
+            "countySeat": "St. Johns",
+            "directory": "Clinton-County"
+        },
+        "Crawford County": {
+            "countySeat": "Grayling",
+            "directory": "Crawford-County"
+        },
+        "Delta County": {
+            "countySeat": "Escanaba",
+            "directory": "Delta-County"
+        },
+        "Eaton County": {
+            "countySeat": "Charlotte",
+            "directory": "Eaton-County"
+        },
+        "Emmet County": {
+            "countySeat": "Petoskey",
+            "directory": "Emmet-County"
+        },
+        "Genesee County": {
+            "countySeat": "Flint",
+            "directory": "Genesee-County"
+        },
+        "Gladwin County": {
+            "countySeat": "Gladwin",
+            "directory": "Gladwin-County"
+        },
+        "Grand Traverse County": {
+            "countySeat": "Traverse City",
+            "directory": "Grand-Traverse-County"
+        },
+        "Gratiot County": {
+            "countySeat": "Ithaca",
+            "directory": "Gratiot-County"
+        },
+        "Hillsdale County": {
+            "countySeat": "Hillsdale",
+            "directory": "Hillsdale-County"
+        },
+        "Houghton County": {
+            "countySeat": "Houghton",
+            "directory": "Houghton-County"
+        },
+        "Huron County": {
+            "countySeat": "Bad Axe",
+            "directory": "Huron-County"
+        },
+        "Ingham County": {
+            "countySeat": "Mason",
+            "directory": "Ingham-County"
+        },
+        "Ionia County": {
+            "countySeat": "Ionia",
+            "directory": "Ionia-County"
+        },
+        "Iosco County": {
+            "countySeat": "Tawas City",
+            "directory": "Iosco-County"
+        },
+        "Iron County": {
+            "countySeat": "Crystal Falls",
+            "directory": "Iron-County"
+        },
+        "Isabella County": {
+            "countySeat": "Mount Pleasant",
+            "directory": "Isabella-County"
+        },
+        "Jackson County": {
+            "countySeat": "Jackson",
+            "directory": "Jackson-County"
+        },
+        "Kalamazoo County": {
+            "countySeat": "Kalamazoo",
+            "directory": "Kalamazoo-County"
+        },
+        "Kent County": {
+            "countySeat": "Grand Rapids",
+            "directory": "Kent-County"
+        },
+        "Lake County": {
+            "countySeat": "Baldwin",
+            "directory": "Lake-County"
+        },
+        "Lapeer County": {
+            "countySeat": "Lapeer",
+            "directory": "Lapeer-County"
+        },
+        "Leelanau County": {
+            "countySeat": "Suttons Bay",
+            "directory": "Leelanau-County"
+        },
+        "Lenawee County": {
+            "countySeat": "Adrian",
+            "directory": "Lenawee-County"
+        },
+        "Livingston County": {
+            "countySeat": "Howell",
+            "directory": "Livingston-County"
+        },
+        "Luce County": {
+            "countySeat": "Newberry",
+            "directory": "Luce-County"
+        },
+        "Mackinac County": {
+            "countySeat": "St. Ignace",
+            "directory": "Mackinac-County"
+        },
+        "Macomb County": {
+            "countySeat": "Mount Clemens",
+            "directory": "Macomb-County"
+        },
+        "Manistee County": {
+            "countySeat": "Manistee",
+            "directory": "Manistee-County"
+        },
+        "Marquette County": {
+            "countySeat": "Marquette",
+            "directory": "Marquette-County"
+        },
+        "Mason County": {
+            "countySeat": "Ludington",
+            "directory": "Mason-County"
+        },
+        "Mecosta County": {
+            "countySeat": "Big Rapids",
+            "directory": "Mecosta-County"
+        },
+        "Menominee County": {
+            "countySeat": "Menominee",
+            "directory": "Menominee-County"
+        },
+        "Midland County": {
+            "countySeat": "Midland",
+            "directory": "Midland-County"
+        },
+        "Missaukee County": {
+            "countySeat": "Lake City",
+            "directory": "Missaukee-County"
+        },
+        "Monroe County": {
+            "countySeat": "Monroe",
+            "directory": "Monroe-County"
+        },
+        "Montcalm County": {
+            "countySeat": "Stanton",
+            "directory": "Montcalm-County"
+        },
+        "Montmorency County": {
+            "countySeat": "Atlanta",
+            "directory": "Montmorency-County"
+        },
+        "Muskegon County": {
+            "countySeat": "Muskegon",
+            "directory": "Muskegon-County"
+        },
+        "Newaygo County": {
+            "countySeat": "White Cloud",
+            "directory": "Newaygo-County"
+        },
+        "Oakland County": {
+            "countySeat": "Pontiac",
+            "directory": "Oakland-County"
+        },
+        "Oceana County": {
+            "countySeat": "Hart",
+            "directory": "Oceana-County"
+        },
+        "Ogemaw County": {
+            "countySeat": "West Branch",
+            "directory": "Ogemaw-County"
+        },
+        "Ontonagon County": {
+            "countySeat": "Ontonagon",
+            "directory": "Ontonagon-County"
+        },
+        "Osceola County": {
+            "countySeat": "Reed City",
+            "directory": "Osceola-County"
+        },
+        "Oscoda County": {
+            "countySeat": "Mio",
+            "directory": "Oscoda-County"
+        },
+        "Otsego County": {
+            "countySeat": "Gaylord",
+            "directory": "Otsego-County"
+        },
+        "Ottawa County": {
+            "countySeat": "Grand Haven",
+            "directory": "Ottawa-County"
+        },
+        "Presque Isle County": {
+            "countySeat": "Rogers City",
+            "directory": "Presque-Isle-County"
+        },
+        "Roscommon County": {
+            "countySeat": "Roscommon",
+            "directory": "Roscommon-County"
+        },
+        "Saginaw County": {
+            "countySeat": "Saginaw",
+            "directory": "Saginaw-County"
+        },
+        "Sanilac County": {
+            "countySeat": "Sandusky",
+            "directory": "Sanilac-County"
+        },
+        "Schoolcraft County": {
+            "countySeat": "Manistique",
+            "directory": "Schoolcraft-County"
+        },
+        "Shiawassee County": {
+            "countySeat": "Corunna",
+            "directory": "Shiawassee-County"
+        },
+        "St. Clair County": {
+            "countySeat": "Port Huron",
+            "directory": "St-Clair-County"
+        },
+        "St. Joseph County": {
+            "countySeat": "Centreville",
+            "directory": "St-Joseph-County"
+        },
+        "Tuscola County": {
+            "countySeat": "Caro",
+            "directory": "Tuscola-County"
+        },
+        "Van Buren County": {
+            "countySeat": "Paw Paw",
+            "directory": "Van-Buren-County"
+        },
+        "Washtenaw County": {
+            "countySeat": "Ann Arbor",
+            "directory": "Washtenaw-County"
+        },
+        "Wayne County": {
+            "countySeat": "Detroit",
+            "directory": "Wayne-County"
+        },
+        "Wexford County": {
+            "countySeat": "Cadillac",
+            "directory": "Wexford-County"
+        }
+    }
+}

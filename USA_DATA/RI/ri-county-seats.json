@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "state": "Rhode Island",
+        "stateAbbr": "RI", 
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 5
+    },
+    "counties": {
+        "Bristol County": {
+            "countySeat": "Bristol",
+            "directory": "Bristol-County"
+        },
+        "Kent County": {
+            "countySeat": "East Greenwich",
+            "directory": "Kent-County"
+        },
+        "Newport County": {
+            "countySeat": "Newport",
+            "directory": "Newport-County"
+        },
+        "Providence County": {
+            "countySeat": "Providence",
+            "directory": "Providence-County"
+        },
+        "Washington County": {
+            "countySeat": "South Kingstown",
+            "directory": "Washington-County"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+Ashburnham
+Athol
+Auburn
+Baldwinville
+Barre
+Berlin
+Blackstone
+Bolton
+Boylston
+Brookfield
+Charlton
+Charlton City
+Charlton Depot
+Cherry Valley
+Clinton
+Douglas
+Dudley
+EMC
+East Brookfield
+East Princeton
+East Templeton
+Fayville
+Fiskdale
+Fitchburg
+Gardner
+Gilbertville
+Grafton
+Hardwick
+Harvard
+Holden
+Hopedale
+Hubbardston
+Jefferson
+Lancaster
+Leicester
+Leominster
+Linwood
+Lunenburg
+Manchaug
+Mendon
+Milford
+Millbury
+Millville
+New Braintree
+North Brookfield
+North Grafton
+North Oxford
+North Uxbridge
+Northborough
+Northbridge
+Oakham
+Oxford
+Paxton
+Petersham
+Princeton
+Rochdale
+Royalston
+Rutland
+Shrewsbury
+South Barre
+South Grafton
+South Lancaster
+Southborough
+Southbridge
+Spencer
+Sterling
+Still River
+Sturbridge
+Sutton
+Templeton
+Upton
+Uxbridge
+Warren
+Webster
+West Boylston
+West Brookfield
+West Millbury
+West Warren
+Westborough
+Westminster
+Wheelwright
+Whitinsville
+Winchendon
+Winchendon Springs
+Worcester

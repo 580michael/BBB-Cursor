@@ -1,0 +1,82 @@
+Acme
+Adamsburg
+Alverton
+Apollo
+Ardara
+Armbrust
+Arona
+Avonmore
+Bolivar
+Bovard
+Bradenville
+Calumet
+Champion
+Claridge
+Crabtree
+Darragh
+Delmont
+Derry
+Donegal
+East Vandergrift
+Export
+Forbes Road
+Grapeville
+Greensburg
+Hannastown
+Harrison City
+Herminie
+Hostetter
+Hunker
+Hutchinson
+Hyde Park
+Irwin
+Jacobs Creek
+Jeannette
+Jones Mills
+Larimer
+Latrobe
+Laughlintown
+Ligonier
+Lowber
+Loyalhanna
+Luxor
+Madison
+Mammoth
+Manor
+Monessen
+Mount Pleasant
+Murrysville
+New Alexandria
+New Derry
+New Florence
+New Kensington
+New Stanton
+Norvelt
+Penn
+Pleasant Unity
+Pricedale
+Rector
+Rillton
+Ruffs Dale
+Salina
+Scottdale
+Seward
+Slickville
+Smithton
+Southwest
+Stahlstown
+Sutersville
+Tarrs
+Torrance
+Trafford
+United
+Vandergrift
+Webster
+Wendel
+West Newton
+Westmoreland City
+Whitney
+Wyano
+Youngstown
+Youngwood
+Yukon

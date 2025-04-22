@@ -1,0 +1,50 @@
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" custom_padding="0px||0px||false|false" global_colors_info="{}"][et_pb_row _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][/et_pb_column][/et_pb_row][/et_pb_section]
+
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" background_color="#2573ba" custom_padding="50px||50px||false|false" global_colors_info="{}"][et_pb_row column_structure="1_2,1_2" _builder_version="4.27.4" _module_preset="default" width="90%" max_width="1080px" global_colors_info="{}"][et_pb_column type="1_2" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_image src="https://bailbondsbuddy.com/wp-content/uploads/2023/09/Bail-Bonds-Buddy-Logo-Rectangular-Light.png" title_text="Bail Bonds Buddy Logo" _builder_version="4.27.4" _module_preset="default" width="85%" background_color="#ffffff" custom_padding="20px|20px|20px|20px|true|true" border_radii="on|5px|5px|5px|5px" global_colors_info="{}"][/et_pb_image][et_pb_text _builder_version="4.27.4" _module_preset="default" text_text_color="#FFFFFF" text_font_size="18px" text_line_height="1.5em" header_text_color="#FFFFFF" background_layout="dark" global_colors_info="{}"]
+<div class="search-bar" style="background-color: #fff; padding: 10px; border-radius: 5px; margin-top: 20px;">
+<input type="text" placeholder="Search any City/State Here... Dallas TX   Chicago IL   San Diego CA" style="width: 100%; padding: 10px; border: none; outline: none; font-size: 16px;" />
+</div>
+<div style="text-align: center; margin-top: 10px;">
+<button style="background-color: #0c71c3; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; cursor: pointer; width: 100%;">Find Bail Bondsmen</button>
+</div>[/et_pb_text][/et_pb_column][et_pb_column type="1_2" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.27.4" _module_preset="default" header_font="Montserrat|700|||||||" header_text_color="#FFFFFF" header_font_size="42px" header_line_height="1.2em" text_orientation="center" background_layout="dark" global_colors_info="{}"]<h1>[STATE_NAME] Bail Bondsmen Near You</h1>
+<h2>24/7 Release Services</h2>[/et_pb_text][et_pb_text _builder_version="4.27.4" _module_preset="default" text_font_size="18px" text_line_height="1.5em" text_text_color="#FFFFFF" background_layout="dark" global_colors_info="{}"]
+<p style="text-align: center;"><strong>Find Licensed [STATE_NAME] Bail Bond Agents Available Now</strong></p>
+[/et_pb_text][et_pb_map address="[STATE_CAPITAL_ADDRESS]" zoom_level="10" mouse_wheel="off" _builder_version="4.27.4" _module_preset="default" width="100%" height="350px" background_layout="dark" border_radii="on|5px|5px|5px|5px" global_colors_info="{}"][et_pb_map_pin pin_address="[STATE_CAPITAL_ADDRESS]" pin_address_lat="[STATE_CAPITAL_LAT]" pin_address_lng="[STATE_CAPITAL_LNG]" title="[STATE_NAME] Bail Bonds" _builder_version="4.27.4" global_colors_info="{}"][/et_pb_map_pin][/et_pb_map][/et_pb_column][/et_pb_row][/et_pb_section]
+
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" background_color="#ffffff" custom_padding="50px||50px||false|false" global_colors_info="{}"][et_pb_row _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.27.4" _module_preset="default" header_2_font="Montserrat|600|||||||" header_2_text_color="#333333" header_2_font_size="32px" global_colors_info="{}"]<h2>Need Bail Bonds in [STATE_NAME]?</h2>
+<p>If you or a loved one has been arrested in [STATE_NAME], our network of professional bail bondsmen can help secure their release quickly and affordably. We understand how stressful this time can be, which is why we're available 24/7 to assist you with the bail bonds process in [STATE_NAME].</p>
+
+<p>Our bail bonds agents in [STATE_NAME] offer:</p>
+<ul>
+ 	<li>24/7 availability for jail release</li>
+ 	<li>Fast and confidential service</li>
+ 	<li>Affordable payment plans with only [PREMIUM_RATE]% down</li>
+ 	<li>Experienced agents familiar with all [STATE_NAME] jails</li>
+ 	<li>Free bail information and consultation</li>
+</ul>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
+
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" background_color="#f9f9f9" custom_padding="50px||50px||false|false" global_colors_info="{}"][et_pb_row _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.27.4" _module_preset="default" text_font="||||||||" header_2_font="Montserrat|600|||||||" header_2_font_size="32px" global_colors_info="{}"]<h2>Bail Bonds Services Throughout [STATE_NAME]</h2>
+<p>We provide bail bonds services in counties across [STATE_NAME], including:</p>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_3,1_3,1_3" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="1_3" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_blurb title="[COUNTY_NAME_1]" use_icon="on" font_icon="||fa||400" icon_color="#0c71c3" _builder_version="4.27.4" _module_preset="default" header_font="Montserrat|600|||||||" header_text_align="center" header_font_size="22px" body_text_align="center" link_option_url="/bail-bonds-in-[STATE_NAME_LOWER]-[STATE_ABBR_LOWER]/[COUNTY_SLUG_1]" global_colors_info="{}"]
+Bail bond agents available 24/7
+[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_blurb title="[COUNTY_NAME_2]" use_icon="on" font_icon="||fa||400" icon_color="#0c71c3" _builder_version="4.27.4" _module_preset="default" header_font="Montserrat|600|||||||" header_text_align="center" header_font_size="22px" body_text_align="center" link_option_url="/bail-bonds-in-[STATE_NAME_LOWER]-[STATE_ABBR_LOWER]/[COUNTY_SLUG_2]" global_colors_info="{}"]
+Fast jail release services
+[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_blurb title="[COUNTY_NAME_3]" use_icon="on" font_icon="||fa||400" icon_color="#0c71c3" _builder_version="4.27.4" _module_preset="default" header_font="Montserrat|600|||||||" header_text_align="center" header_font_size="22px" body_text_align="center" link_option_url="/bail-bonds-in-[STATE_NAME_LOWER]-[STATE_ABBR_LOWER]/[COUNTY_SLUG_3]" global_colors_info="{}"]
+Affordable payment options
+[/et_pb_blurb][/et_pb_column][/et_pb_row][/et_pb_section]
+
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" background_color="#ffffff" custom_padding="50px||50px||false|false" global_colors_info="{}"][et_pb_row _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.27.4" _module_preset="default" header_2_font="Montserrat|600|||||||" header_2_font_size="32px" global_colors_info="{}"]<h2>How Bail Bonds Work in [STATE_NAME]</h2>
+<p>When someone is arrested in [STATE_NAME], they must typically post bail to be released from jail while awaiting their court appearance. Bail is set by a judge based on the severity of the charges, criminal history, and flight risk.</p>
+
+<p>If you can't afford to pay the full bail amount, a bail bondsman can help by posting a surety bond for a fee – typically [PREMIUM_RATE]% of the total bail amount in [STATE_NAME]. This fee is non-refundable but allows for immediate release from jail.</p>
+
+<p>Our [STATE_NAME] bail bonds agents will:</p>
+<ul>
+ 	<li>Explain the bail process specific to [STATE_NAME] counties</li>
+ 	<li>Complete all necessary paperwork</li>
+ 	<li>Post the bond quickly to secure release</li>
+ 	<li>Provide guidance throughout the court process</li>
+</ul>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
+
+[et_pb_section fb_built="1" _builder_version="4.27.4" _module_preset="default" background_color="#f9f9f9" custom_padding="50px||50px||false|false" global_colors_info="{}"][et_pb_row _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.27.4" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.27.4" _module_preset="default" header_2_font="Montserrat|600|||||||" header_2_text_align="center" header_2_font_size="32px" global_colors_info="{}"]<h2>Frequently Asked Questions About Bail Bonds in [STATE_NAME]</h2>[/et_pb_text][et_pb_accordion open_toggle_text_color="#0c71c3" _builder_version="4.27.4" _module_preset="default" toggle_font="Montserrat|600|||||||" toggle_text_color="#333333" toggle_font_size="18px" body_font="||||||||" global_colors_info="{}"]
+<!-- FAQ_ITEMS -->
+[/et_pb_accordion][/et_pb_column][/et_pb_row][/et_pb_section] 

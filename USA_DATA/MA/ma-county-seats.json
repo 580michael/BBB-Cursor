@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "state": "Massachusetts",
+        "stateAbbr": "MA",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 14
+    },
+    "counties": {
+        "Barnstable County": {
+            "countySeat": "Barnstable",
+            "directory": "Barnstable-County"
+        },
+        "Berkshire County": {
+            "countySeat": "Pittsfield",
+            "directory": "Berkshire-County"
+        },
+        "Bristol County": {
+            "countySeat": "Taunton",
+            "directory": "Bristol-County"
+        },
+        "Dukes County": {
+            "countySeat": "Edgartown",
+            "directory": "Dukes-County"
+        },
+        "Essex County": {
+            "countySeat": "Salem",
+            "directory": "Essex-County"
+        },
+        "Franklin County": {
+            "countySeat": "Greenfield",
+            "directory": "Franklin-County"
+        },
+        "Hampden County": {
+            "countySeat": "Springfield",
+            "directory": "Hampden-County"
+        },
+        "Hampshire County": {
+            "countySeat": "Northampton",
+            "directory": "Hampshire-County"
+        },
+        "Middlesex County": {
+            "countySeat": "Cambridge",
+            "directory": "Middlesex-County"
+        },
+        "Nantucket County": {
+            "countySeat": "Nantucket",
+            "directory": "Nantucket-County"
+        },
+        "Norfolk County": {
+            "countySeat": "Dedham",
+            "directory": "Norfolk-County"
+        },
+        "Plymouth County": {
+            "countySeat": "Plymouth",
+            "directory": "Plymouth-County"
+        },
+        "Suffolk County": {
+            "countySeat": "Boston",
+            "directory": "Suffolk-County"
+        },
+        "Worcester County": {
+            "countySeat": "Worcester",
+            "directory": "Worcester-County"
+        }
+    }
+}

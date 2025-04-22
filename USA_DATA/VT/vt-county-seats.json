@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "state": "Vermont",
+        "stateAbbr": "VT",
+        "lastUpdated": "2024-03-26",
+        "totalCounties": 14
+    },
+    "counties": {
+        "Addison County": {
+            "countySeat": "Middlebury",
+            "directory": "Addison-County"
+        },
+        "Bennington County": {
+            "countySeat": "Bennington",
+            "directory": "Bennington-County"
+        },
+        "Caledonia County": {
+            "countySeat": "St. Johnsbury",
+            "directory": "Caledonia-County"
+        },
+        "Chittenden County": {
+            "countySeat": "Burlington",
+            "directory": "Chittenden-County"
+        },
+        "Essex County": {
+            "countySeat": "Guildhall",
+            "directory": "Essex-County"
+        },
+        "Franklin County": {
+            "countySeat": "St. Albans",
+            "directory": "Franklin-County"
+        },
+        "Grand Isle County": {
+            "countySeat": "North Hero",
+            "directory": "Grand-Isle-County"
+        },
+        "Lamoille County": {
+            "countySeat": "Hyde Park",
+            "directory": "Lamoille-County"
+        },
+        "Orange County": {
+            "countySeat": "Chelsea",
+            "directory": "Orange-County"
+        },
+        "Orleans County": {
+            "countySeat": "Newport",
+            "directory": "Orleans-County"
+        },
+        "Rutland County": {
+            "countySeat": "Rutland",
+            "directory": "Rutland-County"
+        },
+        "Washington County": {
+            "countySeat": "Montpelier",
+            "directory": "Washington-County"
+        },
+        "Windham County": {
+            "countySeat": "Newfane",
+            "directory": "Windham-County"
+        },
+        "Windsor County": {
+            "countySeat": "Woodstock",
+            "directory": "Windsor-County"
+        }
+    }
+}
