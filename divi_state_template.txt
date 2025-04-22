@@ -91,7 +91,7 @@ Connect with bondsmen in [county_name_3].
 <h2>Frequently Asked Questions</h2>
 [/et_pb_text]
 [et_pb_accordion _builder_version="4.27.4" global_colors_info="{}" theme_builder_area="post_content"]
-<!-- FAQ_PLACEHOLDER -->
+<!-- FAQ_ITEMS -->
 [/et_pb_accordion]
 [/et_pb_column]
 [/et_pb_row]

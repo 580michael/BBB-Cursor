@@ -12,13 +12,25 @@ improved_page_generator_part2.py to generate state pages.
 import os
 import json
 import argparse
-from improved_page_generator_part1 import load_template, load_state_data
-from improved_page_generator_part2 import generate_page_for_state
+import sys
+import requests
+import traceback
+from improved_page_generator_part1 import load_template, load_state_data, save_state_page
+from improved_page_generator_part2 import (generate_page_for_state, update_title_sections, 
+                                          update_content_sections, update_page_title, 
+                                          update_state_specific_sections)
 
 # Constants
-BASE_DIR = "/home/ubuntu/bailbonds"
-OUTPUT_DIR = f"{BASE_DIR}/generated_pages"
-STATE_DATA_DIR = f"{BASE_DIR}/state_data"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUTPUT_DIR = os.path.join(BASE_DIR, "generated_pages")
+STATE_DATA_DIR = os.path.join(os.path.dirname(__file__), "state_data")
+TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
+TEMPLATE_ID = "1120"  # WordPress ID for the new variables-only template
+
+# WordPress API details
+WP_BASE_URL = "https://bailbondsbuddy.com"
+WP_API_URL = f"{WP_BASE_URL}/wp-json/wp/v2"
+WP_AUTH = ("bbbuddy", "DpSm eiz8 yHjx Sqqk G3lG fqU6")
 
 def save_generated_page(state_name, state_page):
     """Save the generated page as JSON"""
@@ -69,18 +81,20 @@ def save_html_preview(state_name, state_page):
         print(f"Error saving HTML preview: {e}")
         return False
 
-def test_with_sample_state():
-    """Test the script with a sample state (Texas)"""
-    print("Testing with sample state (Texas)...")
+def test_with_state(state_name):
+    """Test the script with a specified state"""
+    print(f"Testing with sample state ({state_name})...")
+    # Load the Oklahoma template
     template_json = load_template()
     if not template_json:
+        print("Failed to load Oklahoma template")
         return False
-    
-    success = generate_page_for_state("Texas", template_json)
+    # Generate page for the specified state
+    success = generate_page_for_state(state_name, template_json)
     if success:
-        print("Test successful! Texas page generated.")
+        print(f"Test successful! {state_name} page generated.")
     else:
-        print("Test failed.")
+        print(f"Test failed for {state_name}.")
     return success
 
 def generate_states_a_to_m(template_json):
@@ -130,6 +144,7 @@ def generate_all_state_pages():
     # Create output directories
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(STATE_DATA_DIR, exist_ok=True)
+    os.makedirs(TEMPLATES_DIR, exist_ok=True)
     
     # Generate pages for states A-M
     count_a_to_m = generate_states_a_to_m(template_json)
@@ -141,23 +156,145 @@ def generate_all_state_pages():
     print(f"Page generation complete! Successfully generated {total_count} out of 50 state pages.")
     return total_count
 
+def upload_to_wordpress(state_name):
+    """Upload the generated state page to WordPress as a draft"""
+    json_path = os.path.join(os.path.dirname(__file__), "generated_pages", f"{state_name.lower()}.json")
+    try:
+        with open(json_path, 'r') as f:
+            state_json = json.load(f)
+    except Exception as e:
+        print(f"Error loading {json_path}: {e}")
+        return False
+
+    # Extract content from the WordPress/Divi JSON structure
+    if not isinstance(state_json, dict) or "data" not in state_json:
+        print(f"Error: Invalid JSON structure, missing 'data' key")
+        return False
+    
+    data_keys = state_json["data"].keys()
+    if not data_keys:
+        print(f"Error: No keys found in 'data'")
+        return False
+    
+    first_key = list(data_keys)[0]
+    content = state_json["data"][first_key]
+    
+    print(f"DEBUG upload_to_wordpress: Found content in data[{first_key}], length: {len(content)}")
+    
+    # Configure page data
+    title = f"Find Local {state_name} Bail Bondsmen Near You | 24/7 Emergency Service"
+    slug = f"{state_name.lower()}-bail-bondsman-24-hour-emergency-service-nearby"
+
+    page_data = {
+        "title": title,
+        "slug": slug,
+        "content": content,
+        "status": "draft",
+        "meta": {
+            "_et_pb_page_layout": "et_no_sidebar",
+            "_et_pb_side_nav": "off",
+            "_et_pb_use_builder": "on",
+            "_wp_page_template": "page-template-blank.php"
+        }
+    }
+
+    try:
+        response = requests.post(
+            f"{WP_API_URL}/pages",
+            json=page_data,
+            auth=WP_AUTH
+        )
+        if response.status_code >= 200 and response.status_code < 300:
+            page_id = response.json().get("id")
+            page_link = response.json().get("link")
+            print(f"Success! {state_name} page created on WordPress.")
+            print(f"Page ID: {page_id}")
+            print(f"Draft URL: {WP_BASE_URL}/?page_id={page_id}")
+            print(f"Final URL (when published): {page_link}")
+            return True
+        else:
+            print(f"Error creating page: {response.status_code}")
+            print(response.text)
+            return False
+    except Exception as e:
+        print(f"Exception while creating page: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
+
+def generate_state_page(state_name, args=None):
+    """Generate a production page for a given state"""
+    print(f"Generating production page for {state_name}...")
+    
+    # Load template
+    template_json = load_template()
+    if not template_json:
+        return False
+    
+    # Load state data
+    state_data = load_state_data(state_name)
+    if not state_data:
+        print(f"Error: Could not load state data for {state_name}")
+        return False
+    
+    print(f"State data for {state_name}:")
+    print(f"  Capital: {state_data['capital']}")
+    print(f"  Population: {state_data['population']}")
+    print(f"  Cities: {', '.join(state_data['major_cities'][:3])}, and more...")
+    
+    # Update page title and content with state-specific information
+    template_json = update_page_title(template_json, state_name)
+    
+    # Update content sections with state data
+    template_json = update_content_sections(template_json, state_data)
+    
+    # Generate and update state-specific sections
+    template_json = update_state_specific_sections(template_json, state_data)
+    
+    # Save the state page
+    saved_path = save_state_page(template_json, state_name)
+    if not saved_path:
+        return False
+    
+    print(f"Generated page saved at {saved_path}")
+    
+    # Upload to WordPress if requested
+    if args and args.upload:
+        success = upload_to_wordpress(state_name)
+        if not success:
+            print("Failed to upload to WordPress")
+            return False
+    
+    return True
+
 # Main function
 if __name__ == "__main__":
-    # Parse command line arguments
-    parser = argparse.ArgumentParser(description='Generate bail bondsman pages for all 50 states')
-    parser.add_argument('--test', action='store_true', help='Test the script with a sample state (Texas)')
-    parser.add_argument('--all', action='store_true', help='Generate pages for all 50 states')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--test', nargs='?', const='Texas', default=None, help='Test with a specific state (default: Texas)')
+    parser.add_argument('--all', action='store_true', help='Generate all state pages')
+    parser.add_argument('--state', type=str, help='Generate a single state page (production mode)')
+    parser.add_argument('--upload', action='store_true', help='Upload the generated state page to WordPress as a draft')
     args = parser.parse_args()
-    
-    # Create output directories
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(STATE_DATA_DIR, exist_ok=True)
-    
-    if args.test:
-        test_with_sample_state()
+
+    if args.state:
+        state_name = args.state
+        print(f"Generating production page for {state_name}...")
+        template_json = load_template()
+        if not template_json:
+            print("Failed to load Oklahoma template")
+        else:
+            success = generate_page_for_state(state_name, template_json)
+            if success:
+                print(f"Production page for {state_name} generated.")
+                if args.upload:
+                    upload_to_wordpress(state_name)
+            else:
+                print(f"Failed to generate production page for {state_name}.")
+    elif args.test:
+        state_name = args.test
+        print(f"Testing with sample state ({state_name})...")
+        test_with_state(state_name)
     elif args.all:
         generate_all_state_pages()
     else:
-        print("Please specify either --test or --all")
-        print("  --test: Test the script with a sample state (Texas)")
-        print("  --all: Generate pages for all 50 states")
+        print("No valid arguments provided. Use --state [State], --test [State], or --all.")

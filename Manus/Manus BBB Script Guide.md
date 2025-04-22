@@ -59,17 +59,71 @@ Set up your directories as follows:
 ├── content_generator_utils_part1.py
 ├── content_generator_utils_part2.py
 ├── content_generator_utils_part3.py
-├── "Oklahoma Bail Bondsman Emergency 24_7 Service.json"  (Your template file)
+├── "Oklahoma Bail Bondsman Emergency 24_7 Service.json"  (Original template file)
+├── "Find Local [state-name] Bail Bondsmen Nearby Emergency Service.json"  (New variablized template)
 ├── generated_pages/  (Will be created automatically)
 └── state_data/  (Will be created automatically)
 ```
+
+## Template JSON File with Variables
+
+The file `Find Local [state-name] Bail Bondsmen Nearby Emergency Service.json` is a template JSON file where all content has been replaced with descriptive variables. This template is used by the Python scripts to generate state-specific pages by replacing the variables with actual state data.
+
+### Variable Structure
+
+The template uses the following variables that are replaced during page generation:
+
+#### Header Variables
+- `[MAIN_HEADER_WITH_STATE]` - Main title including state name
+- `[SECONDARY_HEADER_WITH_STATE]` - Subtitle including state name
+
+#### Map Variables
+- `[STATE_CAPITAL_MAP_ADDRESS]` - Full address of the state capital
+- `[STATE_CAPITAL_LAT]` - Latitude of the state capital
+- `[STATE_CAPITAL_LNG]` - Longitude of the state capital
+
+#### Content Section Variables
+- `[GUIDE_TITLE_WITH_STATE]` - Title for the guide section
+- `[GUIDE_SUBTITLE]` - Subtitle for the guide section
+- `[INTRO_PARAGRAPH_WITH_STATE]` - First introductory paragraph
+- `[SECOND_INTRO_PARAGRAPH_WITH_STATE]` - Second introductory paragraph
+
+#### Feature Section Variables
+- `[AVAILABILITY_PARAGRAPH_WITH_STATE]` - Content for 24/7 availability section
+- `[VERIFIED_BONDSMAN_PARAGRAPH_WITH_STATE]` - Content for verified bondsman section
+- `[NATIONWIDE_COVERAGE_PARAGRAPH_WITH_STATE]` - Content for nationwide coverage section
+
+#### County Section Variables
+- `[MAJOR_COUNTIES_HEADING_WITH_STATE]` - Heading for counties section
+- `[COUNTY_1_NAME]`, `[COUNTY_2_NAME]`, `[COUNTY_3_NAME]` - Names of major counties
+- `[COUNTY_INTRO_PARAGRAPH]` - Introduction paragraph about counties
+- `[COUNTY_SECOND_PARAGRAPH_WITH_STATE]` - Second paragraph about counties
+
+#### FAQ Section Variables
+- `[FAQ1_QUESTION_WITH_STATE]` through `[FAQ5_QUESTION_WITH_STATE]` - FAQ questions
+- `[FAQ1_ANSWER_WITH_STATE]` through `[FAQ5_ANSWER_WITH_STATE]` - FAQ answers
+
+#### State Information Variables
+- `[STATE_IMAGE_URL]` - URL to state image
+- `[STATE_NAME]` - State name
+- `[STATE_NICKNAME_HEADING]` - Heading with state nickname
+- `[STATE_INTRO_PARAGRAPH_WITH_NICKNAME]` - Intro paragraph with state nickname
+- `[STATE_METRO_PARAGRAPH_WITH_CITIES]` - Paragraph about metropolitan areas
+- `[STATE_ECONOMY_PARAGRAPH]` - Paragraph about state economy
+- `[STATE_BAIL_SYSTEM_PARAGRAPH]` - Paragraph about state bail system
+- `[STATE_CRIMINAL_JUSTICE_PARAGRAPH]` - Paragraph about criminal justice system
+- `[STATE_GEOGRAPHY_PARAGRAPH_WITH_INTERSTATES]` - Paragraph about geography
+- `[STATE_WEATHER_PARAGRAPH]` - Paragraph about weather
+- `[STATE_CONCLUSION_PARAGRAPH]` - Conclusion paragraph
+
+This template provides a consistent structure for all state pages while allowing for unique content generation for each state. The Python scripts read this template and replace all variables with state-specific content.
 
 ## How to Generate State Pages
 
 ### Step 1: Set Up Files
 
 1. Copy all six Python files to your Cursor IDE
-2. Make sure your Oklahoma template JSON file is in the same directory
+2. Make sure your template JSON files are in the same directory
 3. Create the directory structure as shown above
 
 ### Step 2: Test with Texas
@@ -81,7 +135,7 @@ python3 improved_page_generator_part3.py --test
 ```
 
 This will:
-- Generate a Texas page based on your Oklahoma template
+- Generate a Texas page based on your template
 - Create both JSON and HTML files in the `generated_pages` directory
 - Show you the results so you can verify everything looks correct
 

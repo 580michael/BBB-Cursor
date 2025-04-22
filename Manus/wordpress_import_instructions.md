@@ -46,7 +46,4 @@ After importing all state pages, you can proceed to Phase 2 of your project:
 
 ## Technical Support
 
-If you encounter any issues with the import process, you can modify the scripts in your Cursor IDE:
-- `improved_page_generator_v2.py` - Main script for generating pages
-- `content_generator_utils.py` - Utilities for generating unique content
-- `state_data_generator.py` - Script for generating state-specific data
+
